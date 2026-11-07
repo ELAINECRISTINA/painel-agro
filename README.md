@@ -34,13 +34,14 @@
 └──────────────────────┘      │  formato largo,     │     └──────▲───────┘
           │                    │  totais, 12 meses   │            │ plano B
           ▼                    └─────────────────────┘     ┌──────┴───────┐
- GitHub Actions (toda segunda) ──────────────────────────▶ │ data/ snapshot│
+ scripts/atualizar_dados.py ─────────────────────────────▶ │ data/ snapshot│
                                                            └──────────────┘
 ```
 
-- **Dados ao vivo com cache:** o app consulta as APIs e guarda o resultado por 6 horas.
-- **Plano B:** se uma API estiver fora do ar, o app usa o snapshot em `data/`, atualizado toda semana pelo GitHub Actions (que também roda os testes antes).
-- **Tratamentos:** soma das safras de milho e feijão em um total com rendimento recalculado; inflação acumulada em 12 meses; participação dos estados no total nacional.
+- **Dados ao vivo com cache:** o app tenta as APIs com uma consulta rápida e guarda o resultado por 6 horas.
+- **Plano B:** se a API não responder, o app usa o snapshot versionado em `data/`. Isso é importante porque as APIs do IBGE costumam recusar acessos de fora do Brasil, e servidores de hospedagem como o Streamlit Community Cloud ficam no exterior.
+- **Qualidade:** testes automatizados com `pytest`, executados pelo GitHub Actions a cada push.
+- **Tratamentos:** soma das safras de milho e feijão e das espécies de café (arábica + canéfora) em um total com rendimento recalculado; inflação acumulada em 12 meses; participação dos estados no total nacional.
 
 ## 📚 Fontes
 
@@ -61,7 +62,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Testes e atualização manual do snapshot:
+Testes e atualização do snapshot (rode de uma conexão no Brasil e faça commit da pasta `data/`):
 
 ```bash
 python -m pytest
