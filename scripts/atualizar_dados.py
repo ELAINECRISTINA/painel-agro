@@ -1,6 +1,7 @@
 """Atualiza o snapshot em data/ (usado quando as APIs estiverem fora do ar).
 
-Executado semanalmente pelo GitHub Actions (.github/workflows/atualizar-dados.yml).
+Rode de uma máquina no Brasil (as APIs do IBGE costumam bloquear acessos do exterior)
+e depois faça commit da pasta data/.
 Uso local:  python scripts/atualizar_dados.py
 """
 from __future__ import annotations
