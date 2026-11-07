@@ -3079,6 +3079,622 @@ periodo,cod_local,local,nivel,cultura,variavel,valor
 202412,53,Distrito Federal,N3,Trigo,producao_t,19140
 202512,53,Distrito Federal,N3,Trigo,producao_t,17400
 202609,53,Distrito Federal,N3,Trigo,producao_t,29772
+201612,1,Brasil,N1,Café arábica,producao_t,2586188
+201712,1,Brasil,N1,Café arábica,producao_t,2095275
+201812,1,Brasil,N1,Café arábica,producao_t,2693622
+201912,1,Brasil,N1,Café arábica,producao_t,2072728
+202012,1,Brasil,N1,Café arábica,producao_t,2859485
+202112,1,Brasil,N1,Café arábica,producao_t,1922222
+202212,1,Brasil,N1,Café arábica,producao_t,2035314
+202312,1,Brasil,N1,Café arábica,producao_t,2367777
+202412,1,Brasil,N1,Café arábica,producao_t,2401279
+202512,1,Brasil,N1,Café arábica,producao_t,2193735
+202609,1,Brasil,N1,Café arábica,producao_t,2776900
+201612,11,Rondônia,N3,Café arábica,producao_t,
+201712,11,Rondônia,N3,Café arábica,producao_t,
+201812,11,Rondônia,N3,Café arábica,producao_t,
+201912,11,Rondônia,N3,Café arábica,producao_t,
+202012,11,Rondônia,N3,Café arábica,producao_t,
+202112,11,Rondônia,N3,Café arábica,producao_t,
+202212,11,Rondônia,N3,Café arábica,producao_t,
+202312,11,Rondônia,N3,Café arábica,producao_t,
+202412,11,Rondônia,N3,Café arábica,producao_t,
+202512,11,Rondônia,N3,Café arábica,producao_t,
+202609,11,Rondônia,N3,Café arábica,producao_t,
+201612,12,Acre,N3,Café arábica,producao_t,
+201712,12,Acre,N3,Café arábica,producao_t,
+201812,12,Acre,N3,Café arábica,producao_t,
+201912,12,Acre,N3,Café arábica,producao_t,
+202012,12,Acre,N3,Café arábica,producao_t,
+202112,12,Acre,N3,Café arábica,producao_t,
+202212,12,Acre,N3,Café arábica,producao_t,
+202312,12,Acre,N3,Café arábica,producao_t,
+202412,12,Acre,N3,Café arábica,producao_t,
+202512,12,Acre,N3,Café arábica,producao_t,
+202609,12,Acre,N3,Café arábica,producao_t,
+201612,13,Amazonas,N3,Café arábica,producao_t,1835
+201712,13,Amazonas,N3,Café arábica,producao_t,1835
+201812,13,Amazonas,N3,Café arábica,producao_t,1835
+201912,13,Amazonas,N3,Café arábica,producao_t,1836
+202012,13,Amazonas,N3,Café arábica,producao_t,1836
+202112,13,Amazonas,N3,Café arábica,producao_t,1836
+202212,13,Amazonas,N3,Café arábica,producao_t,1836
+202312,13,Amazonas,N3,Café arábica,producao_t,
+202412,13,Amazonas,N3,Café arábica,producao_t,
+202512,13,Amazonas,N3,Café arábica,producao_t,
+202609,13,Amazonas,N3,Café arábica,producao_t,
+201612,14,Roraima,N3,Café arábica,producao_t,
+201712,14,Roraima,N3,Café arábica,producao_t,
+201812,14,Roraima,N3,Café arábica,producao_t,
+201912,14,Roraima,N3,Café arábica,producao_t,
+202012,14,Roraima,N3,Café arábica,producao_t,
+202112,14,Roraima,N3,Café arábica,producao_t,
+202212,14,Roraima,N3,Café arábica,producao_t,
+202312,14,Roraima,N3,Café arábica,producao_t,
+202412,14,Roraima,N3,Café arábica,producao_t,
+202512,14,Roraima,N3,Café arábica,producao_t,
+202609,14,Roraima,N3,Café arábica,producao_t,
+201612,15,Pará,N3,Café arábica,producao_t,
+201712,15,Pará,N3,Café arábica,producao_t,
+201812,15,Pará,N3,Café arábica,producao_t,
+201912,15,Pará,N3,Café arábica,producao_t,
+202012,15,Pará,N3,Café arábica,producao_t,
+202112,15,Pará,N3,Café arábica,producao_t,
+202212,15,Pará,N3,Café arábica,producao_t,
+202312,15,Pará,N3,Café arábica,producao_t,
+202412,15,Pará,N3,Café arábica,producao_t,
+202512,15,Pará,N3,Café arábica,producao_t,
+202609,15,Pará,N3,Café arábica,producao_t,
+201612,16,Amapá,N3,Café arábica,producao_t,
+201712,16,Amapá,N3,Café arábica,producao_t,
+201812,16,Amapá,N3,Café arábica,producao_t,
+201912,16,Amapá,N3,Café arábica,producao_t,
+202012,16,Amapá,N3,Café arábica,producao_t,
+202112,16,Amapá,N3,Café arábica,producao_t,
+202212,16,Amapá,N3,Café arábica,producao_t,
+202312,16,Amapá,N3,Café arábica,producao_t,
+202412,16,Amapá,N3,Café arábica,producao_t,
+202512,16,Amapá,N3,Café arábica,producao_t,
+202609,16,Amapá,N3,Café arábica,producao_t,
+201612,17,Tocantins,N3,Café arábica,producao_t,
+201712,17,Tocantins,N3,Café arábica,producao_t,
+201812,17,Tocantins,N3,Café arábica,producao_t,
+201912,17,Tocantins,N3,Café arábica,producao_t,
+202012,17,Tocantins,N3,Café arábica,producao_t,
+202112,17,Tocantins,N3,Café arábica,producao_t,
+202212,17,Tocantins,N3,Café arábica,producao_t,
+202312,17,Tocantins,N3,Café arábica,producao_t,
+202412,17,Tocantins,N3,Café arábica,producao_t,
+202512,17,Tocantins,N3,Café arábica,producao_t,
+202609,17,Tocantins,N3,Café arábica,producao_t,
+201612,21,Maranhão,N3,Café arábica,producao_t,
+201712,21,Maranhão,N3,Café arábica,producao_t,
+201812,21,Maranhão,N3,Café arábica,producao_t,
+201912,21,Maranhão,N3,Café arábica,producao_t,
+202012,21,Maranhão,N3,Café arábica,producao_t,
+202112,21,Maranhão,N3,Café arábica,producao_t,
+202212,21,Maranhão,N3,Café arábica,producao_t,
+202312,21,Maranhão,N3,Café arábica,producao_t,
+202412,21,Maranhão,N3,Café arábica,producao_t,
+202512,21,Maranhão,N3,Café arábica,producao_t,
+202609,21,Maranhão,N3,Café arábica,producao_t,
+201612,22,Piauí,N3,Café arábica,producao_t,
+201712,22,Piauí,N3,Café arábica,producao_t,
+201812,22,Piauí,N3,Café arábica,producao_t,
+201912,22,Piauí,N3,Café arábica,producao_t,
+202012,22,Piauí,N3,Café arábica,producao_t,
+202112,22,Piauí,N3,Café arábica,producao_t,
+202212,22,Piauí,N3,Café arábica,producao_t,
+202312,22,Piauí,N3,Café arábica,producao_t,
+202412,22,Piauí,N3,Café arábica,producao_t,
+202512,22,Piauí,N3,Café arábica,producao_t,
+202609,22,Piauí,N3,Café arábica,producao_t,
+201612,23,Ceará,N3,Café arábica,producao_t,747
+201712,23,Ceará,N3,Café arábica,producao_t,663
+201812,23,Ceará,N3,Café arábica,producao_t,628
+201912,23,Ceará,N3,Café arábica,producao_t,488
+202012,23,Ceará,N3,Café arábica,producao_t,463
+202112,23,Ceará,N3,Café arábica,producao_t,442
+202212,23,Ceará,N3,Café arábica,producao_t,437
+202312,23,Ceará,N3,Café arábica,producao_t,481
+202412,23,Ceará,N3,Café arábica,producao_t,496
+202512,23,Ceará,N3,Café arábica,producao_t,598
+202609,23,Ceará,N3,Café arábica,producao_t,489
+201612,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+201712,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+201812,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+201912,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+202012,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+202112,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+202212,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+202312,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+202412,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+202512,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+202609,24,Rio Grande do Norte,N3,Café arábica,producao_t,
+201612,25,Paraíba,N3,Café arábica,producao_t,
+201712,25,Paraíba,N3,Café arábica,producao_t,
+201812,25,Paraíba,N3,Café arábica,producao_t,
+201912,25,Paraíba,N3,Café arábica,producao_t,
+202012,25,Paraíba,N3,Café arábica,producao_t,
+202112,25,Paraíba,N3,Café arábica,producao_t,
+202212,25,Paraíba,N3,Café arábica,producao_t,
+202312,25,Paraíba,N3,Café arábica,producao_t,
+202412,25,Paraíba,N3,Café arábica,producao_t,
+202512,25,Paraíba,N3,Café arábica,producao_t,
+202609,25,Paraíba,N3,Café arábica,producao_t,
+201612,26,Pernambuco,N3,Café arábica,producao_t,374
+201712,26,Pernambuco,N3,Café arábica,producao_t,869
+201812,26,Pernambuco,N3,Café arábica,producao_t,726
+201912,26,Pernambuco,N3,Café arábica,producao_t,583
+202012,26,Pernambuco,N3,Café arábica,producao_t,167
+202112,26,Pernambuco,N3,Café arábica,producao_t,283
+202212,26,Pernambuco,N3,Café arábica,producao_t,491
+202312,26,Pernambuco,N3,Café arábica,producao_t,255
+202412,26,Pernambuco,N3,Café arábica,producao_t,440
+202512,26,Pernambuco,N3,Café arábica,producao_t,399
+202609,26,Pernambuco,N3,Café arábica,producao_t,405
+201612,27,Alagoas,N3,Café arábica,producao_t,
+201712,27,Alagoas,N3,Café arábica,producao_t,
+201812,27,Alagoas,N3,Café arábica,producao_t,
+201912,27,Alagoas,N3,Café arábica,producao_t,
+202012,27,Alagoas,N3,Café arábica,producao_t,
+202112,27,Alagoas,N3,Café arábica,producao_t,
+202212,27,Alagoas,N3,Café arábica,producao_t,
+202312,27,Alagoas,N3,Café arábica,producao_t,
+202412,27,Alagoas,N3,Café arábica,producao_t,
+202512,27,Alagoas,N3,Café arábica,producao_t,
+202609,27,Alagoas,N3,Café arábica,producao_t,
+201612,28,Sergipe,N3,Café arábica,producao_t,
+201712,28,Sergipe,N3,Café arábica,producao_t,
+201812,28,Sergipe,N3,Café arábica,producao_t,
+201912,28,Sergipe,N3,Café arábica,producao_t,
+202012,28,Sergipe,N3,Café arábica,producao_t,
+202112,28,Sergipe,N3,Café arábica,producao_t,
+202212,28,Sergipe,N3,Café arábica,producao_t,
+202312,28,Sergipe,N3,Café arábica,producao_t,
+202412,28,Sergipe,N3,Café arábica,producao_t,
+202512,28,Sergipe,N3,Café arábica,producao_t,
+202609,28,Sergipe,N3,Café arábica,producao_t,
+201612,29,Bahia,N3,Café arábica,producao_t,88720
+201712,29,Bahia,N3,Café arábica,producao_t,60960
+201812,29,Bahia,N3,Café arábica,producao_t,108840
+201912,29,Bahia,N3,Café arábica,producao_t,72420
+202012,29,Bahia,N3,Café arábica,producao_t,120500
+202112,29,Bahia,N3,Café arábica,producao_t,74000
+202212,29,Bahia,N3,Café arábica,producao_t,100500
+202312,29,Bahia,N3,Café arábica,producao_t,100680
+202412,29,Bahia,N3,Café arábica,producao_t,104040
+202512,29,Bahia,N3,Café arábica,producao_t,88800
+202609,29,Bahia,N3,Café arábica,producao_t,84000
+201612,31,Minas Gerais,N3,Café arábica,producao_t,1817883
+201712,31,Minas Gerais,N3,Café arábica,producao_t,1483459
+201812,31,Minas Gerais,N3,Café arábica,producao_t,1888215
+201912,31,Minas Gerais,N3,Café arábica,producao_t,1482922
+202012,31,Minas Gerais,N3,Café arábica,producao_t,2044365
+202112,31,Minas Gerais,N3,Café arábica,producao_t,1343980
+202212,31,Minas Gerais,N3,Café arábica,producao_t,1373871
+202312,31,Minas Gerais,N3,Café arábica,producao_t,1714053
+202412,31,Minas Gerais,N3,Café arábica,producao_t,1663992
+202512,31,Minas Gerais,N3,Café arábica,producao_t,1534566
+202609,31,Minas Gerais,N3,Café arábica,producao_t,2038064
+201612,32,Espírito Santo,N3,Café arábica,producao_t,211359
+201712,32,Espírito Santo,N3,Café arábica,producao_t,178880
+201812,32,Espírito Santo,N3,Café arábica,producao_t,225384
+201912,32,Espírito Santo,N3,Café arábica,producao_t,151352
+202012,32,Espírito Santo,N3,Café arábica,producao_t,225690
+202112,32,Espírito Santo,N3,Café arábica,producao_t,155234
+202212,32,Espírito Santo,N3,Café arábica,producao_t,221994
+202312,32,Espírito Santo,N3,Café arábica,producao_t,170559
+202412,32,Espírito Santo,N3,Café arábica,producao_t,217325
+202512,32,Espírito Santo,N3,Café arábica,producao_t,198429
+202609,32,Espírito Santo,N3,Café arábica,producao_t,228900
+201612,33,Rio de Janeiro,N3,Café arábica,producao_t,19121
+201712,33,Rio de Janeiro,N3,Café arábica,producao_t,21201
+201812,33,Rio de Janeiro,N3,Café arábica,producao_t,18725
+201912,33,Rio de Janeiro,N3,Café arábica,producao_t,20456
+202012,33,Rio de Janeiro,N3,Café arábica,producao_t,21443
+202112,33,Rio de Janeiro,N3,Café arábica,producao_t,17404
+202212,33,Rio de Janeiro,N3,Café arábica,producao_t,20267
+202312,33,Rio de Janeiro,N3,Café arábica,producao_t,20321
+202412,33,Rio de Janeiro,N3,Café arábica,producao_t,19516
+202512,33,Rio de Janeiro,N3,Café arábica,producao_t,23884
+202609,33,Rio de Janeiro,N3,Café arábica,producao_t,24379
+201612,35,São Paulo,N3,Café arábica,producao_t,364260
+201712,35,São Paulo,N3,Café arábica,producao_t,259698
+201812,35,São Paulo,N3,Café arábica,producao_t,374004
+201912,35,São Paulo,N3,Café arábica,producao_t,264900
+202012,35,São Paulo,N3,Café arábica,producao_t,369510
+202112,35,São Paulo,N3,Café arábica,producao_t,258900
+202212,35,São Paulo,N3,Café arábica,producao_t,266028
+202312,35,São Paulo,N3,Café arábica,producao_t,300794
+202412,35,São Paulo,N3,Café arábica,producao_t,337112
+202512,35,São Paulo,N3,Café arábica,producao_t,284394
+202609,35,São Paulo,N3,Café arábica,producao_t,334500
+201612,41,Paraná,N3,Café arábica,producao_t,62791
+201712,41,Paraná,N3,Café arábica,producao_t,71530
+201812,41,Paraná,N3,Café arábica,producao_t,56706
+201912,41,Paraná,N3,Café arábica,producao_t,56500
+202012,41,Paraná,N3,Café arábica,producao_t,56400
+202112,41,Paraná,N3,Café arábica,producao_t,52600
+202212,41,Paraná,N3,Café arábica,producao_t,33100
+202312,41,Paraná,N3,Café arábica,producao_t,43800
+202412,41,Paraná,N3,Café arábica,producao_t,40400
+202512,41,Paraná,N3,Café arábica,producao_t,44800
+202609,41,Paraná,N3,Café arábica,producao_t,44600
+201612,42,Santa Catarina,N3,Café arábica,producao_t,
+201712,42,Santa Catarina,N3,Café arábica,producao_t,
+201812,42,Santa Catarina,N3,Café arábica,producao_t,
+201912,42,Santa Catarina,N3,Café arábica,producao_t,
+202012,42,Santa Catarina,N3,Café arábica,producao_t,
+202112,42,Santa Catarina,N3,Café arábica,producao_t,
+202212,42,Santa Catarina,N3,Café arábica,producao_t,
+202312,42,Santa Catarina,N3,Café arábica,producao_t,
+202412,42,Santa Catarina,N3,Café arábica,producao_t,
+202512,42,Santa Catarina,N3,Café arábica,producao_t,
+202609,42,Santa Catarina,N3,Café arábica,producao_t,
+201612,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+201712,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+201812,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+201912,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+202012,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+202112,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+202212,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+202312,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+202412,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+202512,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+202609,43,Rio Grande do Sul,N3,Café arábica,producao_t,
+201612,50,Mato Grosso do Sul,N3,Café arábica,producao_t,448
+201712,50,Mato Grosso do Sul,N3,Café arábica,producao_t,464
+201812,50,Mato Grosso do Sul,N3,Café arábica,producao_t,236
+201912,50,Mato Grosso do Sul,N3,Café arábica,producao_t,290
+202012,50,Mato Grosso do Sul,N3,Café arábica,producao_t,181
+202112,50,Mato Grosso do Sul,N3,Café arábica,producao_t,231
+202212,50,Mato Grosso do Sul,N3,Café arábica,producao_t,66
+202312,50,Mato Grosso do Sul,N3,Café arábica,producao_t,292
+202412,50,Mato Grosso do Sul,N3,Café arábica,producao_t,77
+202512,50,Mato Grosso do Sul,N3,Café arábica,producao_t,99
+202609,50,Mato Grosso do Sul,N3,Café arábica,producao_t,209
+201612,51,Mato Grosso,N3,Café arábica,producao_t,83
+201712,51,Mato Grosso,N3,Café arábica,producao_t,101
+201812,51,Mato Grosso,N3,Café arábica,producao_t,146
+201912,51,Mato Grosso,N3,Café arábica,producao_t,283
+202012,51,Mato Grosso,N3,Café arábica,producao_t,211
+202112,51,Mato Grosso,N3,Café arábica,producao_t,32
+202212,51,Mato Grosso,N3,Café arábica,producao_t,32
+202312,51,Mato Grosso,N3,Café arábica,producao_t,38
+202412,51,Mato Grosso,N3,Café arábica,producao_t,25
+202512,51,Mato Grosso,N3,Café arábica,producao_t,35
+202609,51,Mato Grosso,N3,Café arábica,producao_t,33
+201612,52,Goiás,N3,Café arábica,producao_t,17301
+201712,52,Goiás,N3,Café arábica,producao_t,14647
+201812,52,Goiás,N3,Café arábica,producao_t,17625
+201912,52,Goiás,N3,Café arábica,producao_t,19591
+202012,52,Goiás,N3,Café arábica,producao_t,17923
+202112,52,Goiás,N3,Café arábica,producao_t,16344
+202212,52,Goiás,N3,Café arábica,producao_t,15904
+202312,52,Goiás,N3,Café arábica,producao_t,15570
+202412,52,Goiás,N3,Café arábica,producao_t,16758
+202512,52,Goiás,N3,Café arábica,producao_t,16715
+202609,52,Goiás,N3,Café arábica,producao_t,20420
+201612,53,Distrito Federal,N3,Café arábica,producao_t,1266
+201712,53,Distrito Federal,N3,Café arábica,producao_t,968
+201812,53,Distrito Federal,N3,Café arábica,producao_t,552
+201912,53,Distrito Federal,N3,Café arábica,producao_t,1107
+202012,53,Distrito Federal,N3,Café arábica,producao_t,796
+202112,53,Distrito Federal,N3,Café arábica,producao_t,936
+202212,53,Distrito Federal,N3,Café arábica,producao_t,788
+202312,53,Distrito Federal,N3,Café arábica,producao_t,934
+202412,53,Distrito Federal,N3,Café arábica,producao_t,1098
+202512,53,Distrito Federal,N3,Café arábica,producao_t,1016
+202609,53,Distrito Federal,N3,Café arábica,producao_t,901
+201612,1,Brasil,N1,Café canéfora,producao_t,468486
+201712,1,Brasil,N1,Café canéfora,producao_t,681346
+201812,1,Brasil,N1,Café canéfora,producao_t,899543
+201912,1,Brasil,N1,Café canéfora,producao_t,922836
+202012,1,Brasil,N1,Café canéfora,producao_t,865482
+202112,1,Brasil,N1,Café canéfora,producao_t,1018281
+202212,1,Brasil,N1,Café canéfora,producao_t,1104313
+202312,1,Brasil,N1,Café canéfora,producao_t,1050777
+202412,1,Brasil,N1,Café canéfora,producao_t,1024120
+202512,1,Brasil,N1,Café canéfora,producao_t,1258674
+202609,1,Brasil,N1,Café canéfora,producao_t,1301868
+201612,11,Rondônia,N3,Café canéfora,producao_t,90332
+201712,11,Rondônia,N3,Café canéfora,producao_t,146474
+201812,11,Rondônia,N3,Café canéfora,producao_t,139153
+201912,11,Rondônia,N3,Café canéfora,producao_t,145041
+202012,11,Rondônia,N3,Café canéfora,producao_t,144439
+202112,11,Rondônia,N3,Café canéfora,producao_t,171348
+202212,11,Rondônia,N3,Café canéfora,producao_t,201574
+202312,11,Rondônia,N3,Café canéfora,producao_t,223903
+202412,11,Rondônia,N3,Café canéfora,producao_t,170235
+202512,11,Rondônia,N3,Café canéfora,producao_t,165744
+202609,11,Rondônia,N3,Café canéfora,producao_t,176076
+201612,12,Acre,N3,Café canéfora,producao_t,2171
+201712,12,Acre,N3,Café canéfora,producao_t,2404
+201812,12,Acre,N3,Café canéfora,producao_t,1937
+201912,12,Acre,N3,Café canéfora,producao_t,1726
+202012,12,Acre,N3,Café canéfora,producao_t,2141
+202112,12,Acre,N3,Café canéfora,producao_t,2490
+202212,12,Acre,N3,Café canéfora,producao_t,2502
+202312,12,Acre,N3,Café canéfora,producao_t,2858
+202412,12,Acre,N3,Café canéfora,producao_t,3079
+202512,12,Acre,N3,Café canéfora,producao_t,6632
+202609,12,Acre,N3,Café canéfora,producao_t,8125
+201612,13,Amazonas,N3,Café canéfora,producao_t,1835
+201712,13,Amazonas,N3,Café canéfora,producao_t,2679
+201812,13,Amazonas,N3,Café canéfora,producao_t,2679
+201912,13,Amazonas,N3,Café canéfora,producao_t,2679
+202012,13,Amazonas,N3,Café canéfora,producao_t,2679
+202112,13,Amazonas,N3,Café canéfora,producao_t,2679
+202212,13,Amazonas,N3,Café canéfora,producao_t,2679
+202312,13,Amazonas,N3,Café canéfora,producao_t,780
+202412,13,Amazonas,N3,Café canéfora,producao_t,897
+202512,13,Amazonas,N3,Café canéfora,producao_t,2408
+202609,13,Amazonas,N3,Café canéfora,producao_t,1613
+201612,14,Roraima,N3,Café canéfora,producao_t,
+201712,14,Roraima,N3,Café canéfora,producao_t,
+201812,14,Roraima,N3,Café canéfora,producao_t,
+201912,14,Roraima,N3,Café canéfora,producao_t,
+202012,14,Roraima,N3,Café canéfora,producao_t,
+202112,14,Roraima,N3,Café canéfora,producao_t,
+202212,14,Roraima,N3,Café canéfora,producao_t,
+202312,14,Roraima,N3,Café canéfora,producao_t,
+202412,14,Roraima,N3,Café canéfora,producao_t,
+202512,14,Roraima,N3,Café canéfora,producao_t,
+202609,14,Roraima,N3,Café canéfora,producao_t,
+201612,15,Pará,N3,Café canéfora,producao_t,424
+201712,15,Pará,N3,Café canéfora,producao_t,384
+201812,15,Pará,N3,Café canéfora,producao_t,282
+201912,15,Pará,N3,Café canéfora,producao_t,245
+202012,15,Pará,N3,Café canéfora,producao_t,231
+202112,15,Pará,N3,Café canéfora,producao_t,228
+202212,15,Pará,N3,Café canéfora,producao_t,184
+202312,15,Pará,N3,Café canéfora,producao_t,179
+202412,15,Pará,N3,Café canéfora,producao_t,106
+202512,15,Pará,N3,Café canéfora,producao_t,134
+202609,15,Pará,N3,Café canéfora,producao_t,172
+201612,16,Amapá,N3,Café canéfora,producao_t,
+201712,16,Amapá,N3,Café canéfora,producao_t,
+201812,16,Amapá,N3,Café canéfora,producao_t,
+201912,16,Amapá,N3,Café canéfora,producao_t,
+202012,16,Amapá,N3,Café canéfora,producao_t,
+202112,16,Amapá,N3,Café canéfora,producao_t,
+202212,16,Amapá,N3,Café canéfora,producao_t,
+202312,16,Amapá,N3,Café canéfora,producao_t,
+202412,16,Amapá,N3,Café canéfora,producao_t,
+202512,16,Amapá,N3,Café canéfora,producao_t,
+202609,16,Amapá,N3,Café canéfora,producao_t,
+201612,17,Tocantins,N3,Café canéfora,producao_t,
+201712,17,Tocantins,N3,Café canéfora,producao_t,
+201812,17,Tocantins,N3,Café canéfora,producao_t,
+201912,17,Tocantins,N3,Café canéfora,producao_t,
+202012,17,Tocantins,N3,Café canéfora,producao_t,
+202112,17,Tocantins,N3,Café canéfora,producao_t,
+202212,17,Tocantins,N3,Café canéfora,producao_t,
+202312,17,Tocantins,N3,Café canéfora,producao_t,
+202412,17,Tocantins,N3,Café canéfora,producao_t,
+202512,17,Tocantins,N3,Café canéfora,producao_t,
+202609,17,Tocantins,N3,Café canéfora,producao_t,
+201612,21,Maranhão,N3,Café canéfora,producao_t,
+201712,21,Maranhão,N3,Café canéfora,producao_t,
+201812,21,Maranhão,N3,Café canéfora,producao_t,
+201912,21,Maranhão,N3,Café canéfora,producao_t,
+202012,21,Maranhão,N3,Café canéfora,producao_t,
+202112,21,Maranhão,N3,Café canéfora,producao_t,
+202212,21,Maranhão,N3,Café canéfora,producao_t,
+202312,21,Maranhão,N3,Café canéfora,producao_t,
+202412,21,Maranhão,N3,Café canéfora,producao_t,
+202512,21,Maranhão,N3,Café canéfora,producao_t,
+202609,21,Maranhão,N3,Café canéfora,producao_t,
+201612,22,Piauí,N3,Café canéfora,producao_t,
+201712,22,Piauí,N3,Café canéfora,producao_t,
+201812,22,Piauí,N3,Café canéfora,producao_t,
+201912,22,Piauí,N3,Café canéfora,producao_t,
+202012,22,Piauí,N3,Café canéfora,producao_t,
+202112,22,Piauí,N3,Café canéfora,producao_t,
+202212,22,Piauí,N3,Café canéfora,producao_t,
+202312,22,Piauí,N3,Café canéfora,producao_t,
+202412,22,Piauí,N3,Café canéfora,producao_t,
+202512,22,Piauí,N3,Café canéfora,producao_t,
+202609,22,Piauí,N3,Café canéfora,producao_t,
+201612,23,Ceará,N3,Café canéfora,producao_t,28
+201712,23,Ceará,N3,Café canéfora,producao_t,25
+201812,23,Ceará,N3,Café canéfora,producao_t,40
+201912,23,Ceará,N3,Café canéfora,producao_t,52
+202012,23,Ceará,N3,Café canéfora,producao_t,50
+202112,23,Ceará,N3,Café canéfora,producao_t,41
+202212,23,Ceará,N3,Café canéfora,producao_t,11
+202312,23,Ceará,N3,Café canéfora,producao_t,13
+202412,23,Ceará,N3,Café canéfora,producao_t,15
+202512,23,Ceará,N3,Café canéfora,producao_t,17
+202609,23,Ceará,N3,Café canéfora,producao_t,11
+201612,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+201712,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+201812,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+201912,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+202012,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+202112,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+202212,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+202312,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+202412,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+202512,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+202609,24,Rio Grande do Norte,N3,Café canéfora,producao_t,
+201612,25,Paraíba,N3,Café canéfora,producao_t,
+201712,25,Paraíba,N3,Café canéfora,producao_t,
+201812,25,Paraíba,N3,Café canéfora,producao_t,
+201912,25,Paraíba,N3,Café canéfora,producao_t,
+202012,25,Paraíba,N3,Café canéfora,producao_t,
+202112,25,Paraíba,N3,Café canéfora,producao_t,
+202212,25,Paraíba,N3,Café canéfora,producao_t,
+202312,25,Paraíba,N3,Café canéfora,producao_t,
+202412,25,Paraíba,N3,Café canéfora,producao_t,
+202512,25,Paraíba,N3,Café canéfora,producao_t,
+202609,25,Paraíba,N3,Café canéfora,producao_t,
+201612,26,Pernambuco,N3,Café canéfora,producao_t,
+201712,26,Pernambuco,N3,Café canéfora,producao_t,
+201812,26,Pernambuco,N3,Café canéfora,producao_t,
+201912,26,Pernambuco,N3,Café canéfora,producao_t,
+202012,26,Pernambuco,N3,Café canéfora,producao_t,
+202112,26,Pernambuco,N3,Café canéfora,producao_t,
+202212,26,Pernambuco,N3,Café canéfora,producao_t,
+202312,26,Pernambuco,N3,Café canéfora,producao_t,
+202412,26,Pernambuco,N3,Café canéfora,producao_t,
+202512,26,Pernambuco,N3,Café canéfora,producao_t,
+202609,26,Pernambuco,N3,Café canéfora,producao_t,
+201612,27,Alagoas,N3,Café canéfora,producao_t,
+201712,27,Alagoas,N3,Café canéfora,producao_t,
+201812,27,Alagoas,N3,Café canéfora,producao_t,
+201912,27,Alagoas,N3,Café canéfora,producao_t,
+202012,27,Alagoas,N3,Café canéfora,producao_t,
+202112,27,Alagoas,N3,Café canéfora,producao_t,
+202212,27,Alagoas,N3,Café canéfora,producao_t,
+202312,27,Alagoas,N3,Café canéfora,producao_t,
+202412,27,Alagoas,N3,Café canéfora,producao_t,
+202512,27,Alagoas,N3,Café canéfora,producao_t,
+202609,27,Alagoas,N3,Café canéfora,producao_t,
+201612,28,Sergipe,N3,Café canéfora,producao_t,
+201712,28,Sergipe,N3,Café canéfora,producao_t,
+201812,28,Sergipe,N3,Café canéfora,producao_t,
+201912,28,Sergipe,N3,Café canéfora,producao_t,
+202012,28,Sergipe,N3,Café canéfora,producao_t,
+202112,28,Sergipe,N3,Café canéfora,producao_t,
+202212,28,Sergipe,N3,Café canéfora,producao_t,
+202312,28,Sergipe,N3,Café canéfora,producao_t,
+202412,28,Sergipe,N3,Café canéfora,producao_t,
+202512,28,Sergipe,N3,Café canéfora,producao_t,
+202609,28,Sergipe,N3,Café canéfora,producao_t,
+201612,29,Bahia,N3,Café canéfora,producao_t,45877
+201712,29,Bahia,N3,Café canéfora,producao_t,121380
+201812,29,Bahia,N3,Café canéfora,producao_t,140400
+201912,29,Bahia,N3,Café canéfora,producao_t,108090
+202012,29,Bahia,N3,Café canéfora,producao_t,125520
+202112,29,Bahia,N3,Café canéfora,producao_t,133000
+202212,29,Bahia,N3,Café canéfora,producao_t,133000
+202312,29,Bahia,N3,Café canéfora,producao_t,145920
+202412,29,Bahia,N3,Café canéfora,producao_t,144900
+202512,29,Bahia,N3,Café canéfora,producao_t,172800
+202609,29,Bahia,N3,Café canéfora,producao_t,186624
+201612,31,Minas Gerais,N3,Café canéfora,producao_t,18056
+201712,31,Minas Gerais,N3,Café canéfora,producao_t,22283
+201812,31,Minas Gerais,N3,Café canéfora,producao_t,16455
+201912,31,Minas Gerais,N3,Café canéfora,producao_t,17819
+202012,31,Minas Gerais,N3,Café canéfora,producao_t,20322
+202112,31,Minas Gerais,N3,Café canéfora,producao_t,15848
+202212,31,Minas Gerais,N3,Café canéfora,producao_t,23399
+202312,31,Minas Gerais,N3,Café canéfora,producao_t,21355
+202412,31,Minas Gerais,N3,Café canéfora,producao_t,23337
+202512,31,Minas Gerais,N3,Café canéfora,producao_t,29398
+202609,31,Minas Gerais,N3,Café canéfora,producao_t,38969
+201612,32,Espírito Santo,N3,Café canéfora,producao_t,304008
+201712,32,Espírito Santo,N3,Café canéfora,producao_t,379119
+201812,32,Espírito Santo,N3,Café canéfora,producao_t,591487
+201912,32,Espírito Santo,N3,Café canéfora,producao_t,637454
+202012,32,Espírito Santo,N3,Café canéfora,producao_t,561938
+202112,32,Espírito Santo,N3,Café canéfora,producao_t,686126
+202212,32,Espírito Santo,N3,Café canéfora,producao_t,730730
+202312,32,Espírito Santo,N3,Café canéfora,producao_t,644084
+202412,32,Espírito Santo,N3,Café canéfora,producao_t,669691
+202512,32,Espírito Santo,N3,Café canéfora,producao_t,871354
+202609,32,Espírito Santo,N3,Café canéfora,producao_t,871117
+201612,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+201712,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+201812,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+201912,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+202012,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+202112,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+202212,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+202312,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+202412,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+202512,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+202609,33,Rio de Janeiro,N3,Café canéfora,producao_t,
+201612,35,São Paulo,N3,Café canéfora,producao_t,53
+201712,35,São Paulo,N3,Café canéfora,producao_t,43
+201812,35,São Paulo,N3,Café canéfora,producao_t,293
+201912,35,São Paulo,N3,Café canéfora,producao_t,311
+202012,35,São Paulo,N3,Café canéfora,producao_t,88
+202112,35,São Paulo,N3,Café canéfora,producao_t,88
+202212,35,São Paulo,N3,Café canéfora,producao_t,918
+202312,35,São Paulo,N3,Café canéfora,producao_t,125
+202412,35,São Paulo,N3,Café canéfora,producao_t,123
+202512,35,São Paulo,N3,Café canéfora,producao_t,163
+202609,35,São Paulo,N3,Café canéfora,producao_t,175
+201612,41,Paraná,N3,Café canéfora,producao_t,
+201712,41,Paraná,N3,Café canéfora,producao_t,
+201812,41,Paraná,N3,Café canéfora,producao_t,
+201912,41,Paraná,N3,Café canéfora,producao_t,
+202012,41,Paraná,N3,Café canéfora,producao_t,
+202112,41,Paraná,N3,Café canéfora,producao_t,
+202212,41,Paraná,N3,Café canéfora,producao_t,
+202312,41,Paraná,N3,Café canéfora,producao_t,
+202412,41,Paraná,N3,Café canéfora,producao_t,
+202512,41,Paraná,N3,Café canéfora,producao_t,
+202609,41,Paraná,N3,Café canéfora,producao_t,
+201612,42,Santa Catarina,N3,Café canéfora,producao_t,
+201712,42,Santa Catarina,N3,Café canéfora,producao_t,
+201812,42,Santa Catarina,N3,Café canéfora,producao_t,
+201912,42,Santa Catarina,N3,Café canéfora,producao_t,
+202012,42,Santa Catarina,N3,Café canéfora,producao_t,
+202112,42,Santa Catarina,N3,Café canéfora,producao_t,
+202212,42,Santa Catarina,N3,Café canéfora,producao_t,
+202312,42,Santa Catarina,N3,Café canéfora,producao_t,
+202412,42,Santa Catarina,N3,Café canéfora,producao_t,
+202512,42,Santa Catarina,N3,Café canéfora,producao_t,
+202609,42,Santa Catarina,N3,Café canéfora,producao_t,
+201612,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+201712,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+201812,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+201912,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+202012,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+202112,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+202212,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+202312,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+202412,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+202512,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+202609,43,Rio Grande do Sul,N3,Café canéfora,producao_t,
+201612,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+201712,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+201812,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+201912,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+202012,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+202112,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+202212,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+202312,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+202412,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+202512,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+202609,50,Mato Grosso do Sul,N3,Café canéfora,producao_t,
+201612,51,Mato Grosso,N3,Café canéfora,producao_t,5702
+201712,51,Mato Grosso,N3,Café canéfora,producao_t,6555
+201812,51,Mato Grosso,N3,Café canéfora,producao_t,6817
+201912,51,Mato Grosso,N3,Café canéfora,producao_t,9419
+202012,51,Mato Grosso,N3,Café canéfora,producao_t,8074
+202112,51,Mato Grosso,N3,Café canéfora,producao_t,6433
+202212,51,Mato Grosso,N3,Café canéfora,producao_t,9316
+202312,51,Mato Grosso,N3,Café canéfora,producao_t,11560
+202412,51,Mato Grosso,N3,Café canéfora,producao_t,11737
+202512,51,Mato Grosso,N3,Café canéfora,producao_t,10024
+202609,51,Mato Grosso,N3,Café canéfora,producao_t,18986
+201612,52,Goiás,N3,Café canéfora,producao_t,
+201712,52,Goiás,N3,Café canéfora,producao_t,
+201812,52,Goiás,N3,Café canéfora,producao_t,
+201912,52,Goiás,N3,Café canéfora,producao_t,
+202012,52,Goiás,N3,Café canéfora,producao_t,
+202112,52,Goiás,N3,Café canéfora,producao_t,
+202212,52,Goiás,N3,Café canéfora,producao_t,
+202312,52,Goiás,N3,Café canéfora,producao_t,
+202412,52,Goiás,N3,Café canéfora,producao_t,
+202512,52,Goiás,N3,Café canéfora,producao_t,
+202609,52,Goiás,N3,Café canéfora,producao_t,
+201612,53,Distrito Federal,N3,Café canéfora,producao_t,
+201712,53,Distrito Federal,N3,Café canéfora,producao_t,
+201812,53,Distrito Federal,N3,Café canéfora,producao_t,
+201912,53,Distrito Federal,N3,Café canéfora,producao_t,
+202012,53,Distrito Federal,N3,Café canéfora,producao_t,
+202112,53,Distrito Federal,N3,Café canéfora,producao_t,
+202212,53,Distrito Federal,N3,Café canéfora,producao_t,
+202312,53,Distrito Federal,N3,Café canéfora,producao_t,
+202412,53,Distrito Federal,N3,Café canéfora,producao_t,
+202512,53,Distrito Federal,N3,Café canéfora,producao_t,
+202609,53,Distrito Federal,N3,Café canéfora,producao_t,
 201612,1,Brasil,N1,Cana-de-açúcar,producao_t,728529485
 201712,1,Brasil,N1,Cana-de-açúcar,producao_t,687809933
 201812,1,Brasil,N1,Cana-de-açúcar,producao_t,674178718
@@ -3695,314 +4311,6 @@ periodo,cod_local,local,nivel,cultura,variavel,valor
 202412,53,Distrito Federal,N3,Laranja,producao_t,2069
 202512,53,Distrito Federal,N3,Laranja,producao_t,1608
 202609,53,Distrito Federal,N3,Laranja,producao_t,1412
-201612,1,Brasil,N1,Café,producao_t,3054674
-201712,1,Brasil,N1,Café,producao_t,
-201812,1,Brasil,N1,Café,producao_t,
-201912,1,Brasil,N1,Café,producao_t,
-202012,1,Brasil,N1,Café,producao_t,
-202112,1,Brasil,N1,Café,producao_t,
-202212,1,Brasil,N1,Café,producao_t,
-202312,1,Brasil,N1,Café,producao_t,
-202412,1,Brasil,N1,Café,producao_t,
-202512,1,Brasil,N1,Café,producao_t,
-202609,1,Brasil,N1,Café,producao_t,
-201612,11,Rondônia,N3,Café,producao_t,90332
-201712,11,Rondônia,N3,Café,producao_t,
-201812,11,Rondônia,N3,Café,producao_t,
-201912,11,Rondônia,N3,Café,producao_t,
-202012,11,Rondônia,N3,Café,producao_t,
-202112,11,Rondônia,N3,Café,producao_t,
-202212,11,Rondônia,N3,Café,producao_t,
-202312,11,Rondônia,N3,Café,producao_t,
-202412,11,Rondônia,N3,Café,producao_t,
-202512,11,Rondônia,N3,Café,producao_t,
-202609,11,Rondônia,N3,Café,producao_t,
-201612,12,Acre,N3,Café,producao_t,2171
-201712,12,Acre,N3,Café,producao_t,
-201812,12,Acre,N3,Café,producao_t,
-201912,12,Acre,N3,Café,producao_t,
-202012,12,Acre,N3,Café,producao_t,
-202112,12,Acre,N3,Café,producao_t,
-202212,12,Acre,N3,Café,producao_t,
-202312,12,Acre,N3,Café,producao_t,
-202412,12,Acre,N3,Café,producao_t,
-202512,12,Acre,N3,Café,producao_t,
-202609,12,Acre,N3,Café,producao_t,
-201612,13,Amazonas,N3,Café,producao_t,3670
-201712,13,Amazonas,N3,Café,producao_t,
-201812,13,Amazonas,N3,Café,producao_t,
-201912,13,Amazonas,N3,Café,producao_t,
-202012,13,Amazonas,N3,Café,producao_t,
-202112,13,Amazonas,N3,Café,producao_t,
-202212,13,Amazonas,N3,Café,producao_t,
-202312,13,Amazonas,N3,Café,producao_t,
-202412,13,Amazonas,N3,Café,producao_t,
-202512,13,Amazonas,N3,Café,producao_t,
-202609,13,Amazonas,N3,Café,producao_t,
-201612,14,Roraima,N3,Café,producao_t,
-201712,14,Roraima,N3,Café,producao_t,
-201812,14,Roraima,N3,Café,producao_t,
-201912,14,Roraima,N3,Café,producao_t,
-202012,14,Roraima,N3,Café,producao_t,
-202112,14,Roraima,N3,Café,producao_t,
-202212,14,Roraima,N3,Café,producao_t,
-202312,14,Roraima,N3,Café,producao_t,
-202412,14,Roraima,N3,Café,producao_t,
-202512,14,Roraima,N3,Café,producao_t,
-202609,14,Roraima,N3,Café,producao_t,
-201612,15,Pará,N3,Café,producao_t,424
-201712,15,Pará,N3,Café,producao_t,
-201812,15,Pará,N3,Café,producao_t,
-201912,15,Pará,N3,Café,producao_t,
-202012,15,Pará,N3,Café,producao_t,
-202112,15,Pará,N3,Café,producao_t,
-202212,15,Pará,N3,Café,producao_t,
-202312,15,Pará,N3,Café,producao_t,
-202412,15,Pará,N3,Café,producao_t,
-202512,15,Pará,N3,Café,producao_t,
-202609,15,Pará,N3,Café,producao_t,
-201612,16,Amapá,N3,Café,producao_t,
-201712,16,Amapá,N3,Café,producao_t,
-201812,16,Amapá,N3,Café,producao_t,
-201912,16,Amapá,N3,Café,producao_t,
-202012,16,Amapá,N3,Café,producao_t,
-202112,16,Amapá,N3,Café,producao_t,
-202212,16,Amapá,N3,Café,producao_t,
-202312,16,Amapá,N3,Café,producao_t,
-202412,16,Amapá,N3,Café,producao_t,
-202512,16,Amapá,N3,Café,producao_t,
-202609,16,Amapá,N3,Café,producao_t,
-201612,17,Tocantins,N3,Café,producao_t,
-201712,17,Tocantins,N3,Café,producao_t,
-201812,17,Tocantins,N3,Café,producao_t,
-201912,17,Tocantins,N3,Café,producao_t,
-202012,17,Tocantins,N3,Café,producao_t,
-202112,17,Tocantins,N3,Café,producao_t,
-202212,17,Tocantins,N3,Café,producao_t,
-202312,17,Tocantins,N3,Café,producao_t,
-202412,17,Tocantins,N3,Café,producao_t,
-202512,17,Tocantins,N3,Café,producao_t,
-202609,17,Tocantins,N3,Café,producao_t,
-201612,21,Maranhão,N3,Café,producao_t,
-201712,21,Maranhão,N3,Café,producao_t,
-201812,21,Maranhão,N3,Café,producao_t,
-201912,21,Maranhão,N3,Café,producao_t,
-202012,21,Maranhão,N3,Café,producao_t,
-202112,21,Maranhão,N3,Café,producao_t,
-202212,21,Maranhão,N3,Café,producao_t,
-202312,21,Maranhão,N3,Café,producao_t,
-202412,21,Maranhão,N3,Café,producao_t,
-202512,21,Maranhão,N3,Café,producao_t,
-202609,21,Maranhão,N3,Café,producao_t,
-201612,22,Piauí,N3,Café,producao_t,
-201712,22,Piauí,N3,Café,producao_t,
-201812,22,Piauí,N3,Café,producao_t,
-201912,22,Piauí,N3,Café,producao_t,
-202012,22,Piauí,N3,Café,producao_t,
-202112,22,Piauí,N3,Café,producao_t,
-202212,22,Piauí,N3,Café,producao_t,
-202312,22,Piauí,N3,Café,producao_t,
-202412,22,Piauí,N3,Café,producao_t,
-202512,22,Piauí,N3,Café,producao_t,
-202609,22,Piauí,N3,Café,producao_t,
-201612,23,Ceará,N3,Café,producao_t,775
-201712,23,Ceará,N3,Café,producao_t,
-201812,23,Ceará,N3,Café,producao_t,
-201912,23,Ceará,N3,Café,producao_t,
-202012,23,Ceará,N3,Café,producao_t,
-202112,23,Ceará,N3,Café,producao_t,
-202212,23,Ceará,N3,Café,producao_t,
-202312,23,Ceará,N3,Café,producao_t,
-202412,23,Ceará,N3,Café,producao_t,
-202512,23,Ceará,N3,Café,producao_t,
-202609,23,Ceará,N3,Café,producao_t,
-201612,24,Rio Grande do Norte,N3,Café,producao_t,
-201712,24,Rio Grande do Norte,N3,Café,producao_t,
-201812,24,Rio Grande do Norte,N3,Café,producao_t,
-201912,24,Rio Grande do Norte,N3,Café,producao_t,
-202012,24,Rio Grande do Norte,N3,Café,producao_t,
-202112,24,Rio Grande do Norte,N3,Café,producao_t,
-202212,24,Rio Grande do Norte,N3,Café,producao_t,
-202312,24,Rio Grande do Norte,N3,Café,producao_t,
-202412,24,Rio Grande do Norte,N3,Café,producao_t,
-202512,24,Rio Grande do Norte,N3,Café,producao_t,
-202609,24,Rio Grande do Norte,N3,Café,producao_t,
-201612,25,Paraíba,N3,Café,producao_t,
-201712,25,Paraíba,N3,Café,producao_t,
-201812,25,Paraíba,N3,Café,producao_t,
-201912,25,Paraíba,N3,Café,producao_t,
-202012,25,Paraíba,N3,Café,producao_t,
-202112,25,Paraíba,N3,Café,producao_t,
-202212,25,Paraíba,N3,Café,producao_t,
-202312,25,Paraíba,N3,Café,producao_t,
-202412,25,Paraíba,N3,Café,producao_t,
-202512,25,Paraíba,N3,Café,producao_t,
-202609,25,Paraíba,N3,Café,producao_t,
-201612,26,Pernambuco,N3,Café,producao_t,374
-201712,26,Pernambuco,N3,Café,producao_t,
-201812,26,Pernambuco,N3,Café,producao_t,
-201912,26,Pernambuco,N3,Café,producao_t,
-202012,26,Pernambuco,N3,Café,producao_t,
-202112,26,Pernambuco,N3,Café,producao_t,
-202212,26,Pernambuco,N3,Café,producao_t,
-202312,26,Pernambuco,N3,Café,producao_t,
-202412,26,Pernambuco,N3,Café,producao_t,
-202512,26,Pernambuco,N3,Café,producao_t,
-202609,26,Pernambuco,N3,Café,producao_t,
-201612,27,Alagoas,N3,Café,producao_t,
-201712,27,Alagoas,N3,Café,producao_t,
-201812,27,Alagoas,N3,Café,producao_t,
-201912,27,Alagoas,N3,Café,producao_t,
-202012,27,Alagoas,N3,Café,producao_t,
-202112,27,Alagoas,N3,Café,producao_t,
-202212,27,Alagoas,N3,Café,producao_t,
-202312,27,Alagoas,N3,Café,producao_t,
-202412,27,Alagoas,N3,Café,producao_t,
-202512,27,Alagoas,N3,Café,producao_t,
-202609,27,Alagoas,N3,Café,producao_t,
-201612,28,Sergipe,N3,Café,producao_t,
-201712,28,Sergipe,N3,Café,producao_t,
-201812,28,Sergipe,N3,Café,producao_t,
-201912,28,Sergipe,N3,Café,producao_t,
-202012,28,Sergipe,N3,Café,producao_t,
-202112,28,Sergipe,N3,Café,producao_t,
-202212,28,Sergipe,N3,Café,producao_t,
-202312,28,Sergipe,N3,Café,producao_t,
-202412,28,Sergipe,N3,Café,producao_t,
-202512,28,Sergipe,N3,Café,producao_t,
-202609,28,Sergipe,N3,Café,producao_t,
-201612,29,Bahia,N3,Café,producao_t,134597
-201712,29,Bahia,N3,Café,producao_t,
-201812,29,Bahia,N3,Café,producao_t,
-201912,29,Bahia,N3,Café,producao_t,
-202012,29,Bahia,N3,Café,producao_t,
-202112,29,Bahia,N3,Café,producao_t,
-202212,29,Bahia,N3,Café,producao_t,
-202312,29,Bahia,N3,Café,producao_t,
-202412,29,Bahia,N3,Café,producao_t,
-202512,29,Bahia,N3,Café,producao_t,
-202609,29,Bahia,N3,Café,producao_t,
-201612,31,Minas Gerais,N3,Café,producao_t,1835939
-201712,31,Minas Gerais,N3,Café,producao_t,
-201812,31,Minas Gerais,N3,Café,producao_t,
-201912,31,Minas Gerais,N3,Café,producao_t,
-202012,31,Minas Gerais,N3,Café,producao_t,
-202112,31,Minas Gerais,N3,Café,producao_t,
-202212,31,Minas Gerais,N3,Café,producao_t,
-202312,31,Minas Gerais,N3,Café,producao_t,
-202412,31,Minas Gerais,N3,Café,producao_t,
-202512,31,Minas Gerais,N3,Café,producao_t,
-202609,31,Minas Gerais,N3,Café,producao_t,
-201612,32,Espírito Santo,N3,Café,producao_t,515367
-201712,32,Espírito Santo,N3,Café,producao_t,
-201812,32,Espírito Santo,N3,Café,producao_t,
-201912,32,Espírito Santo,N3,Café,producao_t,
-202012,32,Espírito Santo,N3,Café,producao_t,
-202112,32,Espírito Santo,N3,Café,producao_t,
-202212,32,Espírito Santo,N3,Café,producao_t,
-202312,32,Espírito Santo,N3,Café,producao_t,
-202412,32,Espírito Santo,N3,Café,producao_t,
-202512,32,Espírito Santo,N3,Café,producao_t,
-202609,32,Espírito Santo,N3,Café,producao_t,
-201612,33,Rio de Janeiro,N3,Café,producao_t,19121
-201712,33,Rio de Janeiro,N3,Café,producao_t,
-201812,33,Rio de Janeiro,N3,Café,producao_t,
-201912,33,Rio de Janeiro,N3,Café,producao_t,
-202012,33,Rio de Janeiro,N3,Café,producao_t,
-202112,33,Rio de Janeiro,N3,Café,producao_t,
-202212,33,Rio de Janeiro,N3,Café,producao_t,
-202312,33,Rio de Janeiro,N3,Café,producao_t,
-202412,33,Rio de Janeiro,N3,Café,producao_t,
-202512,33,Rio de Janeiro,N3,Café,producao_t,
-202609,33,Rio de Janeiro,N3,Café,producao_t,
-201612,35,São Paulo,N3,Café,producao_t,364313
-201712,35,São Paulo,N3,Café,producao_t,
-201812,35,São Paulo,N3,Café,producao_t,
-201912,35,São Paulo,N3,Café,producao_t,
-202012,35,São Paulo,N3,Café,producao_t,
-202112,35,São Paulo,N3,Café,producao_t,
-202212,35,São Paulo,N3,Café,producao_t,
-202312,35,São Paulo,N3,Café,producao_t,
-202412,35,São Paulo,N3,Café,producao_t,
-202512,35,São Paulo,N3,Café,producao_t,
-202609,35,São Paulo,N3,Café,producao_t,
-201612,41,Paraná,N3,Café,producao_t,62791
-201712,41,Paraná,N3,Café,producao_t,
-201812,41,Paraná,N3,Café,producao_t,
-201912,41,Paraná,N3,Café,producao_t,
-202012,41,Paraná,N3,Café,producao_t,
-202112,41,Paraná,N3,Café,producao_t,
-202212,41,Paraná,N3,Café,producao_t,
-202312,41,Paraná,N3,Café,producao_t,
-202412,41,Paraná,N3,Café,producao_t,
-202512,41,Paraná,N3,Café,producao_t,
-202609,41,Paraná,N3,Café,producao_t,
-201612,42,Santa Catarina,N3,Café,producao_t,
-201712,42,Santa Catarina,N3,Café,producao_t,
-201812,42,Santa Catarina,N3,Café,producao_t,
-201912,42,Santa Catarina,N3,Café,producao_t,
-202012,42,Santa Catarina,N3,Café,producao_t,
-202112,42,Santa Catarina,N3,Café,producao_t,
-202212,42,Santa Catarina,N3,Café,producao_t,
-202312,42,Santa Catarina,N3,Café,producao_t,
-202412,42,Santa Catarina,N3,Café,producao_t,
-202512,42,Santa Catarina,N3,Café,producao_t,
-202609,42,Santa Catarina,N3,Café,producao_t,
-201612,43,Rio Grande do Sul,N3,Café,producao_t,
-201712,43,Rio Grande do Sul,N3,Café,producao_t,
-201812,43,Rio Grande do Sul,N3,Café,producao_t,
-201912,43,Rio Grande do Sul,N3,Café,producao_t,
-202012,43,Rio Grande do Sul,N3,Café,producao_t,
-202112,43,Rio Grande do Sul,N3,Café,producao_t,
-202212,43,Rio Grande do Sul,N3,Café,producao_t,
-202312,43,Rio Grande do Sul,N3,Café,producao_t,
-202412,43,Rio Grande do Sul,N3,Café,producao_t,
-202512,43,Rio Grande do Sul,N3,Café,producao_t,
-202609,43,Rio Grande do Sul,N3,Café,producao_t,
-201612,50,Mato Grosso do Sul,N3,Café,producao_t,448
-201712,50,Mato Grosso do Sul,N3,Café,producao_t,
-201812,50,Mato Grosso do Sul,N3,Café,producao_t,
-201912,50,Mato Grosso do Sul,N3,Café,producao_t,
-202012,50,Mato Grosso do Sul,N3,Café,producao_t,
-202112,50,Mato Grosso do Sul,N3,Café,producao_t,
-202212,50,Mato Grosso do Sul,N3,Café,producao_t,
-202312,50,Mato Grosso do Sul,N3,Café,producao_t,
-202412,50,Mato Grosso do Sul,N3,Café,producao_t,
-202512,50,Mato Grosso do Sul,N3,Café,producao_t,
-202609,50,Mato Grosso do Sul,N3,Café,producao_t,
-201612,51,Mato Grosso,N3,Café,producao_t,5785
-201712,51,Mato Grosso,N3,Café,producao_t,
-201812,51,Mato Grosso,N3,Café,producao_t,
-201912,51,Mato Grosso,N3,Café,producao_t,
-202012,51,Mato Grosso,N3,Café,producao_t,
-202112,51,Mato Grosso,N3,Café,producao_t,
-202212,51,Mato Grosso,N3,Café,producao_t,
-202312,51,Mato Grosso,N3,Café,producao_t,
-202412,51,Mato Grosso,N3,Café,producao_t,
-202512,51,Mato Grosso,N3,Café,producao_t,
-202609,51,Mato Grosso,N3,Café,producao_t,
-201612,52,Goiás,N3,Café,producao_t,17301
-201712,52,Goiás,N3,Café,producao_t,
-201812,52,Goiás,N3,Café,producao_t,
-201912,52,Goiás,N3,Café,producao_t,
-202012,52,Goiás,N3,Café,producao_t,
-202112,52,Goiás,N3,Café,producao_t,
-202212,52,Goiás,N3,Café,producao_t,
-202312,52,Goiás,N3,Café,producao_t,
-202412,52,Goiás,N3,Café,producao_t,
-202512,52,Goiás,N3,Café,producao_t,
-202609,52,Goiás,N3,Café,producao_t,
-201612,53,Distrito Federal,N3,Café,producao_t,1266
-201712,53,Distrito Federal,N3,Café,producao_t,
-201812,53,Distrito Federal,N3,Café,producao_t,
-201912,53,Distrito Federal,N3,Café,producao_t,
-202012,53,Distrito Federal,N3,Café,producao_t,
-202112,53,Distrito Federal,N3,Café,producao_t,
-202212,53,Distrito Federal,N3,Café,producao_t,
-202312,53,Distrito Federal,N3,Café,producao_t,
-202412,53,Distrito Federal,N3,Café,producao_t,
-202512,53,Distrito Federal,N3,Café,producao_t,
-202609,53,Distrito Federal,N3,Café,producao_t,
 201612,1,Brasil,N1,"Grãos (cereais, leguminosas e oleaginosas)",rendimento_kg_ha,
 201712,1,Brasil,N1,"Grãos (cereais, leguminosas e oleaginosas)",rendimento_kg_ha,
 201812,1,Brasil,N1,"Grãos (cereais, leguminosas e oleaginosas)",rendimento_kg_ha,
@@ -7083,6 +7391,622 @@ periodo,cod_local,local,nivel,cultura,variavel,valor
 202412,53,Distrito Federal,N3,Trigo,rendimento_kg_ha,3611
 202512,53,Distrito Federal,N3,Trigo,rendimento_kg_ha,4350
 202609,53,Distrito Federal,N3,Trigo,rendimento_kg_ha,3759
+201612,1,Brasil,N1,Café arábica,rendimento_kg_ha,1648
+201712,1,Brasil,N1,Café arábica,rendimento_kg_ha,1394
+201812,1,Brasil,N1,Café arábica,rendimento_kg_ha,1815
+201912,1,Brasil,N1,Café arábica,rendimento_kg_ha,1449
+202012,1,Brasil,N1,Café arábica,rendimento_kg_ha,1905
+202112,1,Brasil,N1,Café arábica,rendimento_kg_ha,1341
+202212,1,Brasil,N1,Café arábica,rendimento_kg_ha,1394
+202312,1,Brasil,N1,Café arábica,rendimento_kg_ha,1571
+202412,1,Brasil,N1,Café arábica,rendimento_kg_ha,1550
+202512,1,Brasil,N1,Café arábica,rendimento_kg_ha,1432
+202609,1,Brasil,N1,Café arábica,rendimento_kg_ha,1768
+201612,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+201712,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+201812,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+201912,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+202012,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+202112,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+202212,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+202312,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+202412,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+202512,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+202609,11,Rondônia,N3,Café arábica,rendimento_kg_ha,
+201612,12,Acre,N3,Café arábica,rendimento_kg_ha,
+201712,12,Acre,N3,Café arábica,rendimento_kg_ha,
+201812,12,Acre,N3,Café arábica,rendimento_kg_ha,
+201912,12,Acre,N3,Café arábica,rendimento_kg_ha,
+202012,12,Acre,N3,Café arábica,rendimento_kg_ha,
+202112,12,Acre,N3,Café arábica,rendimento_kg_ha,
+202212,12,Acre,N3,Café arábica,rendimento_kg_ha,
+202312,12,Acre,N3,Café arábica,rendimento_kg_ha,
+202412,12,Acre,N3,Café arábica,rendimento_kg_ha,
+202512,12,Acre,N3,Café arábica,rendimento_kg_ha,
+202609,12,Acre,N3,Café arábica,rendimento_kg_ha,
+201612,13,Amazonas,N3,Café arábica,rendimento_kg_ha,918
+201712,13,Amazonas,N3,Café arábica,rendimento_kg_ha,918
+201812,13,Amazonas,N3,Café arábica,rendimento_kg_ha,918
+201912,13,Amazonas,N3,Café arábica,rendimento_kg_ha,918
+202012,13,Amazonas,N3,Café arábica,rendimento_kg_ha,918
+202112,13,Amazonas,N3,Café arábica,rendimento_kg_ha,918
+202212,13,Amazonas,N3,Café arábica,rendimento_kg_ha,918
+202312,13,Amazonas,N3,Café arábica,rendimento_kg_ha,
+202412,13,Amazonas,N3,Café arábica,rendimento_kg_ha,
+202512,13,Amazonas,N3,Café arábica,rendimento_kg_ha,
+202609,13,Amazonas,N3,Café arábica,rendimento_kg_ha,
+201612,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+201712,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+201812,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+201912,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+202012,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+202112,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+202212,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+202312,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+202412,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+202512,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+202609,14,Roraima,N3,Café arábica,rendimento_kg_ha,
+201612,15,Pará,N3,Café arábica,rendimento_kg_ha,
+201712,15,Pará,N3,Café arábica,rendimento_kg_ha,
+201812,15,Pará,N3,Café arábica,rendimento_kg_ha,
+201912,15,Pará,N3,Café arábica,rendimento_kg_ha,
+202012,15,Pará,N3,Café arábica,rendimento_kg_ha,
+202112,15,Pará,N3,Café arábica,rendimento_kg_ha,
+202212,15,Pará,N3,Café arábica,rendimento_kg_ha,
+202312,15,Pará,N3,Café arábica,rendimento_kg_ha,
+202412,15,Pará,N3,Café arábica,rendimento_kg_ha,
+202512,15,Pará,N3,Café arábica,rendimento_kg_ha,
+202609,15,Pará,N3,Café arábica,rendimento_kg_ha,
+201612,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+201712,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+201812,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+201912,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+202012,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+202112,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+202212,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+202312,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+202412,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+202512,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+202609,16,Amapá,N3,Café arábica,rendimento_kg_ha,
+201612,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+201712,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+201812,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+201912,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+202012,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+202112,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+202212,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+202312,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+202412,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+202512,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+202609,17,Tocantins,N3,Café arábica,rendimento_kg_ha,
+201612,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+201712,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+201812,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+201912,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+202012,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+202112,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+202212,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+202312,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+202412,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+202512,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+202609,21,Maranhão,N3,Café arábica,rendimento_kg_ha,
+201612,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+201712,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+201812,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+201912,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+202012,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+202112,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+202212,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+202312,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+202412,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+202512,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+202609,22,Piauí,N3,Café arábica,rendimento_kg_ha,
+201612,23,Ceará,N3,Café arábica,rendimento_kg_ha,229
+201712,23,Ceará,N3,Café arábica,rendimento_kg_ha,240
+201812,23,Ceará,N3,Café arábica,rendimento_kg_ha,379
+201912,23,Ceará,N3,Café arábica,rendimento_kg_ha,370
+202012,23,Ceará,N3,Café arábica,rendimento_kg_ha,351
+202112,23,Ceará,N3,Café arábica,rendimento_kg_ha,341
+202212,23,Ceará,N3,Café arábica,rendimento_kg_ha,343
+202312,23,Ceará,N3,Café arábica,rendimento_kg_ha,375
+202412,23,Ceará,N3,Café arábica,rendimento_kg_ha,395
+202512,23,Ceará,N3,Café arábica,rendimento_kg_ha,470
+202609,23,Ceará,N3,Café arábica,rendimento_kg_ha,379
+201612,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+201712,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+201812,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+201912,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+202012,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+202112,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+202212,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+202312,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+202412,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+202512,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+202609,24,Rio Grande do Norte,N3,Café arábica,rendimento_kg_ha,
+201612,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+201712,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+201812,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+201912,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+202012,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+202112,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+202212,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+202312,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+202412,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+202512,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+202609,25,Paraíba,N3,Café arábica,rendimento_kg_ha,
+201612,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,575
+201712,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,394
+201812,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,349
+201912,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,653
+202012,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,358
+202112,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,236
+202212,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,411
+202312,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,258
+202412,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,453
+202512,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,415
+202609,26,Pernambuco,N3,Café arábica,rendimento_kg_ha,416
+201612,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+201712,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+201812,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+201912,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+202012,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+202112,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+202212,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+202312,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+202412,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+202512,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+202609,27,Alagoas,N3,Café arábica,rendimento_kg_ha,
+201612,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+201712,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+201812,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+201912,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+202012,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+202112,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+202212,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+202312,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+202412,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+202512,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+202609,28,Sergipe,N3,Café arábica,rendimento_kg_ha,
+201612,29,Bahia,N3,Café arábica,rendimento_kg_ha,752
+201712,29,Bahia,N3,Café arábica,rendimento_kg_ha,649
+201812,29,Bahia,N3,Café arábica,rendimento_kg_ha,1327
+201912,29,Bahia,N3,Café arábica,rendimento_kg_ha,1168
+202012,29,Bahia,N3,Café arábica,rendimento_kg_ha,1697
+202112,29,Bahia,N3,Café arábica,rendimento_kg_ha,1175
+202212,29,Bahia,N3,Café arábica,rendimento_kg_ha,1546
+202312,29,Bahia,N3,Café arábica,rendimento_kg_ha,1291
+202412,29,Bahia,N3,Café arábica,rendimento_kg_ha,1284
+202512,29,Bahia,N3,Café arábica,rendimento_kg_ha,1110
+202609,29,Bahia,N3,Café arábica,rendimento_kg_ha,1200
+201612,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1766
+201712,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1502
+201812,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1872
+201912,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1503
+202012,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1956
+202112,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1352
+202212,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1357
+202312,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1615
+202412,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1527
+202512,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1424
+202609,31,Minas Gerais,N3,Café arábica,rendimento_kg_ha,1794
+201612,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1420
+201712,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1199
+201812,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1757
+201912,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1249
+202012,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1833
+202112,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1246
+202212,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1646
+202312,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1246
+202412,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1570
+202512,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1504
+202609,32,Espírito Santo,N3,Café arábica,rendimento_kg_ha,1729
+201612,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1514
+201712,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1735
+201812,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1533
+201912,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1626
+202012,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1732
+202112,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1624
+202212,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1817
+202312,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1856
+202412,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1699
+202512,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,2035
+202609,33,Rio de Janeiro,N3,Café arábica,rendimento_kg_ha,1946
+201612,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1812
+201712,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1294
+201812,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1846
+201912,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1336
+202012,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1834
+202112,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1316
+202212,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1346
+202312,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1630
+202412,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1733
+202512,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1451
+202609,35,São Paulo,N3,Café arábica,rendimento_kg_ha,1813
+201612,41,Paraná,N3,Café arábica,rendimento_kg_ha,1360
+201712,41,Paraná,N3,Café arábica,rendimento_kg_ha,1551
+201812,41,Paraná,N3,Café arábica,rendimento_kg_ha,1512
+201912,41,Paraná,N3,Café arábica,rendimento_kg_ha,1503
+202012,41,Paraná,N3,Café arábica,rendimento_kg_ha,1580
+202112,41,Paraná,N3,Café arábica,rendimento_kg_ha,1589
+202212,41,Paraná,N3,Café arábica,rendimento_kg_ha,1221
+202312,41,Paraná,N3,Café arábica,rendimento_kg_ha,1691
+202412,41,Paraná,N3,Café arábica,rendimento_kg_ha,1603
+202512,41,Paraná,N3,Café arábica,rendimento_kg_ha,1778
+202609,41,Paraná,N3,Café arábica,rendimento_kg_ha,1777
+201612,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+201712,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+201812,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+201912,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+202012,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+202112,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+202212,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+202312,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+202412,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+202512,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+202609,42,Santa Catarina,N3,Café arábica,rendimento_kg_ha,
+201612,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+201712,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+201812,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+201912,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+202012,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+202112,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+202212,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+202312,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+202412,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+202512,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+202609,43,Rio Grande do Sul,N3,Café arábica,rendimento_kg_ha,
+201612,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,920
+201712,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,987
+201812,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,874
+201912,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,1133
+202012,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,702
+202112,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,943
+202212,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,371
+202312,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,1738
+202412,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,497
+202512,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,627
+202609,50,Mato Grosso do Sul,N3,Café arábica,rendimento_kg_ha,1357
+201612,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1000
+201712,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1603
+201812,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1007
+201912,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,2177
+202012,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1803
+202112,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1231
+202212,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1231
+202312,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1810
+202412,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1250
+202512,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1750
+202609,51,Mato Grosso,N3,Café arábica,rendimento_kg_ha,1500
+201612,52,Goiás,N3,Café arábica,rendimento_kg_ha,2766
+201712,52,Goiás,N3,Café arábica,rendimento_kg_ha,2837
+201812,52,Goiás,N3,Café arábica,rendimento_kg_ha,2915
+201912,52,Goiás,N3,Café arábica,rendimento_kg_ha,2487
+202012,52,Goiás,N3,Café arábica,rendimento_kg_ha,2435
+202112,52,Goiás,N3,Café arábica,rendimento_kg_ha,2398
+202212,52,Goiás,N3,Café arábica,rendimento_kg_ha,2494
+202312,52,Goiás,N3,Café arábica,rendimento_kg_ha,2460
+202412,52,Goiás,N3,Café arábica,rendimento_kg_ha,2658
+202512,52,Goiás,N3,Café arábica,rendimento_kg_ha,2438
+202609,52,Goiás,N3,Café arábica,rendimento_kg_ha,2743
+201612,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,2225
+201712,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,1833
+201812,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,1600
+201912,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,2700
+202012,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,1941
+202112,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,2283
+202212,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,1922
+202312,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,2278
+202412,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,2633
+202512,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,2436
+202609,53,Distrito Federal,N3,Café arábica,rendimento_kg_ha,2086
+201612,1,Brasil,N1,Café canéfora,rendimento_kg_ha,1087
+201712,1,Brasil,N1,Café canéfora,rendimento_kg_ha,1657
+201812,1,Brasil,N1,Café canéfora,rendimento_kg_ha,2254
+201912,1,Brasil,N1,Café canéfora,rendimento_kg_ha,2390
+202012,1,Brasil,N1,Café canéfora,rendimento_kg_ha,2208
+202112,1,Brasil,N1,Café canéfora,rendimento_kg_ha,2575
+202212,1,Brasil,N1,Café canéfora,rendimento_kg_ha,2782
+202312,1,Brasil,N1,Café canéfora,rendimento_kg_ha,2556
+202412,1,Brasil,N1,Café canéfora,rendimento_kg_ha,2525
+202512,1,Brasil,N1,Café canéfora,rendimento_kg_ha,3016
+202609,1,Brasil,N1,Café canéfora,rendimento_kg_ha,3015
+201612,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,1139
+201712,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,2046
+201812,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,2111
+201912,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,2267
+202012,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,2266
+202112,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,2590
+202212,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,3509
+202312,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,3618
+202412,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,3533
+202512,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,3352
+202609,11,Rondônia,N3,Café canéfora,rendimento_kg_ha,3695
+201612,12,Acre,N3,Café canéfora,rendimento_kg_ha,1470
+201712,12,Acre,N3,Café canéfora,rendimento_kg_ha,1555
+201812,12,Acre,N3,Café canéfora,rendimento_kg_ha,1708
+201912,12,Acre,N3,Café canéfora,rendimento_kg_ha,1533
+202012,12,Acre,N3,Café canéfora,rendimento_kg_ha,2135
+202112,12,Acre,N3,Café canéfora,rendimento_kg_ha,2345
+202212,12,Acre,N3,Café canéfora,rendimento_kg_ha,2352
+202312,12,Acre,N3,Café canéfora,rendimento_kg_ha,2878
+202412,12,Acre,N3,Café canéfora,rendimento_kg_ha,2761
+202512,12,Acre,N3,Café canéfora,rendimento_kg_ha,3443
+202609,12,Acre,N3,Café canéfora,rendimento_kg_ha,4016
+201612,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,918
+201712,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1249
+201812,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1249
+201912,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1249
+202012,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1249
+202112,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1249
+202212,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1249
+202312,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1300
+202412,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1408
+202512,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1469
+202609,13,Amazonas,N3,Café canéfora,rendimento_kg_ha,1525
+201612,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+201712,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+201812,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+201912,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+202012,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+202112,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+202212,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+202312,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+202412,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+202512,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+202609,14,Roraima,N3,Café canéfora,rendimento_kg_ha,
+201612,15,Pará,N3,Café canéfora,rendimento_kg_ha,845
+201712,15,Pará,N3,Café canéfora,rendimento_kg_ha,835
+201812,15,Pará,N3,Café canéfora,rendimento_kg_ha,879
+201912,15,Pará,N3,Café canéfora,rendimento_kg_ha,904
+202012,15,Pará,N3,Café canéfora,rendimento_kg_ha,899
+202112,15,Pará,N3,Café canéfora,rendimento_kg_ha,927
+202212,15,Pará,N3,Café canéfora,rendimento_kg_ha,864
+202312,15,Pará,N3,Café canéfora,rendimento_kg_ha,882
+202412,15,Pará,N3,Café canéfora,rendimento_kg_ha,803
+202512,15,Pará,N3,Café canéfora,rendimento_kg_ha,848
+202609,15,Pará,N3,Café canéfora,rendimento_kg_ha,741
+201612,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+201712,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+201812,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+201912,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+202012,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+202112,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+202212,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+202312,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+202412,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+202512,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+202609,16,Amapá,N3,Café canéfora,rendimento_kg_ha,
+201612,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+201712,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+201812,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+201912,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+202012,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+202112,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+202212,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+202312,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+202412,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+202512,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+202609,17,Tocantins,N3,Café canéfora,rendimento_kg_ha,
+201612,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+201712,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+201812,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+201912,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+202012,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+202112,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+202212,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+202312,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+202412,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+202512,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+202609,21,Maranhão,N3,Café canéfora,rendimento_kg_ha,
+201612,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+201712,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+201812,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+201912,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+202012,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+202112,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+202212,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+202312,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+202412,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+202512,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+202609,22,Piauí,N3,Café canéfora,rendimento_kg_ha,
+201612,23,Ceará,N3,Café canéfora,rendimento_kg_ha,220
+201712,23,Ceará,N3,Café canéfora,rendimento_kg_ha,197
+201812,23,Ceará,N3,Café canéfora,rendimento_kg_ha,315
+201912,23,Ceará,N3,Café canéfora,rendimento_kg_ha,409
+202012,23,Ceará,N3,Café canéfora,rendimento_kg_ha,446
+202112,23,Ceará,N3,Café canéfora,rendimento_kg_ha,373
+202212,23,Ceará,N3,Café canéfora,rendimento_kg_ha,393
+202312,23,Ceará,N3,Café canéfora,rendimento_kg_ha,464
+202412,23,Ceará,N3,Café canéfora,rendimento_kg_ha,536
+202512,23,Ceará,N3,Café canéfora,rendimento_kg_ha,607
+202609,23,Ceará,N3,Café canéfora,rendimento_kg_ha,393
+201612,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+201712,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+201812,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+201912,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+202012,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+202112,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+202212,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+202312,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+202412,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+202512,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+202609,24,Rio Grande do Norte,N3,Café canéfora,rendimento_kg_ha,
+201612,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+201712,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+201812,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+201912,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+202012,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+202112,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+202212,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+202312,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+202412,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+202512,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+202609,25,Paraíba,N3,Café canéfora,rendimento_kg_ha,
+201612,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+201712,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+201812,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+201912,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+202012,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+202112,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+202212,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+202312,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+202412,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+202512,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+202609,26,Pernambuco,N3,Café canéfora,rendimento_kg_ha,
+201612,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+201712,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+201812,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+201912,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+202012,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+202112,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+202212,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+202312,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+202412,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+202512,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+202609,27,Alagoas,N3,Café canéfora,rendimento_kg_ha,
+201612,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+201712,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+201812,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+201912,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+202012,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+202112,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+202212,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+202312,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+202412,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+202512,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+202609,28,Sergipe,N3,Café canéfora,rendimento_kg_ha,
+201612,29,Bahia,N3,Café canéfora,rendimento_kg_ha,1038
+201712,29,Bahia,N3,Café canéfora,rendimento_kg_ha,2477
+201812,29,Bahia,N3,Café canéfora,rendimento_kg_ha,2925
+201912,29,Bahia,N3,Café canéfora,rendimento_kg_ha,2808
+202012,29,Bahia,N3,Café canéfora,rendimento_kg_ha,3025
+202112,29,Bahia,N3,Café canéfora,rendimento_kg_ha,3284
+202212,29,Bahia,N3,Café canéfora,rendimento_kg_ha,3284
+202312,29,Bahia,N3,Café canéfora,rendimento_kg_ha,3040
+202412,29,Bahia,N3,Café canéfora,rendimento_kg_ha,2957
+202512,29,Bahia,N3,Café canéfora,rendimento_kg_ha,3600
+202609,29,Bahia,N3,Café canéfora,rendimento_kg_ha,3840
+201612,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,1408
+201712,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,1619
+201812,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,1728
+201912,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,1955
+202012,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,2088
+202112,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,1861
+202212,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,2355
+202312,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,2352
+202412,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,2254
+202512,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,2807
+202609,31,Minas Gerais,N3,Café canéfora,rendimento_kg_ha,3107
+201612,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,1108
+201712,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,1476
+201812,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,2308
+201912,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,2472
+202012,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,2147
+202112,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,2589
+202212,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,2669
+202312,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,2316
+202412,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,2336
+202512,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,2942
+202609,32,Espírito Santo,N3,Café canéfora,rendimento_kg_ha,2805
+201612,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+201712,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+201812,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+201912,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+202012,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+202112,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+202212,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+202312,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+202412,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+202512,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+202609,33,Rio de Janeiro,N3,Café canéfora,rendimento_kg_ha,
+201612,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1767
+201712,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1720
+201812,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1274
+201912,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1280
+202012,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1872
+202112,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1872
+202212,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,11475
+202312,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1563
+202412,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1538
+202512,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1614
+202609,35,São Paulo,N3,Café canéfora,rendimento_kg_ha,1651
+201612,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+201712,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+201812,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+201912,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+202012,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+202112,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+202212,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+202312,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+202412,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+202512,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+202609,41,Paraná,N3,Café canéfora,rendimento_kg_ha,
+201612,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+201712,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+201812,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+201912,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+202012,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+202112,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+202212,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+202312,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+202412,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+202512,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+202609,42,Santa Catarina,N3,Café canéfora,rendimento_kg_ha,
+201612,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+201712,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+201812,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+201912,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+202012,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+202112,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+202212,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+202312,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+202412,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+202512,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+202609,43,Rio Grande do Sul,N3,Café canéfora,rendimento_kg_ha,
+201612,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+201712,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+201812,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+201912,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+202012,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+202112,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+202212,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+202312,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+202412,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+202512,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+202609,50,Mato Grosso do Sul,N3,Café canéfora,rendimento_kg_ha,
+201612,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,351
+201712,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,418
+201812,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,443
+201912,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,738
+202012,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,690
+202112,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,555
+202212,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,790
+202312,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,954
+202412,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,1238
+202512,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,1067
+202609,51,Mato Grosso,N3,Café canéfora,rendimento_kg_ha,2111
+201612,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+201712,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+201812,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+201912,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+202012,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+202112,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+202212,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+202312,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+202412,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+202512,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+202609,52,Goiás,N3,Café canéfora,rendimento_kg_ha,
+201612,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+201712,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+201812,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+201912,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+202012,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+202112,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+202212,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+202312,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+202412,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+202512,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
+202609,53,Distrito Federal,N3,Café canéfora,rendimento_kg_ha,
 201612,1,Brasil,N1,Cana-de-açúcar,rendimento_kg_ha,75968
 201712,1,Brasil,N1,Cana-de-açúcar,rendimento_kg_ha,74044
 201812,1,Brasil,N1,Cana-de-açúcar,rendimento_kg_ha,73036
@@ -7699,314 +8623,6 @@ periodo,cod_local,local,nivel,cultura,variavel,valor
 202412,53,Distrito Federal,N3,Laranja,rendimento_kg_ha,32328
 202512,53,Distrito Federal,N3,Laranja,rendimento_kg_ha,24000
 202609,53,Distrito Federal,N3,Laranja,rendimento_kg_ha,21075
-201612,1,Brasil,N1,Café,rendimento_kg_ha,1527
-201712,1,Brasil,N1,Café,rendimento_kg_ha,
-201812,1,Brasil,N1,Café,rendimento_kg_ha,
-201912,1,Brasil,N1,Café,rendimento_kg_ha,
-202012,1,Brasil,N1,Café,rendimento_kg_ha,
-202112,1,Brasil,N1,Café,rendimento_kg_ha,
-202212,1,Brasil,N1,Café,rendimento_kg_ha,
-202312,1,Brasil,N1,Café,rendimento_kg_ha,
-202412,1,Brasil,N1,Café,rendimento_kg_ha,
-202512,1,Brasil,N1,Café,rendimento_kg_ha,
-202609,1,Brasil,N1,Café,rendimento_kg_ha,
-201612,11,Rondônia,N3,Café,rendimento_kg_ha,1139
-201712,11,Rondônia,N3,Café,rendimento_kg_ha,
-201812,11,Rondônia,N3,Café,rendimento_kg_ha,
-201912,11,Rondônia,N3,Café,rendimento_kg_ha,
-202012,11,Rondônia,N3,Café,rendimento_kg_ha,
-202112,11,Rondônia,N3,Café,rendimento_kg_ha,
-202212,11,Rondônia,N3,Café,rendimento_kg_ha,
-202312,11,Rondônia,N3,Café,rendimento_kg_ha,
-202412,11,Rondônia,N3,Café,rendimento_kg_ha,
-202512,11,Rondônia,N3,Café,rendimento_kg_ha,
-202609,11,Rondônia,N3,Café,rendimento_kg_ha,
-201612,12,Acre,N3,Café,rendimento_kg_ha,1470
-201712,12,Acre,N3,Café,rendimento_kg_ha,
-201812,12,Acre,N3,Café,rendimento_kg_ha,
-201912,12,Acre,N3,Café,rendimento_kg_ha,
-202012,12,Acre,N3,Café,rendimento_kg_ha,
-202112,12,Acre,N3,Café,rendimento_kg_ha,
-202212,12,Acre,N3,Café,rendimento_kg_ha,
-202312,12,Acre,N3,Café,rendimento_kg_ha,
-202412,12,Acre,N3,Café,rendimento_kg_ha,
-202512,12,Acre,N3,Café,rendimento_kg_ha,
-202609,12,Acre,N3,Café,rendimento_kg_ha,
-201612,13,Amazonas,N3,Café,rendimento_kg_ha,918
-201712,13,Amazonas,N3,Café,rendimento_kg_ha,
-201812,13,Amazonas,N3,Café,rendimento_kg_ha,
-201912,13,Amazonas,N3,Café,rendimento_kg_ha,
-202012,13,Amazonas,N3,Café,rendimento_kg_ha,
-202112,13,Amazonas,N3,Café,rendimento_kg_ha,
-202212,13,Amazonas,N3,Café,rendimento_kg_ha,
-202312,13,Amazonas,N3,Café,rendimento_kg_ha,
-202412,13,Amazonas,N3,Café,rendimento_kg_ha,
-202512,13,Amazonas,N3,Café,rendimento_kg_ha,
-202609,13,Amazonas,N3,Café,rendimento_kg_ha,
-201612,14,Roraima,N3,Café,rendimento_kg_ha,
-201712,14,Roraima,N3,Café,rendimento_kg_ha,
-201812,14,Roraima,N3,Café,rendimento_kg_ha,
-201912,14,Roraima,N3,Café,rendimento_kg_ha,
-202012,14,Roraima,N3,Café,rendimento_kg_ha,
-202112,14,Roraima,N3,Café,rendimento_kg_ha,
-202212,14,Roraima,N3,Café,rendimento_kg_ha,
-202312,14,Roraima,N3,Café,rendimento_kg_ha,
-202412,14,Roraima,N3,Café,rendimento_kg_ha,
-202512,14,Roraima,N3,Café,rendimento_kg_ha,
-202609,14,Roraima,N3,Café,rendimento_kg_ha,
-201612,15,Pará,N3,Café,rendimento_kg_ha,845
-201712,15,Pará,N3,Café,rendimento_kg_ha,
-201812,15,Pará,N3,Café,rendimento_kg_ha,
-201912,15,Pará,N3,Café,rendimento_kg_ha,
-202012,15,Pará,N3,Café,rendimento_kg_ha,
-202112,15,Pará,N3,Café,rendimento_kg_ha,
-202212,15,Pará,N3,Café,rendimento_kg_ha,
-202312,15,Pará,N3,Café,rendimento_kg_ha,
-202412,15,Pará,N3,Café,rendimento_kg_ha,
-202512,15,Pará,N3,Café,rendimento_kg_ha,
-202609,15,Pará,N3,Café,rendimento_kg_ha,
-201612,16,Amapá,N3,Café,rendimento_kg_ha,
-201712,16,Amapá,N3,Café,rendimento_kg_ha,
-201812,16,Amapá,N3,Café,rendimento_kg_ha,
-201912,16,Amapá,N3,Café,rendimento_kg_ha,
-202012,16,Amapá,N3,Café,rendimento_kg_ha,
-202112,16,Amapá,N3,Café,rendimento_kg_ha,
-202212,16,Amapá,N3,Café,rendimento_kg_ha,
-202312,16,Amapá,N3,Café,rendimento_kg_ha,
-202412,16,Amapá,N3,Café,rendimento_kg_ha,
-202512,16,Amapá,N3,Café,rendimento_kg_ha,
-202609,16,Amapá,N3,Café,rendimento_kg_ha,
-201612,17,Tocantins,N3,Café,rendimento_kg_ha,
-201712,17,Tocantins,N3,Café,rendimento_kg_ha,
-201812,17,Tocantins,N3,Café,rendimento_kg_ha,
-201912,17,Tocantins,N3,Café,rendimento_kg_ha,
-202012,17,Tocantins,N3,Café,rendimento_kg_ha,
-202112,17,Tocantins,N3,Café,rendimento_kg_ha,
-202212,17,Tocantins,N3,Café,rendimento_kg_ha,
-202312,17,Tocantins,N3,Café,rendimento_kg_ha,
-202412,17,Tocantins,N3,Café,rendimento_kg_ha,
-202512,17,Tocantins,N3,Café,rendimento_kg_ha,
-202609,17,Tocantins,N3,Café,rendimento_kg_ha,
-201612,21,Maranhão,N3,Café,rendimento_kg_ha,
-201712,21,Maranhão,N3,Café,rendimento_kg_ha,
-201812,21,Maranhão,N3,Café,rendimento_kg_ha,
-201912,21,Maranhão,N3,Café,rendimento_kg_ha,
-202012,21,Maranhão,N3,Café,rendimento_kg_ha,
-202112,21,Maranhão,N3,Café,rendimento_kg_ha,
-202212,21,Maranhão,N3,Café,rendimento_kg_ha,
-202312,21,Maranhão,N3,Café,rendimento_kg_ha,
-202412,21,Maranhão,N3,Café,rendimento_kg_ha,
-202512,21,Maranhão,N3,Café,rendimento_kg_ha,
-202609,21,Maranhão,N3,Café,rendimento_kg_ha,
-201612,22,Piauí,N3,Café,rendimento_kg_ha,
-201712,22,Piauí,N3,Café,rendimento_kg_ha,
-201812,22,Piauí,N3,Café,rendimento_kg_ha,
-201912,22,Piauí,N3,Café,rendimento_kg_ha,
-202012,22,Piauí,N3,Café,rendimento_kg_ha,
-202112,22,Piauí,N3,Café,rendimento_kg_ha,
-202212,22,Piauí,N3,Café,rendimento_kg_ha,
-202312,22,Piauí,N3,Café,rendimento_kg_ha,
-202412,22,Piauí,N3,Café,rendimento_kg_ha,
-202512,22,Piauí,N3,Café,rendimento_kg_ha,
-202609,22,Piauí,N3,Café,rendimento_kg_ha,
-201612,23,Ceará,N3,Café,rendimento_kg_ha,229
-201712,23,Ceará,N3,Café,rendimento_kg_ha,
-201812,23,Ceará,N3,Café,rendimento_kg_ha,
-201912,23,Ceará,N3,Café,rendimento_kg_ha,
-202012,23,Ceará,N3,Café,rendimento_kg_ha,
-202112,23,Ceará,N3,Café,rendimento_kg_ha,
-202212,23,Ceará,N3,Café,rendimento_kg_ha,
-202312,23,Ceará,N3,Café,rendimento_kg_ha,
-202412,23,Ceará,N3,Café,rendimento_kg_ha,
-202512,23,Ceará,N3,Café,rendimento_kg_ha,
-202609,23,Ceará,N3,Café,rendimento_kg_ha,
-201612,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-201712,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-201812,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-201912,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-202012,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-202112,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-202212,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-202312,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-202412,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-202512,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-202609,24,Rio Grande do Norte,N3,Café,rendimento_kg_ha,
-201612,25,Paraíba,N3,Café,rendimento_kg_ha,
-201712,25,Paraíba,N3,Café,rendimento_kg_ha,
-201812,25,Paraíba,N3,Café,rendimento_kg_ha,
-201912,25,Paraíba,N3,Café,rendimento_kg_ha,
-202012,25,Paraíba,N3,Café,rendimento_kg_ha,
-202112,25,Paraíba,N3,Café,rendimento_kg_ha,
-202212,25,Paraíba,N3,Café,rendimento_kg_ha,
-202312,25,Paraíba,N3,Café,rendimento_kg_ha,
-202412,25,Paraíba,N3,Café,rendimento_kg_ha,
-202512,25,Paraíba,N3,Café,rendimento_kg_ha,
-202609,25,Paraíba,N3,Café,rendimento_kg_ha,
-201612,26,Pernambuco,N3,Café,rendimento_kg_ha,575
-201712,26,Pernambuco,N3,Café,rendimento_kg_ha,
-201812,26,Pernambuco,N3,Café,rendimento_kg_ha,
-201912,26,Pernambuco,N3,Café,rendimento_kg_ha,
-202012,26,Pernambuco,N3,Café,rendimento_kg_ha,
-202112,26,Pernambuco,N3,Café,rendimento_kg_ha,
-202212,26,Pernambuco,N3,Café,rendimento_kg_ha,
-202312,26,Pernambuco,N3,Café,rendimento_kg_ha,
-202412,26,Pernambuco,N3,Café,rendimento_kg_ha,
-202512,26,Pernambuco,N3,Café,rendimento_kg_ha,
-202609,26,Pernambuco,N3,Café,rendimento_kg_ha,
-201612,27,Alagoas,N3,Café,rendimento_kg_ha,
-201712,27,Alagoas,N3,Café,rendimento_kg_ha,
-201812,27,Alagoas,N3,Café,rendimento_kg_ha,
-201912,27,Alagoas,N3,Café,rendimento_kg_ha,
-202012,27,Alagoas,N3,Café,rendimento_kg_ha,
-202112,27,Alagoas,N3,Café,rendimento_kg_ha,
-202212,27,Alagoas,N3,Café,rendimento_kg_ha,
-202312,27,Alagoas,N3,Café,rendimento_kg_ha,
-202412,27,Alagoas,N3,Café,rendimento_kg_ha,
-202512,27,Alagoas,N3,Café,rendimento_kg_ha,
-202609,27,Alagoas,N3,Café,rendimento_kg_ha,
-201612,28,Sergipe,N3,Café,rendimento_kg_ha,
-201712,28,Sergipe,N3,Café,rendimento_kg_ha,
-201812,28,Sergipe,N3,Café,rendimento_kg_ha,
-201912,28,Sergipe,N3,Café,rendimento_kg_ha,
-202012,28,Sergipe,N3,Café,rendimento_kg_ha,
-202112,28,Sergipe,N3,Café,rendimento_kg_ha,
-202212,28,Sergipe,N3,Café,rendimento_kg_ha,
-202312,28,Sergipe,N3,Café,rendimento_kg_ha,
-202412,28,Sergipe,N3,Café,rendimento_kg_ha,
-202512,28,Sergipe,N3,Café,rendimento_kg_ha,
-202609,28,Sergipe,N3,Café,rendimento_kg_ha,
-201612,29,Bahia,N3,Café,rendimento_kg_ha,830
-201712,29,Bahia,N3,Café,rendimento_kg_ha,
-201812,29,Bahia,N3,Café,rendimento_kg_ha,
-201912,29,Bahia,N3,Café,rendimento_kg_ha,
-202012,29,Bahia,N3,Café,rendimento_kg_ha,
-202112,29,Bahia,N3,Café,rendimento_kg_ha,
-202212,29,Bahia,N3,Café,rendimento_kg_ha,
-202312,29,Bahia,N3,Café,rendimento_kg_ha,
-202412,29,Bahia,N3,Café,rendimento_kg_ha,
-202512,29,Bahia,N3,Café,rendimento_kg_ha,
-202609,29,Bahia,N3,Café,rendimento_kg_ha,
-201612,31,Minas Gerais,N3,Café,rendimento_kg_ha,1761
-201712,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-201812,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-201912,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-202012,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-202112,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-202212,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-202312,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-202412,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-202512,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-202609,31,Minas Gerais,N3,Café,rendimento_kg_ha,
-201612,32,Espírito Santo,N3,Café,rendimento_kg_ha,1218
-201712,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-201812,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-201912,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-202012,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-202112,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-202212,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-202312,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-202412,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-202512,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-202609,32,Espírito Santo,N3,Café,rendimento_kg_ha,
-201612,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,1514
-201712,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-201812,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-201912,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-202012,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-202112,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-202212,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-202312,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-202412,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-202512,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-202609,33,Rio de Janeiro,N3,Café,rendimento_kg_ha,
-201612,35,São Paulo,N3,Café,rendimento_kg_ha,1812
-201712,35,São Paulo,N3,Café,rendimento_kg_ha,
-201812,35,São Paulo,N3,Café,rendimento_kg_ha,
-201912,35,São Paulo,N3,Café,rendimento_kg_ha,
-202012,35,São Paulo,N3,Café,rendimento_kg_ha,
-202112,35,São Paulo,N3,Café,rendimento_kg_ha,
-202212,35,São Paulo,N3,Café,rendimento_kg_ha,
-202312,35,São Paulo,N3,Café,rendimento_kg_ha,
-202412,35,São Paulo,N3,Café,rendimento_kg_ha,
-202512,35,São Paulo,N3,Café,rendimento_kg_ha,
-202609,35,São Paulo,N3,Café,rendimento_kg_ha,
-201612,41,Paraná,N3,Café,rendimento_kg_ha,1360
-201712,41,Paraná,N3,Café,rendimento_kg_ha,
-201812,41,Paraná,N3,Café,rendimento_kg_ha,
-201912,41,Paraná,N3,Café,rendimento_kg_ha,
-202012,41,Paraná,N3,Café,rendimento_kg_ha,
-202112,41,Paraná,N3,Café,rendimento_kg_ha,
-202212,41,Paraná,N3,Café,rendimento_kg_ha,
-202312,41,Paraná,N3,Café,rendimento_kg_ha,
-202412,41,Paraná,N3,Café,rendimento_kg_ha,
-202512,41,Paraná,N3,Café,rendimento_kg_ha,
-202609,41,Paraná,N3,Café,rendimento_kg_ha,
-201612,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-201712,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-201812,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-201912,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-202012,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-202112,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-202212,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-202312,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-202412,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-202512,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-202609,42,Santa Catarina,N3,Café,rendimento_kg_ha,
-201612,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-201712,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-201812,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-201912,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-202012,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-202112,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-202212,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-202312,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-202412,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-202512,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-202609,43,Rio Grande do Sul,N3,Café,rendimento_kg_ha,
-201612,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,920
-201712,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-201812,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-201912,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-202012,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-202112,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-202212,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-202312,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-202412,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-202512,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-202609,50,Mato Grosso do Sul,N3,Café,rendimento_kg_ha,
-201612,51,Mato Grosso,N3,Café,rendimento_kg_ha,355
-201712,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-201812,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-201912,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-202012,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-202112,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-202212,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-202312,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-202412,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-202512,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-202609,51,Mato Grosso,N3,Café,rendimento_kg_ha,
-201612,52,Goiás,N3,Café,rendimento_kg_ha,2766
-201712,52,Goiás,N3,Café,rendimento_kg_ha,
-201812,52,Goiás,N3,Café,rendimento_kg_ha,
-201912,52,Goiás,N3,Café,rendimento_kg_ha,
-202012,52,Goiás,N3,Café,rendimento_kg_ha,
-202112,52,Goiás,N3,Café,rendimento_kg_ha,
-202212,52,Goiás,N3,Café,rendimento_kg_ha,
-202312,52,Goiás,N3,Café,rendimento_kg_ha,
-202412,52,Goiás,N3,Café,rendimento_kg_ha,
-202512,52,Goiás,N3,Café,rendimento_kg_ha,
-202609,52,Goiás,N3,Café,rendimento_kg_ha,
-201612,53,Distrito Federal,N3,Café,rendimento_kg_ha,2225
-201712,53,Distrito Federal,N3,Café,rendimento_kg_ha,
-201812,53,Distrito Federal,N3,Café,rendimento_kg_ha,
-201912,53,Distrito Federal,N3,Café,rendimento_kg_ha,
-202012,53,Distrito Federal,N3,Café,rendimento_kg_ha,
-202112,53,Distrito Federal,N3,Café,rendimento_kg_ha,
-202212,53,Distrito Federal,N3,Café,rendimento_kg_ha,
-202312,53,Distrito Federal,N3,Café,rendimento_kg_ha,
-202412,53,Distrito Federal,N3,Café,rendimento_kg_ha,
-202512,53,Distrito Federal,N3,Café,rendimento_kg_ha,
-202609,53,Distrito Federal,N3,Café,rendimento_kg_ha,
 201612,1,Brasil,N1,"Grãos (cereais, leguminosas e oleaginosas)",area_plantada_ha,58694432
 201712,1,Brasil,N1,"Grãos (cereais, leguminosas e oleaginosas)",area_plantada_ha,61592877
 201812,1,Brasil,N1,"Grãos (cereais, leguminosas e oleaginosas)",area_plantada_ha,61346596
@@ -11087,6 +11703,622 @@ periodo,cod_local,local,nivel,cultura,variavel,valor
 202412,53,Distrito Federal,N3,Trigo,area_plantada_ha,5300
 202512,53,Distrito Federal,N3,Trigo,area_plantada_ha,4000
 202609,53,Distrito Federal,N3,Trigo,area_plantada_ha,7920
+201612,1,Brasil,N1,Café arábica,area_plantada_ha,1780426
+201712,1,Brasil,N1,Café arábica,area_plantada_ha,1776251
+201812,1,Brasil,N1,Café arábica,area_plantada_ha,1732279
+201912,1,Brasil,N1,Café arábica,area_plantada_ha,1456068
+202012,1,Brasil,N1,Café arábica,area_plantada_ha,1523459
+202112,1,Brasil,N1,Café arábica,area_plantada_ha,1448579
+202212,1,Brasil,N1,Café arábica,area_plantada_ha,1473752
+202312,1,Brasil,N1,Café arábica,area_plantada_ha,1509733
+202412,1,Brasil,N1,Café arábica,area_plantada_ha,1552279
+202512,1,Brasil,N1,Café arábica,area_plantada_ha,1535916
+202609,1,Brasil,N1,Café arábica,area_plantada_ha,1575442
+201612,11,Rondônia,N3,Café arábica,area_plantada_ha,
+201712,11,Rondônia,N3,Café arábica,area_plantada_ha,
+201812,11,Rondônia,N3,Café arábica,area_plantada_ha,
+201912,11,Rondônia,N3,Café arábica,area_plantada_ha,
+202012,11,Rondônia,N3,Café arábica,area_plantada_ha,
+202112,11,Rondônia,N3,Café arábica,area_plantada_ha,
+202212,11,Rondônia,N3,Café arábica,area_plantada_ha,
+202312,11,Rondônia,N3,Café arábica,area_plantada_ha,
+202412,11,Rondônia,N3,Café arábica,area_plantada_ha,
+202512,11,Rondônia,N3,Café arábica,area_plantada_ha,
+202609,11,Rondônia,N3,Café arábica,area_plantada_ha,
+201612,12,Acre,N3,Café arábica,area_plantada_ha,
+201712,12,Acre,N3,Café arábica,area_plantada_ha,
+201812,12,Acre,N3,Café arábica,area_plantada_ha,
+201912,12,Acre,N3,Café arábica,area_plantada_ha,
+202012,12,Acre,N3,Café arábica,area_plantada_ha,
+202112,12,Acre,N3,Café arábica,area_plantada_ha,
+202212,12,Acre,N3,Café arábica,area_plantada_ha,
+202312,12,Acre,N3,Café arábica,area_plantada_ha,
+202412,12,Acre,N3,Café arábica,area_plantada_ha,
+202512,12,Acre,N3,Café arábica,area_plantada_ha,
+202609,12,Acre,N3,Café arábica,area_plantada_ha,
+201612,13,Amazonas,N3,Café arábica,area_plantada_ha,2000
+201712,13,Amazonas,N3,Café arábica,area_plantada_ha,2000
+201812,13,Amazonas,N3,Café arábica,area_plantada_ha,2000
+201912,13,Amazonas,N3,Café arábica,area_plantada_ha,2000
+202012,13,Amazonas,N3,Café arábica,area_plantada_ha,2000
+202112,13,Amazonas,N3,Café arábica,area_plantada_ha,2000
+202212,13,Amazonas,N3,Café arábica,area_plantada_ha,2000
+202312,13,Amazonas,N3,Café arábica,area_plantada_ha,
+202412,13,Amazonas,N3,Café arábica,area_plantada_ha,
+202512,13,Amazonas,N3,Café arábica,area_plantada_ha,
+202609,13,Amazonas,N3,Café arábica,area_plantada_ha,
+201612,14,Roraima,N3,Café arábica,area_plantada_ha,
+201712,14,Roraima,N3,Café arábica,area_plantada_ha,
+201812,14,Roraima,N3,Café arábica,area_plantada_ha,
+201912,14,Roraima,N3,Café arábica,area_plantada_ha,
+202012,14,Roraima,N3,Café arábica,area_plantada_ha,
+202112,14,Roraima,N3,Café arábica,area_plantada_ha,
+202212,14,Roraima,N3,Café arábica,area_plantada_ha,
+202312,14,Roraima,N3,Café arábica,area_plantada_ha,
+202412,14,Roraima,N3,Café arábica,area_plantada_ha,
+202512,14,Roraima,N3,Café arábica,area_plantada_ha,
+202609,14,Roraima,N3,Café arábica,area_plantada_ha,
+201612,15,Pará,N3,Café arábica,area_plantada_ha,
+201712,15,Pará,N3,Café arábica,area_plantada_ha,
+201812,15,Pará,N3,Café arábica,area_plantada_ha,
+201912,15,Pará,N3,Café arábica,area_plantada_ha,
+202012,15,Pará,N3,Café arábica,area_plantada_ha,
+202112,15,Pará,N3,Café arábica,area_plantada_ha,
+202212,15,Pará,N3,Café arábica,area_plantada_ha,
+202312,15,Pará,N3,Café arábica,area_plantada_ha,
+202412,15,Pará,N3,Café arábica,area_plantada_ha,
+202512,15,Pará,N3,Café arábica,area_plantada_ha,
+202609,15,Pará,N3,Café arábica,area_plantada_ha,
+201612,16,Amapá,N3,Café arábica,area_plantada_ha,
+201712,16,Amapá,N3,Café arábica,area_plantada_ha,
+201812,16,Amapá,N3,Café arábica,area_plantada_ha,
+201912,16,Amapá,N3,Café arábica,area_plantada_ha,
+202012,16,Amapá,N3,Café arábica,area_plantada_ha,
+202112,16,Amapá,N3,Café arábica,area_plantada_ha,
+202212,16,Amapá,N3,Café arábica,area_plantada_ha,
+202312,16,Amapá,N3,Café arábica,area_plantada_ha,
+202412,16,Amapá,N3,Café arábica,area_plantada_ha,
+202512,16,Amapá,N3,Café arábica,area_plantada_ha,
+202609,16,Amapá,N3,Café arábica,area_plantada_ha,
+201612,17,Tocantins,N3,Café arábica,area_plantada_ha,
+201712,17,Tocantins,N3,Café arábica,area_plantada_ha,
+201812,17,Tocantins,N3,Café arábica,area_plantada_ha,
+201912,17,Tocantins,N3,Café arábica,area_plantada_ha,
+202012,17,Tocantins,N3,Café arábica,area_plantada_ha,
+202112,17,Tocantins,N3,Café arábica,area_plantada_ha,
+202212,17,Tocantins,N3,Café arábica,area_plantada_ha,
+202312,17,Tocantins,N3,Café arábica,area_plantada_ha,
+202412,17,Tocantins,N3,Café arábica,area_plantada_ha,
+202512,17,Tocantins,N3,Café arábica,area_plantada_ha,
+202609,17,Tocantins,N3,Café arábica,area_plantada_ha,
+201612,21,Maranhão,N3,Café arábica,area_plantada_ha,
+201712,21,Maranhão,N3,Café arábica,area_plantada_ha,
+201812,21,Maranhão,N3,Café arábica,area_plantada_ha,
+201912,21,Maranhão,N3,Café arábica,area_plantada_ha,
+202012,21,Maranhão,N3,Café arábica,area_plantada_ha,
+202112,21,Maranhão,N3,Café arábica,area_plantada_ha,
+202212,21,Maranhão,N3,Café arábica,area_plantada_ha,
+202312,21,Maranhão,N3,Café arábica,area_plantada_ha,
+202412,21,Maranhão,N3,Café arábica,area_plantada_ha,
+202512,21,Maranhão,N3,Café arábica,area_plantada_ha,
+202609,21,Maranhão,N3,Café arábica,area_plantada_ha,
+201612,22,Piauí,N3,Café arábica,area_plantada_ha,
+201712,22,Piauí,N3,Café arábica,area_plantada_ha,
+201812,22,Piauí,N3,Café arábica,area_plantada_ha,
+201912,22,Piauí,N3,Café arábica,area_plantada_ha,
+202012,22,Piauí,N3,Café arábica,area_plantada_ha,
+202112,22,Piauí,N3,Café arábica,area_plantada_ha,
+202212,22,Piauí,N3,Café arábica,area_plantada_ha,
+202312,22,Piauí,N3,Café arábica,area_plantada_ha,
+202412,22,Piauí,N3,Café arábica,area_plantada_ha,
+202512,22,Piauí,N3,Café arábica,area_plantada_ha,
+202609,22,Piauí,N3,Café arábica,area_plantada_ha,
+201612,23,Ceará,N3,Café arábica,area_plantada_ha,3267
+201712,23,Ceará,N3,Café arábica,area_plantada_ha,2768
+201812,23,Ceará,N3,Café arábica,area_plantada_ha,1661
+201912,23,Ceará,N3,Café arábica,area_plantada_ha,1377
+202012,23,Ceará,N3,Café arábica,area_plantada_ha,1320
+202112,23,Ceará,N3,Café arábica,area_plantada_ha,1297
+202212,23,Ceará,N3,Café arábica,area_plantada_ha,1274
+202312,23,Ceará,N3,Café arábica,area_plantada_ha,1284
+202412,23,Ceará,N3,Café arábica,area_plantada_ha,1257
+202512,23,Ceará,N3,Café arábica,area_plantada_ha,1271
+202609,23,Ceará,N3,Café arábica,area_plantada_ha,1290
+201612,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+201712,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+201812,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+201912,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+202012,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+202112,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+202212,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+202312,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+202412,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+202512,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+202609,24,Rio Grande do Norte,N3,Café arábica,area_plantada_ha,
+201612,25,Paraíba,N3,Café arábica,area_plantada_ha,
+201712,25,Paraíba,N3,Café arábica,area_plantada_ha,
+201812,25,Paraíba,N3,Café arábica,area_plantada_ha,
+201912,25,Paraíba,N3,Café arábica,area_plantada_ha,
+202012,25,Paraíba,N3,Café arábica,area_plantada_ha,
+202112,25,Paraíba,N3,Café arábica,area_plantada_ha,
+202212,25,Paraíba,N3,Café arábica,area_plantada_ha,
+202312,25,Paraíba,N3,Café arábica,area_plantada_ha,
+202412,25,Paraíba,N3,Café arábica,area_plantada_ha,
+202512,25,Paraíba,N3,Café arábica,area_plantada_ha,
+202609,25,Paraíba,N3,Café arábica,area_plantada_ha,
+201612,26,Pernambuco,N3,Café arábica,area_plantada_ha,2388
+201712,26,Pernambuco,N3,Café arábica,area_plantada_ha,2467
+201812,26,Pernambuco,N3,Café arábica,area_plantada_ha,2500
+201912,26,Pernambuco,N3,Café arábica,area_plantada_ha,1833
+202012,26,Pernambuco,N3,Café arábica,area_plantada_ha,1326
+202112,26,Pernambuco,N3,Café arábica,area_plantada_ha,1203
+202212,26,Pernambuco,N3,Café arábica,area_plantada_ha,1201
+202312,26,Pernambuco,N3,Café arábica,area_plantada_ha,1013
+202412,26,Pernambuco,N3,Café arábica,area_plantada_ha,982
+202512,26,Pernambuco,N3,Café arábica,area_plantada_ha,975
+202609,26,Pernambuco,N3,Café arábica,area_plantada_ha,973
+201612,27,Alagoas,N3,Café arábica,area_plantada_ha,
+201712,27,Alagoas,N3,Café arábica,area_plantada_ha,
+201812,27,Alagoas,N3,Café arábica,area_plantada_ha,
+201912,27,Alagoas,N3,Café arábica,area_plantada_ha,
+202012,27,Alagoas,N3,Café arábica,area_plantada_ha,
+202112,27,Alagoas,N3,Café arábica,area_plantada_ha,
+202212,27,Alagoas,N3,Café arábica,area_plantada_ha,
+202312,27,Alagoas,N3,Café arábica,area_plantada_ha,
+202412,27,Alagoas,N3,Café arábica,area_plantada_ha,
+202512,27,Alagoas,N3,Café arábica,area_plantada_ha,
+202609,27,Alagoas,N3,Café arábica,area_plantada_ha,
+201612,28,Sergipe,N3,Café arábica,area_plantada_ha,
+201712,28,Sergipe,N3,Café arábica,area_plantada_ha,
+201812,28,Sergipe,N3,Café arábica,area_plantada_ha,
+201912,28,Sergipe,N3,Café arábica,area_plantada_ha,
+202012,28,Sergipe,N3,Café arábica,area_plantada_ha,
+202112,28,Sergipe,N3,Café arábica,area_plantada_ha,
+202212,28,Sergipe,N3,Café arábica,area_plantada_ha,
+202312,28,Sergipe,N3,Café arábica,area_plantada_ha,
+202412,28,Sergipe,N3,Café arábica,area_plantada_ha,
+202512,28,Sergipe,N3,Café arábica,area_plantada_ha,
+202609,28,Sergipe,N3,Café arábica,area_plantada_ha,
+201612,29,Bahia,N3,Café arábica,area_plantada_ha,124416
+201712,29,Bahia,N3,Café arábica,area_plantada_ha,105000
+201812,29,Bahia,N3,Café arábica,area_plantada_ha,102000
+201912,29,Bahia,N3,Café arábica,area_plantada_ha,71500
+202012,29,Bahia,N3,Café arábica,area_plantada_ha,80000
+202112,29,Bahia,N3,Café arábica,area_plantada_ha,76000
+202212,29,Bahia,N3,Café arábica,area_plantada_ha,76000
+202312,29,Bahia,N3,Café arábica,area_plantada_ha,78000
+202412,29,Bahia,N3,Café arábica,area_plantada_ha,81000
+202512,29,Bahia,N3,Café arábica,area_plantada_ha,80000
+202609,29,Bahia,N3,Café arábica,area_plantada_ha,70000
+201612,31,Minas Gerais,N3,Café arábica,area_plantada_ha,1198809
+201712,31,Minas Gerais,N3,Café arábica,area_plantada_ha,1215213
+201812,31,Minas Gerais,N3,Café arábica,area_plantada_ha,1200228
+201912,31,Minas Gerais,N3,Café arábica,area_plantada_ha,986637
+202012,31,Minas Gerais,N3,Café arábica,area_plantada_ha,1045178
+202112,31,Minas Gerais,N3,Café arábica,area_plantada_ha,994272
+202212,31,Minas Gerais,N3,Café arábica,area_plantada_ha,1012763
+202312,31,Minas Gerais,N3,Café arábica,area_plantada_ha,1061280
+202412,31,Minas Gerais,N3,Café arábica,area_plantada_ha,1089738
+202512,31,Minas Gerais,N3,Café arábica,area_plantada_ha,1078044
+202609,31,Minas Gerais,N3,Café arábica,area_plantada_ha,1136091
+201612,32,Espírito Santo,N3,Café arábica,area_plantada_ha,169805
+201712,32,Espírito Santo,N3,Café arábica,area_plantada_ha,171209
+201812,32,Espírito Santo,N3,Café arábica,area_plantada_ha,151577
+201912,32,Espírito Santo,N3,Café arábica,area_plantada_ha,121200
+202012,32,Espírito Santo,N3,Café arábica,area_plantada_ha,123150
+202112,32,Espírito Santo,N3,Café arábica,area_plantada_ha,124599
+202212,32,Espírito Santo,N3,Café arábica,area_plantada_ha,134902
+202312,32,Espírito Santo,N3,Café arábica,area_plantada_ha,136853
+202412,32,Espírito Santo,N3,Café arábica,area_plantada_ha,138485
+202512,32,Espírito Santo,N3,Café arábica,area_plantada_ha,131920
+202609,32,Espírito Santo,N3,Café arábica,area_plantada_ha,132412
+201612,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,12632
+201712,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,12233
+201812,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,12224
+201912,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,13058
+202012,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,12892
+202112,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,11909
+202212,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,11956
+202312,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,11816
+202412,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,11485
+202512,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,12294
+202609,33,Rio de Janeiro,N3,Café arábica,area_plantada_ha,13275
+201612,35,São Paulo,N3,Café arábica,area_plantada_ha,211632
+201712,35,São Paulo,N3,Café arábica,area_plantada_ha,211564
+201812,35,São Paulo,N3,Café arábica,area_plantada_ha,214198
+201912,35,São Paulo,N3,Café arábica,area_plantada_ha,212193
+202012,35,São Paulo,N3,Café arábica,area_plantada_ha,213638
+202112,35,São Paulo,N3,Café arábica,area_plantada_ha,196700
+202212,35,São Paulo,N3,Café arábica,area_plantada_ha,199552
+202312,35,São Paulo,N3,Café arábica,area_plantada_ha,186658
+202412,35,São Paulo,N3,Café arábica,area_plantada_ha,197226
+202512,35,São Paulo,N3,Café arábica,area_plantada_ha,198756
+202609,35,São Paulo,N3,Café arábica,area_plantada_ha,188243
+201612,41,Paraná,N3,Café arábica,area_plantada_ha,46160
+201712,41,Paraná,N3,Café arábica,area_plantada_ha,46111
+201812,41,Paraná,N3,Café arábica,area_plantada_ha,37505
+201912,41,Paraná,N3,Café arábica,area_plantada_ha,37596
+202012,41,Paraná,N3,Café arábica,area_plantada_ha,35700
+202112,41,Paraná,N3,Café arábica,area_plantada_ha,33100
+202212,41,Paraná,N3,Café arábica,area_plantada_ha,27114
+202312,41,Paraná,N3,Café arábica,area_plantada_ha,25900
+202412,41,Paraná,N3,Café arábica,area_plantada_ha,25200
+202512,41,Paraná,N3,Café arábica,area_plantada_ha,25200
+202609,41,Paraná,N3,Café arábica,area_plantada_ha,25100
+201612,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+201712,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+201812,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+201912,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+202012,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+202112,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+202212,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+202312,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+202412,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+202512,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+202609,42,Santa Catarina,N3,Café arábica,area_plantada_ha,
+201612,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+201712,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+201812,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+201912,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+202012,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+202112,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+202212,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+202312,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+202412,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+202512,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+202609,43,Rio Grande do Sul,N3,Café arábica,area_plantada_ha,
+201612,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,493
+201712,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,523
+201812,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,270
+201912,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,256
+202012,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,258
+202112,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,247
+202212,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,178
+202312,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,168
+202412,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,159
+202512,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,158
+202609,50,Mato Grosso do Sul,N3,Café arábica,area_plantada_ha,154
+201612,51,Mato Grosso,N3,Café arábica,area_plantada_ha,133
+201712,51,Mato Grosso,N3,Café arábica,area_plantada_ha,113
+201812,51,Mato Grosso,N3,Café arábica,area_plantada_ha,145
+201912,51,Mato Grosso,N3,Café arábica,area_plantada_ha,130
+202012,51,Mato Grosso,N3,Café arábica,area_plantada_ha,117
+202112,51,Mato Grosso,N3,Café arábica,area_plantada_ha,26
+202212,51,Mato Grosso,N3,Café arábica,area_plantada_ha,26
+202312,51,Mato Grosso,N3,Café arábica,area_plantada_ha,21
+202412,51,Mato Grosso,N3,Café arábica,area_plantada_ha,26
+202512,51,Mato Grosso,N3,Café arábica,area_plantada_ha,26
+202609,51,Mato Grosso,N3,Café arábica,area_plantada_ha,28
+201612,52,Goiás,N3,Café arábica,area_plantada_ha,7988
+201712,52,Goiás,N3,Café arábica,area_plantada_ha,6421
+201812,52,Goiás,N3,Café arábica,area_plantada_ha,7433
+201912,52,Goiás,N3,Café arábica,area_plantada_ha,7878
+202012,52,Goiás,N3,Café arábica,area_plantada_ha,7470
+202112,52,Goiás,N3,Café arábica,area_plantada_ha,6816
+202212,52,Goiás,N3,Café arábica,area_plantada_ha,6376
+202312,52,Goiás,N3,Café arábica,area_plantada_ha,6330
+202412,52,Goiás,N3,Café arábica,area_plantada_ha,6304
+202512,52,Goiás,N3,Café arábica,area_plantada_ha,6855
+202609,52,Goiás,N3,Café arábica,area_plantada_ha,7444
+201612,53,Distrito Federal,N3,Café arábica,area_plantada_ha,703
+201712,53,Distrito Federal,N3,Café arábica,area_plantada_ha,629
+201812,53,Distrito Federal,N3,Café arábica,area_plantada_ha,538
+201912,53,Distrito Federal,N3,Café arábica,area_plantada_ha,410
+202012,53,Distrito Federal,N3,Café arábica,area_plantada_ha,410
+202112,53,Distrito Federal,N3,Café arábica,area_plantada_ha,410
+202212,53,Distrito Federal,N3,Café arábica,area_plantada_ha,410
+202312,53,Distrito Federal,N3,Café arábica,area_plantada_ha,410
+202412,53,Distrito Federal,N3,Café arábica,area_plantada_ha,417
+202512,53,Distrito Federal,N3,Café arábica,area_plantada_ha,417
+202609,53,Distrito Federal,N3,Café arábica,area_plantada_ha,432
+201612,1,Brasil,N1,Café canéfora,area_plantada_ha,522231
+201712,1,Brasil,N1,Café canéfora,area_plantada_ha,494141
+201812,1,Brasil,N1,Café canéfora,area_plantada_ha,460764
+201912,1,Brasil,N1,Café canéfora,area_plantada_ha,390551
+202012,1,Brasil,N1,Café canéfora,area_plantada_ha,403897
+202112,1,Brasil,N1,Café canéfora,area_plantada_ha,400977
+202212,1,Brasil,N1,Café canéfora,area_plantada_ha,402555
+202312,1,Brasil,N1,Café canéfora,area_plantada_ha,411393
+202412,1,Brasil,N1,Café canéfora,area_plantada_ha,405793
+202512,1,Brasil,N1,Café canéfora,area_plantada_ha,417467
+202609,1,Brasil,N1,Café canéfora,area_plantada_ha,433159
+201612,11,Rondônia,N3,Café canéfora,area_plantada_ha,95737
+201712,11,Rondônia,N3,Café canéfora,area_plantada_ha,83197
+201812,11,Rondônia,N3,Café canéfora,area_plantada_ha,75108
+201912,11,Rondônia,N3,Café canéfora,area_plantada_ha,63978
+202012,11,Rondônia,N3,Café canéfora,area_plantada_ha,72189
+202112,11,Rondônia,N3,Café canéfora,area_plantada_ha,66169
+202212,11,Rondônia,N3,Café canéfora,area_plantada_ha,57475
+202312,11,Rondônia,N3,Café canéfora,area_plantada_ha,61937
+202412,11,Rondônia,N3,Café canéfora,area_plantada_ha,48267
+202512,11,Rondônia,N3,Café canéfora,area_plantada_ha,49535
+202609,11,Rondônia,N3,Café canéfora,area_plantada_ha,48173
+201612,12,Acre,N3,Café canéfora,area_plantada_ha,1781
+201712,12,Acre,N3,Café canéfora,area_plantada_ha,1848
+201812,12,Acre,N3,Café canéfora,area_plantada_ha,1690
+201912,12,Acre,N3,Café canéfora,area_plantada_ha,1687
+202012,12,Acre,N3,Café canéfora,area_plantada_ha,1047
+202112,12,Acre,N3,Café canéfora,area_plantada_ha,1100
+202212,12,Acre,N3,Café canéfora,area_plantada_ha,1122
+202312,12,Acre,N3,Café canéfora,area_plantada_ha,993
+202412,12,Acre,N3,Café canéfora,area_plantada_ha,1115
+202512,12,Acre,N3,Café canéfora,area_plantada_ha,1931
+202609,12,Acre,N3,Café canéfora,area_plantada_ha,2033
+201612,13,Amazonas,N3,Café canéfora,area_plantada_ha,2000
+201712,13,Amazonas,N3,Café canéfora,area_plantada_ha,2622
+201812,13,Amazonas,N3,Café canéfora,area_plantada_ha,2622
+201912,13,Amazonas,N3,Café canéfora,area_plantada_ha,2622
+202012,13,Amazonas,N3,Café canéfora,area_plantada_ha,2622
+202112,13,Amazonas,N3,Café canéfora,area_plantada_ha,2622
+202212,13,Amazonas,N3,Café canéfora,area_plantada_ha,2622
+202312,13,Amazonas,N3,Café canéfora,area_plantada_ha,600
+202412,13,Amazonas,N3,Café canéfora,area_plantada_ha,638
+202512,13,Amazonas,N3,Café canéfora,area_plantada_ha,1679
+202609,13,Amazonas,N3,Café canéfora,area_plantada_ha,1668
+201612,14,Roraima,N3,Café canéfora,area_plantada_ha,
+201712,14,Roraima,N3,Café canéfora,area_plantada_ha,
+201812,14,Roraima,N3,Café canéfora,area_plantada_ha,
+201912,14,Roraima,N3,Café canéfora,area_plantada_ha,
+202012,14,Roraima,N3,Café canéfora,area_plantada_ha,
+202112,14,Roraima,N3,Café canéfora,area_plantada_ha,
+202212,14,Roraima,N3,Café canéfora,area_plantada_ha,
+202312,14,Roraima,N3,Café canéfora,area_plantada_ha,
+202412,14,Roraima,N3,Café canéfora,area_plantada_ha,
+202512,14,Roraima,N3,Café canéfora,area_plantada_ha,
+202609,14,Roraima,N3,Café canéfora,area_plantada_ha,
+201612,15,Pará,N3,Café canéfora,area_plantada_ha,533
+201712,15,Pará,N3,Café canéfora,area_plantada_ha,548
+201812,15,Pará,N3,Café canéfora,area_plantada_ha,389
+201912,15,Pará,N3,Café canéfora,area_plantada_ha,274
+202012,15,Pará,N3,Café canéfora,area_plantada_ha,257
+202112,15,Pará,N3,Café canéfora,area_plantada_ha,246
+202212,15,Pará,N3,Café canéfora,area_plantada_ha,213
+202312,15,Pará,N3,Café canéfora,area_plantada_ha,203
+202412,15,Pará,N3,Café canéfora,area_plantada_ha,147
+202512,15,Pará,N3,Café canéfora,area_plantada_ha,158
+202609,15,Pará,N3,Café canéfora,area_plantada_ha,237
+201612,16,Amapá,N3,Café canéfora,area_plantada_ha,
+201712,16,Amapá,N3,Café canéfora,area_plantada_ha,
+201812,16,Amapá,N3,Café canéfora,area_plantada_ha,
+201912,16,Amapá,N3,Café canéfora,area_plantada_ha,
+202012,16,Amapá,N3,Café canéfora,area_plantada_ha,
+202112,16,Amapá,N3,Café canéfora,area_plantada_ha,
+202212,16,Amapá,N3,Café canéfora,area_plantada_ha,
+202312,16,Amapá,N3,Café canéfora,area_plantada_ha,
+202412,16,Amapá,N3,Café canéfora,area_plantada_ha,
+202512,16,Amapá,N3,Café canéfora,area_plantada_ha,
+202609,16,Amapá,N3,Café canéfora,area_plantada_ha,
+201612,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+201712,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+201812,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+201912,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+202012,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+202112,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+202212,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+202312,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+202412,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+202512,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+202609,17,Tocantins,N3,Café canéfora,area_plantada_ha,
+201612,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+201712,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+201812,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+201912,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+202012,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+202112,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+202212,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+202312,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+202412,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+202512,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+202609,21,Maranhão,N3,Café canéfora,area_plantada_ha,
+201612,22,Piauí,N3,Café canéfora,area_plantada_ha,
+201712,22,Piauí,N3,Café canéfora,area_plantada_ha,
+201812,22,Piauí,N3,Café canéfora,area_plantada_ha,
+201912,22,Piauí,N3,Café canéfora,area_plantada_ha,
+202012,22,Piauí,N3,Café canéfora,area_plantada_ha,
+202112,22,Piauí,N3,Café canéfora,area_plantada_ha,
+202212,22,Piauí,N3,Café canéfora,area_plantada_ha,
+202312,22,Piauí,N3,Café canéfora,area_plantada_ha,
+202412,22,Piauí,N3,Café canéfora,area_plantada_ha,
+202512,22,Piauí,N3,Café canéfora,area_plantada_ha,
+202609,22,Piauí,N3,Café canéfora,area_plantada_ha,
+201612,23,Ceará,N3,Café canéfora,area_plantada_ha,127
+201712,23,Ceará,N3,Café canéfora,area_plantada_ha,127
+201812,23,Ceará,N3,Café canéfora,area_plantada_ha,127
+201912,23,Ceará,N3,Café canéfora,area_plantada_ha,127
+202012,23,Ceará,N3,Café canéfora,area_plantada_ha,127
+202112,23,Ceará,N3,Café canéfora,area_plantada_ha,110
+202212,23,Ceará,N3,Café canéfora,area_plantada_ha,28
+202312,23,Ceará,N3,Café canéfora,area_plantada_ha,28
+202412,23,Ceará,N3,Café canéfora,area_plantada_ha,28
+202512,23,Ceará,N3,Café canéfora,area_plantada_ha,28
+202609,23,Ceará,N3,Café canéfora,area_plantada_ha,28
+201612,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+201712,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+201812,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+201912,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+202012,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+202112,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+202212,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+202312,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+202412,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+202512,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+202609,24,Rio Grande do Norte,N3,Café canéfora,area_plantada_ha,
+201612,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+201712,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+201812,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+201912,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+202012,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+202112,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+202212,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+202312,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+202412,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+202512,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+202609,25,Paraíba,N3,Café canéfora,area_plantada_ha,
+201612,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+201712,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+201812,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+201912,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+202012,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+202112,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+202212,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+202312,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+202412,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+202512,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+202609,26,Pernambuco,N3,Café canéfora,area_plantada_ha,
+201612,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+201712,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+201812,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+201912,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+202012,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+202112,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+202212,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+202312,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+202412,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+202512,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+202609,27,Alagoas,N3,Café canéfora,area_plantada_ha,
+201612,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+201712,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+201812,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+201912,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+202012,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+202112,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+202212,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+202312,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+202412,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+202512,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+202609,28,Sergipe,N3,Café canéfora,area_plantada_ha,
+201612,29,Bahia,N3,Café canéfora,area_plantada_ha,50776
+201712,29,Bahia,N3,Café canéfora,area_plantada_ha,55000
+201812,29,Bahia,N3,Café canéfora,area_plantada_ha,52000
+201912,29,Bahia,N3,Café canéfora,area_plantada_ha,41800
+202012,29,Bahia,N3,Café canéfora,area_plantada_ha,44500
+202112,29,Bahia,N3,Café canéfora,area_plantada_ha,45500
+202212,29,Bahia,N3,Café canéfora,area_plantada_ha,45500
+202312,29,Bahia,N3,Café canéfora,area_plantada_ha,48000
+202412,29,Bahia,N3,Café canéfora,area_plantada_ha,49000
+202512,29,Bahia,N3,Café canéfora,area_plantada_ha,48000
+202609,29,Bahia,N3,Café canéfora,area_plantada_ha,48600
+201612,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,13773
+201712,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,14472
+201812,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,10593
+201912,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,9114
+202012,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,9733
+202112,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,8515
+202212,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,9936
+202312,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,9078
+202412,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,10355
+202512,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,10473
+202609,31,Minas Gerais,N3,Café canéfora,area_plantada_ha,12541
+201612,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,339506
+201712,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,316990
+201812,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,298984
+201912,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,257900
+202012,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,261678
+202112,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,265022
+202212,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,273779
+202312,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,278171
+202412,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,286683
+202512,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,296167
+202609,32,Espírito Santo,N3,Café canéfora,area_plantada_ha,310779
+201612,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+201712,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+201812,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+201912,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+202012,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+202112,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+202212,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+202312,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+202412,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+202512,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+202609,33,Rio de Janeiro,N3,Café canéfora,area_plantada_ha,
+201612,35,São Paulo,N3,Café canéfora,area_plantada_ha,30
+201712,35,São Paulo,N3,Café canéfora,area_plantada_ha,25
+201812,35,São Paulo,N3,Café canéfora,area_plantada_ha,269
+201912,35,São Paulo,N3,Café canéfora,area_plantada_ha,281
+202012,35,São Paulo,N3,Café canéfora,area_plantada_ha,47
+202112,35,São Paulo,N3,Café canéfora,area_plantada_ha,47
+202212,35,São Paulo,N3,Café canéfora,area_plantada_ha,81
+202312,35,São Paulo,N3,Café canéfora,area_plantada_ha,81
+202412,35,São Paulo,N3,Café canéfora,area_plantada_ha,80
+202512,35,São Paulo,N3,Café canéfora,area_plantada_ha,101
+202609,35,São Paulo,N3,Café canéfora,area_plantada_ha,106
+201612,41,Paraná,N3,Café canéfora,area_plantada_ha,
+201712,41,Paraná,N3,Café canéfora,area_plantada_ha,
+201812,41,Paraná,N3,Café canéfora,area_plantada_ha,
+201912,41,Paraná,N3,Café canéfora,area_plantada_ha,
+202012,41,Paraná,N3,Café canéfora,area_plantada_ha,
+202112,41,Paraná,N3,Café canéfora,area_plantada_ha,
+202212,41,Paraná,N3,Café canéfora,area_plantada_ha,
+202312,41,Paraná,N3,Café canéfora,area_plantada_ha,
+202412,41,Paraná,N3,Café canéfora,area_plantada_ha,
+202512,41,Paraná,N3,Café canéfora,area_plantada_ha,
+202609,41,Paraná,N3,Café canéfora,area_plantada_ha,
+201612,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+201712,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+201812,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+201912,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+202012,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+202112,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+202212,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+202312,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+202412,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+202512,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+202609,42,Santa Catarina,N3,Café canéfora,area_plantada_ha,
+201612,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+201712,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+201812,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+201912,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+202012,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+202112,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+202212,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+202312,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+202412,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+202512,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+202609,43,Rio Grande do Sul,N3,Café canéfora,area_plantada_ha,
+201612,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+201712,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+201812,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+201912,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+202012,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+202112,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+202212,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+202312,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+202412,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+202512,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+202609,50,Mato Grosso do Sul,N3,Café canéfora,area_plantada_ha,
+201612,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,17968
+201712,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,19312
+201812,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,18982
+201912,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,12768
+202012,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,11697
+202112,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,11646
+202212,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,11799
+202312,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,12302
+202412,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,9480
+202512,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,9395
+202609,51,Mato Grosso,N3,Café canéfora,area_plantada_ha,8994
+201612,52,Goiás,N3,Café canéfora,area_plantada_ha,
+201712,52,Goiás,N3,Café canéfora,area_plantada_ha,
+201812,52,Goiás,N3,Café canéfora,area_plantada_ha,
+201912,52,Goiás,N3,Café canéfora,area_plantada_ha,
+202012,52,Goiás,N3,Café canéfora,area_plantada_ha,
+202112,52,Goiás,N3,Café canéfora,area_plantada_ha,
+202212,52,Goiás,N3,Café canéfora,area_plantada_ha,
+202312,52,Goiás,N3,Café canéfora,area_plantada_ha,
+202412,52,Goiás,N3,Café canéfora,area_plantada_ha,
+202512,52,Goiás,N3,Café canéfora,area_plantada_ha,
+202609,52,Goiás,N3,Café canéfora,area_plantada_ha,
+201612,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+201712,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+201812,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+201912,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+202012,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+202112,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+202212,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+202312,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+202412,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+202512,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
+202609,53,Distrito Federal,N3,Café canéfora,area_plantada_ha,
 201612,1,Brasil,N1,Cana-de-açúcar,area_plantada_ha,10536274
 201712,1,Brasil,N1,Cana-de-açúcar,area_plantada_ha,10225161
 201812,1,Brasil,N1,Cana-de-açúcar,area_plantada_ha,10231828
@@ -11703,314 +12935,6 @@ periodo,cod_local,local,nivel,cultura,variavel,valor
 202412,53,Distrito Federal,N3,Laranja,area_plantada_ha,64
 202512,53,Distrito Federal,N3,Laranja,area_plantada_ha,67
 202609,53,Distrito Federal,N3,Laranja,area_plantada_ha,67
-201612,1,Brasil,N1,Café,area_plantada_ha,2302657
-201712,1,Brasil,N1,Café,area_plantada_ha,
-201812,1,Brasil,N1,Café,area_plantada_ha,
-201912,1,Brasil,N1,Café,area_plantada_ha,
-202012,1,Brasil,N1,Café,area_plantada_ha,
-202112,1,Brasil,N1,Café,area_plantada_ha,
-202212,1,Brasil,N1,Café,area_plantada_ha,
-202312,1,Brasil,N1,Café,area_plantada_ha,
-202412,1,Brasil,N1,Café,area_plantada_ha,
-202512,1,Brasil,N1,Café,area_plantada_ha,
-202609,1,Brasil,N1,Café,area_plantada_ha,
-201612,11,Rondônia,N3,Café,area_plantada_ha,95737
-201712,11,Rondônia,N3,Café,area_plantada_ha,
-201812,11,Rondônia,N3,Café,area_plantada_ha,
-201912,11,Rondônia,N3,Café,area_plantada_ha,
-202012,11,Rondônia,N3,Café,area_plantada_ha,
-202112,11,Rondônia,N3,Café,area_plantada_ha,
-202212,11,Rondônia,N3,Café,area_plantada_ha,
-202312,11,Rondônia,N3,Café,area_plantada_ha,
-202412,11,Rondônia,N3,Café,area_plantada_ha,
-202512,11,Rondônia,N3,Café,area_plantada_ha,
-202609,11,Rondônia,N3,Café,area_plantada_ha,
-201612,12,Acre,N3,Café,area_plantada_ha,1781
-201712,12,Acre,N3,Café,area_plantada_ha,
-201812,12,Acre,N3,Café,area_plantada_ha,
-201912,12,Acre,N3,Café,area_plantada_ha,
-202012,12,Acre,N3,Café,area_plantada_ha,
-202112,12,Acre,N3,Café,area_plantada_ha,
-202212,12,Acre,N3,Café,area_plantada_ha,
-202312,12,Acre,N3,Café,area_plantada_ha,
-202412,12,Acre,N3,Café,area_plantada_ha,
-202512,12,Acre,N3,Café,area_plantada_ha,
-202609,12,Acre,N3,Café,area_plantada_ha,
-201612,13,Amazonas,N3,Café,area_plantada_ha,4000
-201712,13,Amazonas,N3,Café,area_plantada_ha,
-201812,13,Amazonas,N3,Café,area_plantada_ha,
-201912,13,Amazonas,N3,Café,area_plantada_ha,
-202012,13,Amazonas,N3,Café,area_plantada_ha,
-202112,13,Amazonas,N3,Café,area_plantada_ha,
-202212,13,Amazonas,N3,Café,area_plantada_ha,
-202312,13,Amazonas,N3,Café,area_plantada_ha,
-202412,13,Amazonas,N3,Café,area_plantada_ha,
-202512,13,Amazonas,N3,Café,area_plantada_ha,
-202609,13,Amazonas,N3,Café,area_plantada_ha,
-201612,14,Roraima,N3,Café,area_plantada_ha,
-201712,14,Roraima,N3,Café,area_plantada_ha,
-201812,14,Roraima,N3,Café,area_plantada_ha,
-201912,14,Roraima,N3,Café,area_plantada_ha,
-202012,14,Roraima,N3,Café,area_plantada_ha,
-202112,14,Roraima,N3,Café,area_plantada_ha,
-202212,14,Roraima,N3,Café,area_plantada_ha,
-202312,14,Roraima,N3,Café,area_plantada_ha,
-202412,14,Roraima,N3,Café,area_plantada_ha,
-202512,14,Roraima,N3,Café,area_plantada_ha,
-202609,14,Roraima,N3,Café,area_plantada_ha,
-201612,15,Pará,N3,Café,area_plantada_ha,533
-201712,15,Pará,N3,Café,area_plantada_ha,
-201812,15,Pará,N3,Café,area_plantada_ha,
-201912,15,Pará,N3,Café,area_plantada_ha,
-202012,15,Pará,N3,Café,area_plantada_ha,
-202112,15,Pará,N3,Café,area_plantada_ha,
-202212,15,Pará,N3,Café,area_plantada_ha,
-202312,15,Pará,N3,Café,area_plantada_ha,
-202412,15,Pará,N3,Café,area_plantada_ha,
-202512,15,Pará,N3,Café,area_plantada_ha,
-202609,15,Pará,N3,Café,area_plantada_ha,
-201612,16,Amapá,N3,Café,area_plantada_ha,
-201712,16,Amapá,N3,Café,area_plantada_ha,
-201812,16,Amapá,N3,Café,area_plantada_ha,
-201912,16,Amapá,N3,Café,area_plantada_ha,
-202012,16,Amapá,N3,Café,area_plantada_ha,
-202112,16,Amapá,N3,Café,area_plantada_ha,
-202212,16,Amapá,N3,Café,area_plantada_ha,
-202312,16,Amapá,N3,Café,area_plantada_ha,
-202412,16,Amapá,N3,Café,area_plantada_ha,
-202512,16,Amapá,N3,Café,area_plantada_ha,
-202609,16,Amapá,N3,Café,area_plantada_ha,
-201612,17,Tocantins,N3,Café,area_plantada_ha,
-201712,17,Tocantins,N3,Café,area_plantada_ha,
-201812,17,Tocantins,N3,Café,area_plantada_ha,
-201912,17,Tocantins,N3,Café,area_plantada_ha,
-202012,17,Tocantins,N3,Café,area_plantada_ha,
-202112,17,Tocantins,N3,Café,area_plantada_ha,
-202212,17,Tocantins,N3,Café,area_plantada_ha,
-202312,17,Tocantins,N3,Café,area_plantada_ha,
-202412,17,Tocantins,N3,Café,area_plantada_ha,
-202512,17,Tocantins,N3,Café,area_plantada_ha,
-202609,17,Tocantins,N3,Café,area_plantada_ha,
-201612,21,Maranhão,N3,Café,area_plantada_ha,
-201712,21,Maranhão,N3,Café,area_plantada_ha,
-201812,21,Maranhão,N3,Café,area_plantada_ha,
-201912,21,Maranhão,N3,Café,area_plantada_ha,
-202012,21,Maranhão,N3,Café,area_plantada_ha,
-202112,21,Maranhão,N3,Café,area_plantada_ha,
-202212,21,Maranhão,N3,Café,area_plantada_ha,
-202312,21,Maranhão,N3,Café,area_plantada_ha,
-202412,21,Maranhão,N3,Café,area_plantada_ha,
-202512,21,Maranhão,N3,Café,area_plantada_ha,
-202609,21,Maranhão,N3,Café,area_plantada_ha,
-201612,22,Piauí,N3,Café,area_plantada_ha,
-201712,22,Piauí,N3,Café,area_plantada_ha,
-201812,22,Piauí,N3,Café,area_plantada_ha,
-201912,22,Piauí,N3,Café,area_plantada_ha,
-202012,22,Piauí,N3,Café,area_plantada_ha,
-202112,22,Piauí,N3,Café,area_plantada_ha,
-202212,22,Piauí,N3,Café,area_plantada_ha,
-202312,22,Piauí,N3,Café,area_plantada_ha,
-202412,22,Piauí,N3,Café,area_plantada_ha,
-202512,22,Piauí,N3,Café,area_plantada_ha,
-202609,22,Piauí,N3,Café,area_plantada_ha,
-201612,23,Ceará,N3,Café,area_plantada_ha,3394
-201712,23,Ceará,N3,Café,area_plantada_ha,
-201812,23,Ceará,N3,Café,area_plantada_ha,
-201912,23,Ceará,N3,Café,area_plantada_ha,
-202012,23,Ceará,N3,Café,area_plantada_ha,
-202112,23,Ceará,N3,Café,area_plantada_ha,
-202212,23,Ceará,N3,Café,area_plantada_ha,
-202312,23,Ceará,N3,Café,area_plantada_ha,
-202412,23,Ceará,N3,Café,area_plantada_ha,
-202512,23,Ceará,N3,Café,area_plantada_ha,
-202609,23,Ceará,N3,Café,area_plantada_ha,
-201612,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-201712,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-201812,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-201912,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-202012,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-202112,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-202212,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-202312,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-202412,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-202512,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-202609,24,Rio Grande do Norte,N3,Café,area_plantada_ha,
-201612,25,Paraíba,N3,Café,area_plantada_ha,
-201712,25,Paraíba,N3,Café,area_plantada_ha,
-201812,25,Paraíba,N3,Café,area_plantada_ha,
-201912,25,Paraíba,N3,Café,area_plantada_ha,
-202012,25,Paraíba,N3,Café,area_plantada_ha,
-202112,25,Paraíba,N3,Café,area_plantada_ha,
-202212,25,Paraíba,N3,Café,area_plantada_ha,
-202312,25,Paraíba,N3,Café,area_plantada_ha,
-202412,25,Paraíba,N3,Café,area_plantada_ha,
-202512,25,Paraíba,N3,Café,area_plantada_ha,
-202609,25,Paraíba,N3,Café,area_plantada_ha,
-201612,26,Pernambuco,N3,Café,area_plantada_ha,2388
-201712,26,Pernambuco,N3,Café,area_plantada_ha,
-201812,26,Pernambuco,N3,Café,area_plantada_ha,
-201912,26,Pernambuco,N3,Café,area_plantada_ha,
-202012,26,Pernambuco,N3,Café,area_plantada_ha,
-202112,26,Pernambuco,N3,Café,area_plantada_ha,
-202212,26,Pernambuco,N3,Café,area_plantada_ha,
-202312,26,Pernambuco,N3,Café,area_plantada_ha,
-202412,26,Pernambuco,N3,Café,area_plantada_ha,
-202512,26,Pernambuco,N3,Café,area_plantada_ha,
-202609,26,Pernambuco,N3,Café,area_plantada_ha,
-201612,27,Alagoas,N3,Café,area_plantada_ha,
-201712,27,Alagoas,N3,Café,area_plantada_ha,
-201812,27,Alagoas,N3,Café,area_plantada_ha,
-201912,27,Alagoas,N3,Café,area_plantada_ha,
-202012,27,Alagoas,N3,Café,area_plantada_ha,
-202112,27,Alagoas,N3,Café,area_plantada_ha,
-202212,27,Alagoas,N3,Café,area_plantada_ha,
-202312,27,Alagoas,N3,Café,area_plantada_ha,
-202412,27,Alagoas,N3,Café,area_plantada_ha,
-202512,27,Alagoas,N3,Café,area_plantada_ha,
-202609,27,Alagoas,N3,Café,area_plantada_ha,
-201612,28,Sergipe,N3,Café,area_plantada_ha,
-201712,28,Sergipe,N3,Café,area_plantada_ha,
-201812,28,Sergipe,N3,Café,area_plantada_ha,
-201912,28,Sergipe,N3,Café,area_plantada_ha,
-202012,28,Sergipe,N3,Café,area_plantada_ha,
-202112,28,Sergipe,N3,Café,area_plantada_ha,
-202212,28,Sergipe,N3,Café,area_plantada_ha,
-202312,28,Sergipe,N3,Café,area_plantada_ha,
-202412,28,Sergipe,N3,Café,area_plantada_ha,
-202512,28,Sergipe,N3,Café,area_plantada_ha,
-202609,28,Sergipe,N3,Café,area_plantada_ha,
-201612,29,Bahia,N3,Café,area_plantada_ha,175192
-201712,29,Bahia,N3,Café,area_plantada_ha,
-201812,29,Bahia,N3,Café,area_plantada_ha,
-201912,29,Bahia,N3,Café,area_plantada_ha,
-202012,29,Bahia,N3,Café,area_plantada_ha,
-202112,29,Bahia,N3,Café,area_plantada_ha,
-202212,29,Bahia,N3,Café,area_plantada_ha,
-202312,29,Bahia,N3,Café,area_plantada_ha,
-202412,29,Bahia,N3,Café,area_plantada_ha,
-202512,29,Bahia,N3,Café,area_plantada_ha,
-202609,29,Bahia,N3,Café,area_plantada_ha,
-201612,31,Minas Gerais,N3,Café,area_plantada_ha,1212582
-201712,31,Minas Gerais,N3,Café,area_plantada_ha,
-201812,31,Minas Gerais,N3,Café,area_plantada_ha,
-201912,31,Minas Gerais,N3,Café,area_plantada_ha,
-202012,31,Minas Gerais,N3,Café,area_plantada_ha,
-202112,31,Minas Gerais,N3,Café,area_plantada_ha,
-202212,31,Minas Gerais,N3,Café,area_plantada_ha,
-202312,31,Minas Gerais,N3,Café,area_plantada_ha,
-202412,31,Minas Gerais,N3,Café,area_plantada_ha,
-202512,31,Minas Gerais,N3,Café,area_plantada_ha,
-202609,31,Minas Gerais,N3,Café,area_plantada_ha,
-201612,32,Espírito Santo,N3,Café,area_plantada_ha,509311
-201712,32,Espírito Santo,N3,Café,area_plantada_ha,
-201812,32,Espírito Santo,N3,Café,area_plantada_ha,
-201912,32,Espírito Santo,N3,Café,area_plantada_ha,
-202012,32,Espírito Santo,N3,Café,area_plantada_ha,
-202112,32,Espírito Santo,N3,Café,area_plantada_ha,
-202212,32,Espírito Santo,N3,Café,area_plantada_ha,
-202312,32,Espírito Santo,N3,Café,area_plantada_ha,
-202412,32,Espírito Santo,N3,Café,area_plantada_ha,
-202512,32,Espírito Santo,N3,Café,area_plantada_ha,
-202609,32,Espírito Santo,N3,Café,area_plantada_ha,
-201612,33,Rio de Janeiro,N3,Café,area_plantada_ha,12632
-201712,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-201812,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-201912,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-202012,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-202112,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-202212,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-202312,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-202412,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-202512,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-202609,33,Rio de Janeiro,N3,Café,area_plantada_ha,
-201612,35,São Paulo,N3,Café,area_plantada_ha,211662
-201712,35,São Paulo,N3,Café,area_plantada_ha,
-201812,35,São Paulo,N3,Café,area_plantada_ha,
-201912,35,São Paulo,N3,Café,area_plantada_ha,
-202012,35,São Paulo,N3,Café,area_plantada_ha,
-202112,35,São Paulo,N3,Café,area_plantada_ha,
-202212,35,São Paulo,N3,Café,area_plantada_ha,
-202312,35,São Paulo,N3,Café,area_plantada_ha,
-202412,35,São Paulo,N3,Café,area_plantada_ha,
-202512,35,São Paulo,N3,Café,area_plantada_ha,
-202609,35,São Paulo,N3,Café,area_plantada_ha,
-201612,41,Paraná,N3,Café,area_plantada_ha,46160
-201712,41,Paraná,N3,Café,area_plantada_ha,
-201812,41,Paraná,N3,Café,area_plantada_ha,
-201912,41,Paraná,N3,Café,area_plantada_ha,
-202012,41,Paraná,N3,Café,area_plantada_ha,
-202112,41,Paraná,N3,Café,area_plantada_ha,
-202212,41,Paraná,N3,Café,area_plantada_ha,
-202312,41,Paraná,N3,Café,area_plantada_ha,
-202412,41,Paraná,N3,Café,area_plantada_ha,
-202512,41,Paraná,N3,Café,area_plantada_ha,
-202609,41,Paraná,N3,Café,area_plantada_ha,
-201612,42,Santa Catarina,N3,Café,area_plantada_ha,
-201712,42,Santa Catarina,N3,Café,area_plantada_ha,
-201812,42,Santa Catarina,N3,Café,area_plantada_ha,
-201912,42,Santa Catarina,N3,Café,area_plantada_ha,
-202012,42,Santa Catarina,N3,Café,area_plantada_ha,
-202112,42,Santa Catarina,N3,Café,area_plantada_ha,
-202212,42,Santa Catarina,N3,Café,area_plantada_ha,
-202312,42,Santa Catarina,N3,Café,area_plantada_ha,
-202412,42,Santa Catarina,N3,Café,area_plantada_ha,
-202512,42,Santa Catarina,N3,Café,area_plantada_ha,
-202609,42,Santa Catarina,N3,Café,area_plantada_ha,
-201612,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-201712,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-201812,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-201912,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-202012,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-202112,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-202212,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-202312,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-202412,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-202512,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-202609,43,Rio Grande do Sul,N3,Café,area_plantada_ha,
-201612,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,493
-201712,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-201812,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-201912,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-202012,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-202112,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-202212,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-202312,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-202412,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-202512,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-202609,50,Mato Grosso do Sul,N3,Café,area_plantada_ha,
-201612,51,Mato Grosso,N3,Café,area_plantada_ha,18101
-201712,51,Mato Grosso,N3,Café,area_plantada_ha,
-201812,51,Mato Grosso,N3,Café,area_plantada_ha,
-201912,51,Mato Grosso,N3,Café,area_plantada_ha,
-202012,51,Mato Grosso,N3,Café,area_plantada_ha,
-202112,51,Mato Grosso,N3,Café,area_plantada_ha,
-202212,51,Mato Grosso,N3,Café,area_plantada_ha,
-202312,51,Mato Grosso,N3,Café,area_plantada_ha,
-202412,51,Mato Grosso,N3,Café,area_plantada_ha,
-202512,51,Mato Grosso,N3,Café,area_plantada_ha,
-202609,51,Mato Grosso,N3,Café,area_plantada_ha,
-201612,52,Goiás,N3,Café,area_plantada_ha,7988
-201712,52,Goiás,N3,Café,area_plantada_ha,
-201812,52,Goiás,N3,Café,area_plantada_ha,
-201912,52,Goiás,N3,Café,area_plantada_ha,
-202012,52,Goiás,N3,Café,area_plantada_ha,
-202112,52,Goiás,N3,Café,area_plantada_ha,
-202212,52,Goiás,N3,Café,area_plantada_ha,
-202312,52,Goiás,N3,Café,area_plantada_ha,
-202412,52,Goiás,N3,Café,area_plantada_ha,
-202512,52,Goiás,N3,Café,area_plantada_ha,
-202609,52,Goiás,N3,Café,area_plantada_ha,
-201612,53,Distrito Federal,N3,Café,area_plantada_ha,703
-201712,53,Distrito Federal,N3,Café,area_plantada_ha,
-201812,53,Distrito Federal,N3,Café,area_plantada_ha,
-201912,53,Distrito Federal,N3,Café,area_plantada_ha,
-202012,53,Distrito Federal,N3,Café,area_plantada_ha,
-202112,53,Distrito Federal,N3,Café,area_plantada_ha,
-202212,53,Distrito Federal,N3,Café,area_plantada_ha,
-202312,53,Distrito Federal,N3,Café,area_plantada_ha,
-202412,53,Distrito Federal,N3,Café,area_plantada_ha,
-202512,53,Distrito Federal,N3,Café,area_plantada_ha,
-202609,53,Distrito Federal,N3,Café,area_plantada_ha,
 201612,1,Brasil,N1,"Grãos (cereais, leguminosas e oleaginosas)",area_colhida_ha,57074442
 201712,1,Brasil,N1,"Grãos (cereais, leguminosas e oleaginosas)",area_colhida_ha,61186476
 201812,1,Brasil,N1,"Grãos (cereais, leguminosas e oleaginosas)",area_colhida_ha,60938140
@@ -15091,6 +16015,622 @@ periodo,cod_local,local,nivel,cultura,variavel,valor
 202412,53,Distrito Federal,N3,Trigo,area_colhida_ha,5300
 202512,53,Distrito Federal,N3,Trigo,area_colhida_ha,4000
 202609,53,Distrito Federal,N3,Trigo,area_colhida_ha,7920
+201612,1,Brasil,N1,Café arábica,area_colhida_ha,1569566
+201712,1,Brasil,N1,Café arábica,area_colhida_ha,1503123
+201812,1,Brasil,N1,Café arábica,area_colhida_ha,1483939
+201912,1,Brasil,N1,Café arábica,area_colhida_ha,1430879
+202012,1,Brasil,N1,Café arábica,area_colhida_ha,1500846
+202112,1,Brasil,N1,Café arábica,area_colhida_ha,1433881
+202212,1,Brasil,N1,Café arábica,area_colhida_ha,1459978
+202312,1,Brasil,N1,Café arábica,area_colhida_ha,1506775
+202412,1,Brasil,N1,Café arábica,area_colhida_ha,1549490
+202512,1,Brasil,N1,Café arábica,area_colhida_ha,1532295
+202609,1,Brasil,N1,Café arábica,area_colhida_ha,1570944
+201612,11,Rondônia,N3,Café arábica,area_colhida_ha,
+201712,11,Rondônia,N3,Café arábica,area_colhida_ha,
+201812,11,Rondônia,N3,Café arábica,area_colhida_ha,
+201912,11,Rondônia,N3,Café arábica,area_colhida_ha,
+202012,11,Rondônia,N3,Café arábica,area_colhida_ha,
+202112,11,Rondônia,N3,Café arábica,area_colhida_ha,
+202212,11,Rondônia,N3,Café arábica,area_colhida_ha,
+202312,11,Rondônia,N3,Café arábica,area_colhida_ha,
+202412,11,Rondônia,N3,Café arábica,area_colhida_ha,
+202512,11,Rondônia,N3,Café arábica,area_colhida_ha,
+202609,11,Rondônia,N3,Café arábica,area_colhida_ha,
+201612,12,Acre,N3,Café arábica,area_colhida_ha,
+201712,12,Acre,N3,Café arábica,area_colhida_ha,
+201812,12,Acre,N3,Café arábica,area_colhida_ha,
+201912,12,Acre,N3,Café arábica,area_colhida_ha,
+202012,12,Acre,N3,Café arábica,area_colhida_ha,
+202112,12,Acre,N3,Café arábica,area_colhida_ha,
+202212,12,Acre,N3,Café arábica,area_colhida_ha,
+202312,12,Acre,N3,Café arábica,area_colhida_ha,
+202412,12,Acre,N3,Café arábica,area_colhida_ha,
+202512,12,Acre,N3,Café arábica,area_colhida_ha,
+202609,12,Acre,N3,Café arábica,area_colhida_ha,
+201612,13,Amazonas,N3,Café arábica,area_colhida_ha,2000
+201712,13,Amazonas,N3,Café arábica,area_colhida_ha,2000
+201812,13,Amazonas,N3,Café arábica,area_colhida_ha,2000
+201912,13,Amazonas,N3,Café arábica,area_colhida_ha,2000
+202012,13,Amazonas,N3,Café arábica,area_colhida_ha,2000
+202112,13,Amazonas,N3,Café arábica,area_colhida_ha,2000
+202212,13,Amazonas,N3,Café arábica,area_colhida_ha,2000
+202312,13,Amazonas,N3,Café arábica,area_colhida_ha,
+202412,13,Amazonas,N3,Café arábica,area_colhida_ha,
+202512,13,Amazonas,N3,Café arábica,area_colhida_ha,
+202609,13,Amazonas,N3,Café arábica,area_colhida_ha,
+201612,14,Roraima,N3,Café arábica,area_colhida_ha,
+201712,14,Roraima,N3,Café arábica,area_colhida_ha,
+201812,14,Roraima,N3,Café arábica,area_colhida_ha,
+201912,14,Roraima,N3,Café arábica,area_colhida_ha,
+202012,14,Roraima,N3,Café arábica,area_colhida_ha,
+202112,14,Roraima,N3,Café arábica,area_colhida_ha,
+202212,14,Roraima,N3,Café arábica,area_colhida_ha,
+202312,14,Roraima,N3,Café arábica,area_colhida_ha,
+202412,14,Roraima,N3,Café arábica,area_colhida_ha,
+202512,14,Roraima,N3,Café arábica,area_colhida_ha,
+202609,14,Roraima,N3,Café arábica,area_colhida_ha,
+201612,15,Pará,N3,Café arábica,area_colhida_ha,
+201712,15,Pará,N3,Café arábica,area_colhida_ha,
+201812,15,Pará,N3,Café arábica,area_colhida_ha,
+201912,15,Pará,N3,Café arábica,area_colhida_ha,
+202012,15,Pará,N3,Café arábica,area_colhida_ha,
+202112,15,Pará,N3,Café arábica,area_colhida_ha,
+202212,15,Pará,N3,Café arábica,area_colhida_ha,
+202312,15,Pará,N3,Café arábica,area_colhida_ha,
+202412,15,Pará,N3,Café arábica,area_colhida_ha,
+202512,15,Pará,N3,Café arábica,area_colhida_ha,
+202609,15,Pará,N3,Café arábica,area_colhida_ha,
+201612,16,Amapá,N3,Café arábica,area_colhida_ha,
+201712,16,Amapá,N3,Café arábica,area_colhida_ha,
+201812,16,Amapá,N3,Café arábica,area_colhida_ha,
+201912,16,Amapá,N3,Café arábica,area_colhida_ha,
+202012,16,Amapá,N3,Café arábica,area_colhida_ha,
+202112,16,Amapá,N3,Café arábica,area_colhida_ha,
+202212,16,Amapá,N3,Café arábica,area_colhida_ha,
+202312,16,Amapá,N3,Café arábica,area_colhida_ha,
+202412,16,Amapá,N3,Café arábica,area_colhida_ha,
+202512,16,Amapá,N3,Café arábica,area_colhida_ha,
+202609,16,Amapá,N3,Café arábica,area_colhida_ha,
+201612,17,Tocantins,N3,Café arábica,area_colhida_ha,
+201712,17,Tocantins,N3,Café arábica,area_colhida_ha,
+201812,17,Tocantins,N3,Café arábica,area_colhida_ha,
+201912,17,Tocantins,N3,Café arábica,area_colhida_ha,
+202012,17,Tocantins,N3,Café arábica,area_colhida_ha,
+202112,17,Tocantins,N3,Café arábica,area_colhida_ha,
+202212,17,Tocantins,N3,Café arábica,area_colhida_ha,
+202312,17,Tocantins,N3,Café arábica,area_colhida_ha,
+202412,17,Tocantins,N3,Café arábica,area_colhida_ha,
+202512,17,Tocantins,N3,Café arábica,area_colhida_ha,
+202609,17,Tocantins,N3,Café arábica,area_colhida_ha,
+201612,21,Maranhão,N3,Café arábica,area_colhida_ha,
+201712,21,Maranhão,N3,Café arábica,area_colhida_ha,
+201812,21,Maranhão,N3,Café arábica,area_colhida_ha,
+201912,21,Maranhão,N3,Café arábica,area_colhida_ha,
+202012,21,Maranhão,N3,Café arábica,area_colhida_ha,
+202112,21,Maranhão,N3,Café arábica,area_colhida_ha,
+202212,21,Maranhão,N3,Café arábica,area_colhida_ha,
+202312,21,Maranhão,N3,Café arábica,area_colhida_ha,
+202412,21,Maranhão,N3,Café arábica,area_colhida_ha,
+202512,21,Maranhão,N3,Café arábica,area_colhida_ha,
+202609,21,Maranhão,N3,Café arábica,area_colhida_ha,
+201612,22,Piauí,N3,Café arábica,area_colhida_ha,
+201712,22,Piauí,N3,Café arábica,area_colhida_ha,
+201812,22,Piauí,N3,Café arábica,area_colhida_ha,
+201912,22,Piauí,N3,Café arábica,area_colhida_ha,
+202012,22,Piauí,N3,Café arábica,area_colhida_ha,
+202112,22,Piauí,N3,Café arábica,area_colhida_ha,
+202212,22,Piauí,N3,Café arábica,area_colhida_ha,
+202312,22,Piauí,N3,Café arábica,area_colhida_ha,
+202412,22,Piauí,N3,Café arábica,area_colhida_ha,
+202512,22,Piauí,N3,Café arábica,area_colhida_ha,
+202609,22,Piauí,N3,Café arábica,area_colhida_ha,
+201612,23,Ceará,N3,Café arábica,area_colhida_ha,3264
+201712,23,Ceará,N3,Café arábica,area_colhida_ha,2764
+201812,23,Ceará,N3,Café arábica,area_colhida_ha,1657
+201912,23,Ceará,N3,Café arábica,area_colhida_ha,1320
+202012,23,Ceará,N3,Café arábica,area_colhida_ha,1320
+202112,23,Ceará,N3,Café arábica,area_colhida_ha,1297
+202212,23,Ceará,N3,Café arábica,area_colhida_ha,1274
+202312,23,Ceará,N3,Café arábica,area_colhida_ha,1284
+202412,23,Ceará,N3,Café arábica,area_colhida_ha,1255
+202512,23,Ceará,N3,Café arábica,area_colhida_ha,1271
+202609,23,Ceará,N3,Café arábica,area_colhida_ha,1290
+201612,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+201712,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+201812,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+201912,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+202012,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+202112,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+202212,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+202312,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+202412,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+202512,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+202609,24,Rio Grande do Norte,N3,Café arábica,area_colhida_ha,
+201612,25,Paraíba,N3,Café arábica,area_colhida_ha,
+201712,25,Paraíba,N3,Café arábica,area_colhida_ha,
+201812,25,Paraíba,N3,Café arábica,area_colhida_ha,
+201912,25,Paraíba,N3,Café arábica,area_colhida_ha,
+202012,25,Paraíba,N3,Café arábica,area_colhida_ha,
+202112,25,Paraíba,N3,Café arábica,area_colhida_ha,
+202212,25,Paraíba,N3,Café arábica,area_colhida_ha,
+202312,25,Paraíba,N3,Café arábica,area_colhida_ha,
+202412,25,Paraíba,N3,Café arábica,area_colhida_ha,
+202512,25,Paraíba,N3,Café arábica,area_colhida_ha,
+202609,25,Paraíba,N3,Café arábica,area_colhida_ha,
+201612,26,Pernambuco,N3,Café arábica,area_colhida_ha,650
+201712,26,Pernambuco,N3,Café arábica,area_colhida_ha,2207
+201812,26,Pernambuco,N3,Café arábica,area_colhida_ha,2080
+201912,26,Pernambuco,N3,Café arábica,area_colhida_ha,893
+202012,26,Pernambuco,N3,Café arábica,area_colhida_ha,466
+202112,26,Pernambuco,N3,Café arábica,area_colhida_ha,1198
+202212,26,Pernambuco,N3,Café arábica,area_colhida_ha,1196
+202312,26,Pernambuco,N3,Café arábica,area_colhida_ha,990
+202412,26,Pernambuco,N3,Café arábica,area_colhida_ha,972
+202512,26,Pernambuco,N3,Café arábica,area_colhida_ha,962
+202609,26,Pernambuco,N3,Café arábica,area_colhida_ha,973
+201612,27,Alagoas,N3,Café arábica,area_colhida_ha,
+201712,27,Alagoas,N3,Café arábica,area_colhida_ha,
+201812,27,Alagoas,N3,Café arábica,area_colhida_ha,
+201912,27,Alagoas,N3,Café arábica,area_colhida_ha,
+202012,27,Alagoas,N3,Café arábica,area_colhida_ha,
+202112,27,Alagoas,N3,Café arábica,area_colhida_ha,
+202212,27,Alagoas,N3,Café arábica,area_colhida_ha,
+202312,27,Alagoas,N3,Café arábica,area_colhida_ha,
+202412,27,Alagoas,N3,Café arábica,area_colhida_ha,
+202512,27,Alagoas,N3,Café arábica,area_colhida_ha,
+202609,27,Alagoas,N3,Café arábica,area_colhida_ha,
+201612,28,Sergipe,N3,Café arábica,area_colhida_ha,
+201712,28,Sergipe,N3,Café arábica,area_colhida_ha,
+201812,28,Sergipe,N3,Café arábica,area_colhida_ha,
+201912,28,Sergipe,N3,Café arábica,area_colhida_ha,
+202012,28,Sergipe,N3,Café arábica,area_colhida_ha,
+202112,28,Sergipe,N3,Café arábica,area_colhida_ha,
+202212,28,Sergipe,N3,Café arábica,area_colhida_ha,
+202312,28,Sergipe,N3,Café arábica,area_colhida_ha,
+202412,28,Sergipe,N3,Café arábica,area_colhida_ha,
+202512,28,Sergipe,N3,Café arábica,area_colhida_ha,
+202609,28,Sergipe,N3,Café arábica,area_colhida_ha,
+201612,29,Bahia,N3,Café arábica,area_colhida_ha,118000
+201712,29,Bahia,N3,Café arábica,area_colhida_ha,94000
+201812,29,Bahia,N3,Café arábica,area_colhida_ha,82000
+201912,29,Bahia,N3,Café arábica,area_colhida_ha,62000
+202012,29,Bahia,N3,Café arábica,area_colhida_ha,71000
+202112,29,Bahia,N3,Café arábica,area_colhida_ha,63000
+202212,29,Bahia,N3,Café arábica,area_colhida_ha,65000
+202312,29,Bahia,N3,Café arábica,area_colhida_ha,78000
+202412,29,Bahia,N3,Café arábica,area_colhida_ha,81000
+202512,29,Bahia,N3,Café arábica,area_colhida_ha,80000
+202609,29,Bahia,N3,Café arábica,area_colhida_ha,70000
+201612,31,Minas Gerais,N3,Café arábica,area_colhida_ha,1029583
+201712,31,Minas Gerais,N3,Café arábica,area_colhida_ha,987629
+201812,31,Minas Gerais,N3,Café arábica,area_colhida_ha,1008855
+201912,31,Minas Gerais,N3,Café arábica,area_colhida_ha,986337
+202012,31,Minas Gerais,N3,Café arábica,area_colhida_ha,1045165
+202112,31,Minas Gerais,N3,Café arábica,area_colhida_ha,993774
+202212,31,Minas Gerais,N3,Café arábica,area_colhida_ha,1012763
+202312,31,Minas Gerais,N3,Café arábica,area_colhida_ha,1061280
+202412,31,Minas Gerais,N3,Café arábica,area_colhida_ha,1089738
+202512,31,Minas Gerais,N3,Café arábica,area_colhida_ha,1077731
+202609,31,Minas Gerais,N3,Café arábica,area_colhida_ha,1136091
+201612,32,Espírito Santo,N3,Café arábica,area_colhida_ha,148866
+201712,32,Espírito Santo,N3,Café arábica,area_colhida_ha,149211
+201812,32,Espírito Santo,N3,Café arábica,area_colhida_ha,128243
+201912,32,Espírito Santo,N3,Café arábica,area_colhida_ha,121200
+202012,32,Espírito Santo,N3,Café arábica,area_colhida_ha,123150
+202112,32,Espírito Santo,N3,Café arábica,area_colhida_ha,124599
+202212,32,Espírito Santo,N3,Café arábica,area_colhida_ha,134902
+202312,32,Espírito Santo,N3,Café arábica,area_colhida_ha,136853
+202412,32,Espírito Santo,N3,Café arábica,area_colhida_ha,138385
+202512,32,Espírito Santo,N3,Café arábica,area_colhida_ha,131920
+202609,32,Espírito Santo,N3,Café arábica,area_colhida_ha,132412
+201612,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,12629
+201712,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,12221
+201812,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,12212
+201912,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,12581
+202012,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,12377
+202112,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,10716
+202212,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,11154
+202312,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,10949
+202412,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,11485
+202512,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,11736
+202609,33,Rio de Janeiro,N3,Café arábica,area_colhida_ha,12526
+201612,35,São Paulo,N3,Café arábica,area_colhida_ha,201021
+201712,35,São Paulo,N3,Café arábica,area_colhida_ha,200757
+201812,35,São Paulo,N3,Café arábica,area_colhida_ha,202581
+201912,35,São Paulo,N3,Café arábica,area_colhida_ha,198278
+202012,35,São Paulo,N3,Café arábica,area_colhida_ha,201523
+202112,35,São Paulo,N3,Café arábica,area_colhida_ha,196700
+202212,35,São Paulo,N3,Café arábica,area_colhida_ha,197585
+202312,35,São Paulo,N3,Café arábica,area_colhida_ha,184590
+202412,35,São Paulo,N3,Café arábica,area_colhida_ha,194559
+202512,35,São Paulo,N3,Café arábica,area_colhida_ha,196025
+202609,35,São Paulo,N3,Café arábica,area_colhida_ha,184500
+201612,41,Paraná,N3,Café arábica,area_colhida_ha,46160
+201712,41,Paraná,N3,Café arábica,area_colhida_ha,46111
+201812,41,Paraná,N3,Café arábica,area_colhida_ha,37505
+201912,41,Paraná,N3,Café arábica,area_colhida_ha,37596
+202012,41,Paraná,N3,Café arábica,area_colhida_ha,35700
+202112,41,Paraná,N3,Café arábica,area_colhida_ha,33100
+202212,41,Paraná,N3,Café arábica,area_colhida_ha,27114
+202312,41,Paraná,N3,Café arábica,area_colhida_ha,25900
+202412,41,Paraná,N3,Café arábica,area_colhida_ha,25200
+202512,41,Paraná,N3,Café arábica,area_colhida_ha,25200
+202609,41,Paraná,N3,Café arábica,area_colhida_ha,25100
+201612,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+201712,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+201812,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+201912,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+202012,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+202112,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+202212,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+202312,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+202412,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+202512,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+202609,42,Santa Catarina,N3,Café arábica,area_colhida_ha,
+201612,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+201712,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+201812,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+201912,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+202012,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+202112,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+202212,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+202312,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+202412,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+202512,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+202609,43,Rio Grande do Sul,N3,Café arábica,area_colhida_ha,
+201612,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,487
+201712,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,470
+201812,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,270
+201912,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,256
+202012,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,258
+202112,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,245
+202212,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,178
+202312,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,168
+202412,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,155
+202512,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,158
+202609,50,Mato Grosso do Sul,N3,Café arábica,area_colhida_ha,154
+201612,51,Mato Grosso,N3,Café arábica,area_colhida_ha,83
+201712,51,Mato Grosso,N3,Café arábica,area_colhida_ha,63
+201812,51,Mato Grosso,N3,Café arábica,area_colhida_ha,145
+201912,51,Mato Grosso,N3,Café arábica,area_colhida_ha,130
+202012,51,Mato Grosso,N3,Café arábica,area_colhida_ha,117
+202112,51,Mato Grosso,N3,Café arábica,area_colhida_ha,26
+202212,51,Mato Grosso,N3,Café arábica,area_colhida_ha,26
+202312,51,Mato Grosso,N3,Café arábica,area_colhida_ha,21
+202412,51,Mato Grosso,N3,Café arábica,area_colhida_ha,20
+202512,51,Mato Grosso,N3,Café arábica,area_colhida_ha,20
+202609,51,Mato Grosso,N3,Café arábica,area_colhida_ha,22
+201612,52,Goiás,N3,Café arábica,area_colhida_ha,6254
+201712,52,Goiás,N3,Café arábica,area_colhida_ha,5162
+201812,52,Goiás,N3,Café arábica,area_colhida_ha,6046
+201912,52,Goiás,N3,Café arábica,area_colhida_ha,7878
+202012,52,Goiás,N3,Café arábica,area_colhida_ha,7360
+202112,52,Goiás,N3,Café arábica,area_colhida_ha,6816
+202212,52,Goiás,N3,Café arábica,area_colhida_ha,6376
+202312,52,Goiás,N3,Café arábica,area_colhida_ha,6330
+202412,52,Goiás,N3,Café arábica,area_colhida_ha,6304
+202512,52,Goiás,N3,Café arábica,area_colhida_ha,6855
+202609,52,Goiás,N3,Café arábica,area_colhida_ha,7444
+201612,53,Distrito Federal,N3,Café arábica,area_colhida_ha,569
+201712,53,Distrito Federal,N3,Café arábica,area_colhida_ha,528
+201812,53,Distrito Federal,N3,Café arábica,area_colhida_ha,345
+201912,53,Distrito Federal,N3,Café arábica,area_colhida_ha,410
+202012,53,Distrito Federal,N3,Café arábica,area_colhida_ha,410
+202112,53,Distrito Federal,N3,Café arábica,area_colhida_ha,410
+202212,53,Distrito Federal,N3,Café arábica,area_colhida_ha,410
+202312,53,Distrito Federal,N3,Café arábica,area_colhida_ha,410
+202412,53,Distrito Federal,N3,Café arábica,area_colhida_ha,417
+202512,53,Distrito Federal,N3,Café arábica,area_colhida_ha,417
+202609,53,Distrito Federal,N3,Café arábica,area_colhida_ha,432
+201612,1,Brasil,N1,Café canéfora,area_colhida_ha,431104
+201712,1,Brasil,N1,Café canéfora,area_colhida_ha,411287
+201812,1,Brasil,N1,Café canéfora,area_colhida_ha,399005
+201912,1,Brasil,N1,Café canéfora,area_colhida_ha,386159
+202012,1,Brasil,N1,Café canéfora,area_colhida_ha,391923
+202112,1,Brasil,N1,Café canéfora,area_colhida_ha,395392
+202212,1,Brasil,N1,Café canéfora,area_colhida_ha,396954
+202312,1,Brasil,N1,Café canéfora,area_colhida_ha,411122
+202412,1,Brasil,N1,Café canéfora,area_colhida_ha,405646
+202512,1,Brasil,N1,Café canéfora,area_colhida_ha,417320
+202609,1,Brasil,N1,Café canéfora,area_colhida_ha,431847
+201612,11,Rondônia,N3,Café canéfora,area_colhida_ha,79317
+201712,11,Rondônia,N3,Café canéfora,area_colhida_ha,71605
+201812,11,Rondônia,N3,Café canéfora,area_colhida_ha,65909
+201912,11,Rondônia,N3,Café canéfora,area_colhida_ha,63978
+202012,11,Rondônia,N3,Café canéfora,area_colhida_ha,63751
+202112,11,Rondônia,N3,Café canéfora,area_colhida_ha,66169
+202212,11,Rondônia,N3,Café canéfora,area_colhida_ha,57445
+202312,11,Rondônia,N3,Café canéfora,area_colhida_ha,61882
+202412,11,Rondônia,N3,Café canéfora,area_colhida_ha,48186
+202512,11,Rondônia,N3,Café canéfora,area_colhida_ha,49453
+202609,11,Rondônia,N3,Café canéfora,area_colhida_ha,47651
+201612,12,Acre,N3,Café canéfora,area_colhida_ha,1477
+201712,12,Acre,N3,Café canéfora,area_colhida_ha,1546
+201812,12,Acre,N3,Café canéfora,area_colhida_ha,1134
+201912,12,Acre,N3,Café canéfora,area_colhida_ha,1126
+202012,12,Acre,N3,Café canéfora,area_colhida_ha,1003
+202112,12,Acre,N3,Café canéfora,area_colhida_ha,1062
+202212,12,Acre,N3,Café canéfora,area_colhida_ha,1064
+202312,12,Acre,N3,Café canéfora,area_colhida_ha,993
+202412,12,Acre,N3,Café canéfora,area_colhida_ha,1115
+202512,12,Acre,N3,Café canéfora,area_colhida_ha,1926
+202609,12,Acre,N3,Café canéfora,area_colhida_ha,2023
+201612,13,Amazonas,N3,Café canéfora,area_colhida_ha,2000
+201712,13,Amazonas,N3,Café canéfora,area_colhida_ha,2145
+201812,13,Amazonas,N3,Café canéfora,area_colhida_ha,2145
+201912,13,Amazonas,N3,Café canéfora,area_colhida_ha,2145
+202012,13,Amazonas,N3,Café canéfora,area_colhida_ha,2145
+202112,13,Amazonas,N3,Café canéfora,area_colhida_ha,2145
+202212,13,Amazonas,N3,Café canéfora,area_colhida_ha,2145
+202312,13,Amazonas,N3,Café canéfora,area_colhida_ha,600
+202412,13,Amazonas,N3,Café canéfora,area_colhida_ha,637
+202512,13,Amazonas,N3,Café canéfora,area_colhida_ha,1639
+202609,13,Amazonas,N3,Café canéfora,area_colhida_ha,1058
+201612,14,Roraima,N3,Café canéfora,area_colhida_ha,
+201712,14,Roraima,N3,Café canéfora,area_colhida_ha,
+201812,14,Roraima,N3,Café canéfora,area_colhida_ha,
+201912,14,Roraima,N3,Café canéfora,area_colhida_ha,
+202012,14,Roraima,N3,Café canéfora,area_colhida_ha,
+202112,14,Roraima,N3,Café canéfora,area_colhida_ha,
+202212,14,Roraima,N3,Café canéfora,area_colhida_ha,
+202312,14,Roraima,N3,Café canéfora,area_colhida_ha,
+202412,14,Roraima,N3,Café canéfora,area_colhida_ha,
+202512,14,Roraima,N3,Café canéfora,area_colhida_ha,
+202609,14,Roraima,N3,Café canéfora,area_colhida_ha,
+201612,15,Pará,N3,Café canéfora,area_colhida_ha,502
+201712,15,Pará,N3,Café canéfora,area_colhida_ha,460
+201812,15,Pará,N3,Café canéfora,area_colhida_ha,321
+201912,15,Pará,N3,Café canéfora,area_colhida_ha,271
+202012,15,Pará,N3,Café canéfora,area_colhida_ha,257
+202112,15,Pará,N3,Café canéfora,area_colhida_ha,246
+202212,15,Pará,N3,Café canéfora,area_colhida_ha,213
+202312,15,Pará,N3,Café canéfora,area_colhida_ha,203
+202412,15,Pará,N3,Café canéfora,area_colhida_ha,132
+202512,15,Pará,N3,Café canéfora,area_colhida_ha,158
+202609,15,Pará,N3,Café canéfora,area_colhida_ha,232
+201612,16,Amapá,N3,Café canéfora,area_colhida_ha,
+201712,16,Amapá,N3,Café canéfora,area_colhida_ha,
+201812,16,Amapá,N3,Café canéfora,area_colhida_ha,
+201912,16,Amapá,N3,Café canéfora,area_colhida_ha,
+202012,16,Amapá,N3,Café canéfora,area_colhida_ha,
+202112,16,Amapá,N3,Café canéfora,area_colhida_ha,
+202212,16,Amapá,N3,Café canéfora,area_colhida_ha,
+202312,16,Amapá,N3,Café canéfora,area_colhida_ha,
+202412,16,Amapá,N3,Café canéfora,area_colhida_ha,
+202512,16,Amapá,N3,Café canéfora,area_colhida_ha,
+202609,16,Amapá,N3,Café canéfora,area_colhida_ha,
+201612,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+201712,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+201812,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+201912,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+202012,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+202112,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+202212,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+202312,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+202412,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+202512,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+202609,17,Tocantins,N3,Café canéfora,area_colhida_ha,
+201612,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+201712,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+201812,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+201912,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+202012,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+202112,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+202212,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+202312,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+202412,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+202512,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+202609,21,Maranhão,N3,Café canéfora,area_colhida_ha,
+201612,22,Piauí,N3,Café canéfora,area_colhida_ha,
+201712,22,Piauí,N3,Café canéfora,area_colhida_ha,
+201812,22,Piauí,N3,Café canéfora,area_colhida_ha,
+201912,22,Piauí,N3,Café canéfora,area_colhida_ha,
+202012,22,Piauí,N3,Café canéfora,area_colhida_ha,
+202112,22,Piauí,N3,Café canéfora,area_colhida_ha,
+202212,22,Piauí,N3,Café canéfora,area_colhida_ha,
+202312,22,Piauí,N3,Café canéfora,area_colhida_ha,
+202412,22,Piauí,N3,Café canéfora,area_colhida_ha,
+202512,22,Piauí,N3,Café canéfora,area_colhida_ha,
+202609,22,Piauí,N3,Café canéfora,area_colhida_ha,
+201612,23,Ceará,N3,Café canéfora,area_colhida_ha,127
+201712,23,Ceará,N3,Café canéfora,area_colhida_ha,127
+201812,23,Ceará,N3,Café canéfora,area_colhida_ha,127
+201912,23,Ceará,N3,Café canéfora,area_colhida_ha,127
+202012,23,Ceará,N3,Café canéfora,area_colhida_ha,112
+202112,23,Ceará,N3,Café canéfora,area_colhida_ha,110
+202212,23,Ceará,N3,Café canéfora,area_colhida_ha,28
+202312,23,Ceará,N3,Café canéfora,area_colhida_ha,28
+202412,23,Ceará,N3,Café canéfora,area_colhida_ha,28
+202512,23,Ceará,N3,Café canéfora,area_colhida_ha,28
+202609,23,Ceará,N3,Café canéfora,area_colhida_ha,28
+201612,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+201712,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+201812,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+201912,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+202012,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+202112,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+202212,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+202312,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+202412,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+202512,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+202609,24,Rio Grande do Norte,N3,Café canéfora,area_colhida_ha,
+201612,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+201712,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+201812,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+201912,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+202012,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+202112,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+202212,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+202312,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+202412,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+202512,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+202609,25,Paraíba,N3,Café canéfora,area_colhida_ha,
+201612,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+201712,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+201812,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+201912,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+202012,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+202112,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+202212,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+202312,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+202412,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+202512,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+202609,26,Pernambuco,N3,Café canéfora,area_colhida_ha,
+201612,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+201712,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+201812,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+201912,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+202012,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+202112,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+202212,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+202312,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+202412,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+202512,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+202609,27,Alagoas,N3,Café canéfora,area_colhida_ha,
+201612,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+201712,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+201812,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+201912,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+202012,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+202112,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+202212,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+202312,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+202412,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+202512,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+202609,28,Sergipe,N3,Café canéfora,area_colhida_ha,
+201612,29,Bahia,N3,Café canéfora,area_colhida_ha,44177
+201712,29,Bahia,N3,Café canéfora,area_colhida_ha,49000
+201812,29,Bahia,N3,Café canéfora,area_colhida_ha,48000
+201912,29,Bahia,N3,Café canéfora,area_colhida_ha,38500
+202012,29,Bahia,N3,Café canéfora,area_colhida_ha,41500
+202112,29,Bahia,N3,Café canéfora,area_colhida_ha,40500
+202212,29,Bahia,N3,Café canéfora,area_colhida_ha,40500
+202312,29,Bahia,N3,Café canéfora,area_colhida_ha,48000
+202412,29,Bahia,N3,Café canéfora,area_colhida_ha,49000
+202512,29,Bahia,N3,Café canéfora,area_colhida_ha,48000
+202609,29,Bahia,N3,Café canéfora,area_colhida_ha,48600
+201612,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,12826
+201712,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,13767
+201812,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,9522
+201912,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,9114
+202012,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,9733
+202112,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,8515
+202212,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,9936
+202312,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,9078
+202412,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,10355
+202512,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,10473
+202609,31,Minas Gerais,N3,Café canéfora,area_colhida_ha,12541
+201612,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,274419
+201712,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,256919
+201812,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,256222
+201912,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,257900
+202012,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,261678
+202112,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,265002
+202212,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,273744
+202312,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,278136
+202412,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,286633
+202512,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,296147
+202609,32,Espírito Santo,N3,Café canéfora,area_colhida_ha,310614
+201612,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+201712,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+201812,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+201912,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+202012,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+202112,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+202212,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+202312,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+202412,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+202512,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+202609,33,Rio de Janeiro,N3,Café canéfora,area_colhida_ha,
+201612,35,São Paulo,N3,Café canéfora,area_colhida_ha,30
+201712,35,São Paulo,N3,Café canéfora,area_colhida_ha,25
+201812,35,São Paulo,N3,Café canéfora,area_colhida_ha,230
+201912,35,São Paulo,N3,Café canéfora,area_colhida_ha,243
+202012,35,São Paulo,N3,Café canéfora,area_colhida_ha,47
+202112,35,São Paulo,N3,Café canéfora,area_colhida_ha,47
+202212,35,São Paulo,N3,Café canéfora,area_colhida_ha,80
+202312,35,São Paulo,N3,Café canéfora,area_colhida_ha,80
+202412,35,São Paulo,N3,Café canéfora,area_colhida_ha,80
+202512,35,São Paulo,N3,Café canéfora,area_colhida_ha,101
+202609,35,São Paulo,N3,Café canéfora,area_colhida_ha,106
+201612,41,Paraná,N3,Café canéfora,area_colhida_ha,
+201712,41,Paraná,N3,Café canéfora,area_colhida_ha,
+201812,41,Paraná,N3,Café canéfora,area_colhida_ha,
+201912,41,Paraná,N3,Café canéfora,area_colhida_ha,
+202012,41,Paraná,N3,Café canéfora,area_colhida_ha,
+202112,41,Paraná,N3,Café canéfora,area_colhida_ha,
+202212,41,Paraná,N3,Café canéfora,area_colhida_ha,
+202312,41,Paraná,N3,Café canéfora,area_colhida_ha,
+202412,41,Paraná,N3,Café canéfora,area_colhida_ha,
+202512,41,Paraná,N3,Café canéfora,area_colhida_ha,
+202609,41,Paraná,N3,Café canéfora,area_colhida_ha,
+201612,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+201712,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+201812,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+201912,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+202012,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+202112,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+202212,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+202312,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+202412,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+202512,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+202609,42,Santa Catarina,N3,Café canéfora,area_colhida_ha,
+201612,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+201712,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+201812,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+201912,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+202012,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+202112,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+202212,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+202312,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+202412,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+202512,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+202609,43,Rio Grande do Sul,N3,Café canéfora,area_colhida_ha,
+201612,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+201712,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+201812,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+201912,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+202012,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+202112,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+202212,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+202312,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+202412,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+202512,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+202609,50,Mato Grosso do Sul,N3,Café canéfora,area_colhida_ha,
+201612,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,16229
+201712,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,15693
+201812,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,15395
+201912,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,12755
+202012,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,11697
+202112,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,11596
+202212,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,11799
+202312,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,12122
+202412,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,9480
+202512,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,9395
+202609,51,Mato Grosso,N3,Café canéfora,area_colhida_ha,8994
+201612,52,Goiás,N3,Café canéfora,area_colhida_ha,
+201712,52,Goiás,N3,Café canéfora,area_colhida_ha,
+201812,52,Goiás,N3,Café canéfora,area_colhida_ha,
+201912,52,Goiás,N3,Café canéfora,area_colhida_ha,
+202012,52,Goiás,N3,Café canéfora,area_colhida_ha,
+202112,52,Goiás,N3,Café canéfora,area_colhida_ha,
+202212,52,Goiás,N3,Café canéfora,area_colhida_ha,
+202312,52,Goiás,N3,Café canéfora,area_colhida_ha,
+202412,52,Goiás,N3,Café canéfora,area_colhida_ha,
+202512,52,Goiás,N3,Café canéfora,area_colhida_ha,
+202609,52,Goiás,N3,Café canéfora,area_colhida_ha,
+201612,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+201712,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+201812,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+201912,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+202012,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+202112,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+202212,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+202312,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+202412,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+202512,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
+202609,53,Distrito Federal,N3,Café canéfora,area_colhida_ha,
 201612,1,Brasil,N1,Cana-de-açúcar,area_colhida_ha,9589974
 201712,1,Brasil,N1,Cana-de-açúcar,area_colhida_ha,9289176
 201812,1,Brasil,N1,Cana-de-açúcar,area_colhida_ha,9230770
@@ -15707,311 +17247,3 @@ periodo,cod_local,local,nivel,cultura,variavel,valor
 202412,53,Distrito Federal,N3,Laranja,area_colhida_ha,64
 202512,53,Distrito Federal,N3,Laranja,area_colhida_ha,67
 202609,53,Distrito Federal,N3,Laranja,area_colhida_ha,67
-201612,1,Brasil,N1,Café,area_colhida_ha,2000670
-201712,1,Brasil,N1,Café,area_colhida_ha,
-201812,1,Brasil,N1,Café,area_colhida_ha,
-201912,1,Brasil,N1,Café,area_colhida_ha,
-202012,1,Brasil,N1,Café,area_colhida_ha,
-202112,1,Brasil,N1,Café,area_colhida_ha,
-202212,1,Brasil,N1,Café,area_colhida_ha,
-202312,1,Brasil,N1,Café,area_colhida_ha,
-202412,1,Brasil,N1,Café,area_colhida_ha,
-202512,1,Brasil,N1,Café,area_colhida_ha,
-202609,1,Brasil,N1,Café,area_colhida_ha,
-201612,11,Rondônia,N3,Café,area_colhida_ha,79317
-201712,11,Rondônia,N3,Café,area_colhida_ha,
-201812,11,Rondônia,N3,Café,area_colhida_ha,
-201912,11,Rondônia,N3,Café,area_colhida_ha,
-202012,11,Rondônia,N3,Café,area_colhida_ha,
-202112,11,Rondônia,N3,Café,area_colhida_ha,
-202212,11,Rondônia,N3,Café,area_colhida_ha,
-202312,11,Rondônia,N3,Café,area_colhida_ha,
-202412,11,Rondônia,N3,Café,area_colhida_ha,
-202512,11,Rondônia,N3,Café,area_colhida_ha,
-202609,11,Rondônia,N3,Café,area_colhida_ha,
-201612,12,Acre,N3,Café,area_colhida_ha,1477
-201712,12,Acre,N3,Café,area_colhida_ha,
-201812,12,Acre,N3,Café,area_colhida_ha,
-201912,12,Acre,N3,Café,area_colhida_ha,
-202012,12,Acre,N3,Café,area_colhida_ha,
-202112,12,Acre,N3,Café,area_colhida_ha,
-202212,12,Acre,N3,Café,area_colhida_ha,
-202312,12,Acre,N3,Café,area_colhida_ha,
-202412,12,Acre,N3,Café,area_colhida_ha,
-202512,12,Acre,N3,Café,area_colhida_ha,
-202609,12,Acre,N3,Café,area_colhida_ha,
-201612,13,Amazonas,N3,Café,area_colhida_ha,4000
-201712,13,Amazonas,N3,Café,area_colhida_ha,
-201812,13,Amazonas,N3,Café,area_colhida_ha,
-201912,13,Amazonas,N3,Café,area_colhida_ha,
-202012,13,Amazonas,N3,Café,area_colhida_ha,
-202112,13,Amazonas,N3,Café,area_colhida_ha,
-202212,13,Amazonas,N3,Café,area_colhida_ha,
-202312,13,Amazonas,N3,Café,area_colhida_ha,
-202412,13,Amazonas,N3,Café,area_colhida_ha,
-202512,13,Amazonas,N3,Café,area_colhida_ha,
-202609,13,Amazonas,N3,Café,area_colhida_ha,
-201612,14,Roraima,N3,Café,area_colhida_ha,
-201712,14,Roraima,N3,Café,area_colhida_ha,
-201812,14,Roraima,N3,Café,area_colhida_ha,
-201912,14,Roraima,N3,Café,area_colhida_ha,
-202012,14,Roraima,N3,Café,area_colhida_ha,
-202112,14,Roraima,N3,Café,area_colhida_ha,
-202212,14,Roraima,N3,Café,area_colhida_ha,
-202312,14,Roraima,N3,Café,area_colhida_ha,
-202412,14,Roraima,N3,Café,area_colhida_ha,
-202512,14,Roraima,N3,Café,area_colhida_ha,
-202609,14,Roraima,N3,Café,area_colhida_ha,
-201612,15,Pará,N3,Café,area_colhida_ha,502
-201712,15,Pará,N3,Café,area_colhida_ha,
-201812,15,Pará,N3,Café,area_colhida_ha,
-201912,15,Pará,N3,Café,area_colhida_ha,
-202012,15,Pará,N3,Café,area_colhida_ha,
-202112,15,Pará,N3,Café,area_colhida_ha,
-202212,15,Pará,N3,Café,area_colhida_ha,
-202312,15,Pará,N3,Café,area_colhida_ha,
-202412,15,Pará,N3,Café,area_colhida_ha,
-202512,15,Pará,N3,Café,area_colhida_ha,
-202609,15,Pará,N3,Café,area_colhida_ha,
-201612,16,Amapá,N3,Café,area_colhida_ha,
-201712,16,Amapá,N3,Café,area_colhida_ha,
-201812,16,Amapá,N3,Café,area_colhida_ha,
-201912,16,Amapá,N3,Café,area_colhida_ha,
-202012,16,Amapá,N3,Café,area_colhida_ha,
-202112,16,Amapá,N3,Café,area_colhida_ha,
-202212,16,Amapá,N3,Café,area_colhida_ha,
-202312,16,Amapá,N3,Café,area_colhida_ha,
-202412,16,Amapá,N3,Café,area_colhida_ha,
-202512,16,Amapá,N3,Café,area_colhida_ha,
-202609,16,Amapá,N3,Café,area_colhida_ha,
-201612,17,Tocantins,N3,Café,area_colhida_ha,
-201712,17,Tocantins,N3,Café,area_colhida_ha,
-201812,17,Tocantins,N3,Café,area_colhida_ha,
-201912,17,Tocantins,N3,Café,area_colhida_ha,
-202012,17,Tocantins,N3,Café,area_colhida_ha,
-202112,17,Tocantins,N3,Café,area_colhida_ha,
-202212,17,Tocantins,N3,Café,area_colhida_ha,
-202312,17,Tocantins,N3,Café,area_colhida_ha,
-202412,17,Tocantins,N3,Café,area_colhida_ha,
-202512,17,Tocantins,N3,Café,area_colhida_ha,
-202609,17,Tocantins,N3,Café,area_colhida_ha,
-201612,21,Maranhão,N3,Café,area_colhida_ha,
-201712,21,Maranhão,N3,Café,area_colhida_ha,
-201812,21,Maranhão,N3,Café,area_colhida_ha,
-201912,21,Maranhão,N3,Café,area_colhida_ha,
-202012,21,Maranhão,N3,Café,area_colhida_ha,
-202112,21,Maranhão,N3,Café,area_colhida_ha,
-202212,21,Maranhão,N3,Café,area_colhida_ha,
-202312,21,Maranhão,N3,Café,area_colhida_ha,
-202412,21,Maranhão,N3,Café,area_colhida_ha,
-202512,21,Maranhão,N3,Café,area_colhida_ha,
-202609,21,Maranhão,N3,Café,area_colhida_ha,
-201612,22,Piauí,N3,Café,area_colhida_ha,
-201712,22,Piauí,N3,Café,area_colhida_ha,
-201812,22,Piauí,N3,Café,area_colhida_ha,
-201912,22,Piauí,N3,Café,area_colhida_ha,
-202012,22,Piauí,N3,Café,area_colhida_ha,
-202112,22,Piauí,N3,Café,area_colhida_ha,
-202212,22,Piauí,N3,Café,area_colhida_ha,
-202312,22,Piauí,N3,Café,area_colhida_ha,
-202412,22,Piauí,N3,Café,area_colhida_ha,
-202512,22,Piauí,N3,Café,area_colhida_ha,
-202609,22,Piauí,N3,Café,area_colhida_ha,
-201612,23,Ceará,N3,Café,area_colhida_ha,3391
-201712,23,Ceará,N3,Café,area_colhida_ha,
-201812,23,Ceará,N3,Café,area_colhida_ha,
-201912,23,Ceará,N3,Café,area_colhida_ha,
-202012,23,Ceará,N3,Café,area_colhida_ha,
-202112,23,Ceará,N3,Café,area_colhida_ha,
-202212,23,Ceará,N3,Café,area_colhida_ha,
-202312,23,Ceará,N3,Café,area_colhida_ha,
-202412,23,Ceará,N3,Café,area_colhida_ha,
-202512,23,Ceará,N3,Café,area_colhida_ha,
-202609,23,Ceará,N3,Café,area_colhida_ha,
-201612,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-201712,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-201812,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-201912,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-202012,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-202112,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-202212,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-202312,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-202412,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-202512,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-202609,24,Rio Grande do Norte,N3,Café,area_colhida_ha,
-201612,25,Paraíba,N3,Café,area_colhida_ha,
-201712,25,Paraíba,N3,Café,area_colhida_ha,
-201812,25,Paraíba,N3,Café,area_colhida_ha,
-201912,25,Paraíba,N3,Café,area_colhida_ha,
-202012,25,Paraíba,N3,Café,area_colhida_ha,
-202112,25,Paraíba,N3,Café,area_colhida_ha,
-202212,25,Paraíba,N3,Café,area_colhida_ha,
-202312,25,Paraíba,N3,Café,area_colhida_ha,
-202412,25,Paraíba,N3,Café,area_colhida_ha,
-202512,25,Paraíba,N3,Café,area_colhida_ha,
-202609,25,Paraíba,N3,Café,area_colhida_ha,
-201612,26,Pernambuco,N3,Café,area_colhida_ha,650
-201712,26,Pernambuco,N3,Café,area_colhida_ha,
-201812,26,Pernambuco,N3,Café,area_colhida_ha,
-201912,26,Pernambuco,N3,Café,area_colhida_ha,
-202012,26,Pernambuco,N3,Café,area_colhida_ha,
-202112,26,Pernambuco,N3,Café,area_colhida_ha,
-202212,26,Pernambuco,N3,Café,area_colhida_ha,
-202312,26,Pernambuco,N3,Café,area_colhida_ha,
-202412,26,Pernambuco,N3,Café,area_colhida_ha,
-202512,26,Pernambuco,N3,Café,area_colhida_ha,
-202609,26,Pernambuco,N3,Café,area_colhida_ha,
-201612,27,Alagoas,N3,Café,area_colhida_ha,
-201712,27,Alagoas,N3,Café,area_colhida_ha,
-201812,27,Alagoas,N3,Café,area_colhida_ha,
-201912,27,Alagoas,N3,Café,area_colhida_ha,
-202012,27,Alagoas,N3,Café,area_colhida_ha,
-202112,27,Alagoas,N3,Café,area_colhida_ha,
-202212,27,Alagoas,N3,Café,area_colhida_ha,
-202312,27,Alagoas,N3,Café,area_colhida_ha,
-202412,27,Alagoas,N3,Café,area_colhida_ha,
-202512,27,Alagoas,N3,Café,area_colhida_ha,
-202609,27,Alagoas,N3,Café,area_colhida_ha,
-201612,28,Sergipe,N3,Café,area_colhida_ha,
-201712,28,Sergipe,N3,Café,area_colhida_ha,
-201812,28,Sergipe,N3,Café,area_colhida_ha,
-201912,28,Sergipe,N3,Café,area_colhida_ha,
-202012,28,Sergipe,N3,Café,area_colhida_ha,
-202112,28,Sergipe,N3,Café,area_colhida_ha,
-202212,28,Sergipe,N3,Café,area_colhida_ha,
-202312,28,Sergipe,N3,Café,area_colhida_ha,
-202412,28,Sergipe,N3,Café,area_colhida_ha,
-202512,28,Sergipe,N3,Café,area_colhida_ha,
-202609,28,Sergipe,N3,Café,area_colhida_ha,
-201612,29,Bahia,N3,Café,area_colhida_ha,162177
-201712,29,Bahia,N3,Café,area_colhida_ha,
-201812,29,Bahia,N3,Café,area_colhida_ha,
-201912,29,Bahia,N3,Café,area_colhida_ha,
-202012,29,Bahia,N3,Café,area_colhida_ha,
-202112,29,Bahia,N3,Café,area_colhida_ha,
-202212,29,Bahia,N3,Café,area_colhida_ha,
-202312,29,Bahia,N3,Café,area_colhida_ha,
-202412,29,Bahia,N3,Café,area_colhida_ha,
-202512,29,Bahia,N3,Café,area_colhida_ha,
-202609,29,Bahia,N3,Café,area_colhida_ha,
-201612,31,Minas Gerais,N3,Café,area_colhida_ha,1042409
-201712,31,Minas Gerais,N3,Café,area_colhida_ha,
-201812,31,Minas Gerais,N3,Café,area_colhida_ha,
-201912,31,Minas Gerais,N3,Café,area_colhida_ha,
-202012,31,Minas Gerais,N3,Café,area_colhida_ha,
-202112,31,Minas Gerais,N3,Café,area_colhida_ha,
-202212,31,Minas Gerais,N3,Café,area_colhida_ha,
-202312,31,Minas Gerais,N3,Café,area_colhida_ha,
-202412,31,Minas Gerais,N3,Café,area_colhida_ha,
-202512,31,Minas Gerais,N3,Café,area_colhida_ha,
-202609,31,Minas Gerais,N3,Café,area_colhida_ha,
-201612,32,Espírito Santo,N3,Café,area_colhida_ha,423285
-201712,32,Espírito Santo,N3,Café,area_colhida_ha,
-201812,32,Espírito Santo,N3,Café,area_colhida_ha,
-201912,32,Espírito Santo,N3,Café,area_colhida_ha,
-202012,32,Espírito Santo,N3,Café,area_colhida_ha,
-202112,32,Espírito Santo,N3,Café,area_colhida_ha,
-202212,32,Espírito Santo,N3,Café,area_colhida_ha,
-202312,32,Espírito Santo,N3,Café,area_colhida_ha,
-202412,32,Espírito Santo,N3,Café,area_colhida_ha,
-202512,32,Espírito Santo,N3,Café,area_colhida_ha,
-202609,32,Espírito Santo,N3,Café,area_colhida_ha,
-201612,33,Rio de Janeiro,N3,Café,area_colhida_ha,12629
-201712,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-201812,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-201912,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-202012,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-202112,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-202212,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-202312,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-202412,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-202512,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-202609,33,Rio de Janeiro,N3,Café,area_colhida_ha,
-201612,35,São Paulo,N3,Café,area_colhida_ha,201051
-201712,35,São Paulo,N3,Café,area_colhida_ha,
-201812,35,São Paulo,N3,Café,area_colhida_ha,
-201912,35,São Paulo,N3,Café,area_colhida_ha,
-202012,35,São Paulo,N3,Café,area_colhida_ha,
-202112,35,São Paulo,N3,Café,area_colhida_ha,
-202212,35,São Paulo,N3,Café,area_colhida_ha,
-202312,35,São Paulo,N3,Café,area_colhida_ha,
-202412,35,São Paulo,N3,Café,area_colhida_ha,
-202512,35,São Paulo,N3,Café,area_colhida_ha,
-202609,35,São Paulo,N3,Café,area_colhida_ha,
-201612,41,Paraná,N3,Café,area_colhida_ha,46160
-201712,41,Paraná,N3,Café,area_colhida_ha,
-201812,41,Paraná,N3,Café,area_colhida_ha,
-201912,41,Paraná,N3,Café,area_colhida_ha,
-202012,41,Paraná,N3,Café,area_colhida_ha,
-202112,41,Paraná,N3,Café,area_colhida_ha,
-202212,41,Paraná,N3,Café,area_colhida_ha,
-202312,41,Paraná,N3,Café,area_colhida_ha,
-202412,41,Paraná,N3,Café,area_colhida_ha,
-202512,41,Paraná,N3,Café,area_colhida_ha,
-202609,41,Paraná,N3,Café,area_colhida_ha,
-201612,42,Santa Catarina,N3,Café,area_colhida_ha,
-201712,42,Santa Catarina,N3,Café,area_colhida_ha,
-201812,42,Santa Catarina,N3,Café,area_colhida_ha,
-201912,42,Santa Catarina,N3,Café,area_colhida_ha,
-202012,42,Santa Catarina,N3,Café,area_colhida_ha,
-202112,42,Santa Catarina,N3,Café,area_colhida_ha,
-202212,42,Santa Catarina,N3,Café,area_colhida_ha,
-202312,42,Santa Catarina,N3,Café,area_colhida_ha,
-202412,42,Santa Catarina,N3,Café,area_colhida_ha,
-202512,42,Santa Catarina,N3,Café,area_colhida_ha,
-202609,42,Santa Catarina,N3,Café,area_colhida_ha,
-201612,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-201712,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-201812,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-201912,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-202012,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-202112,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-202212,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-202312,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-202412,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-202512,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-202609,43,Rio Grande do Sul,N3,Café,area_colhida_ha,
-201612,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,487
-201712,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-201812,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-201912,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-202012,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-202112,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-202212,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-202312,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-202412,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-202512,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-202609,50,Mato Grosso do Sul,N3,Café,area_colhida_ha,
-201612,51,Mato Grosso,N3,Café,area_colhida_ha,16312
-201712,51,Mato Grosso,N3,Café,area_colhida_ha,
-201812,51,Mato Grosso,N3,Café,area_colhida_ha,
-201912,51,Mato Grosso,N3,Café,area_colhida_ha,
-202012,51,Mato Grosso,N3,Café,area_colhida_ha,
-202112,51,Mato Grosso,N3,Café,area_colhida_ha,
-202212,51,Mato Grosso,N3,Café,area_colhida_ha,
-202312,51,Mato Grosso,N3,Café,area_colhida_ha,
-202412,51,Mato Grosso,N3,Café,area_colhida_ha,
-202512,51,Mato Grosso,N3,Café,area_colhida_ha,
-202609,51,Mato Grosso,N3,Café,area_colhida_ha,
-201612,52,Goiás,N3,Café,area_colhida_ha,6254
-201712,52,Goiás,N3,Café,area_colhida_ha,
-201812,52,Goiás,N3,Café,area_colhida_ha,
-201912,52,Goiás,N3,Café,area_colhida_ha,
-202012,52,Goiás,N3,Café,area_colhida_ha,
-202112,52,Goiás,N3,Café,area_colhida_ha,
-202212,52,Goiás,N3,Café,area_colhida_ha,
-202312,52,Goiás,N3,Café,area_colhida_ha,
-202412,52,Goiás,N3,Café,area_colhida_ha,
-202512,52,Goiás,N3,Café,area_colhida_ha,
-202609,52,Goiás,N3,Café,area_colhida_ha,
-201612,53,Distrito Federal,N3,Café,area_colhida_ha,569
-201712,53,Distrito Federal,N3,Café,area_colhida_ha,
-201812,53,Distrito Federal,N3,Café,area_colhida_ha,
-201912,53,Distrito Federal,N3,Café,area_colhida_ha,
-202012,53,Distrito Federal,N3,Café,area_colhida_ha,
-202112,53,Distrito Federal,N3,Café,area_colhida_ha,
-202212,53,Distrito Federal,N3,Café,area_colhida_ha,
-202312,53,Distrito Federal,N3,Café,area_colhida_ha,
-202412,53,Distrito Federal,N3,Café,area_colhida_ha,
-202512,53,Distrito Federal,N3,Café,area_colhida_ha,
-202609,53,Distrito Federal,N3,Café,area_colhida_ha,
