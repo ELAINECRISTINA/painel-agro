@@ -38,7 +38,8 @@ CULTURAS_LSPA = {
     39437: "Feijão 2ª safra",
     39438: "Feijão 3ª safra",
     39445: "Trigo",
-    40527: "Café",
+    39454: "Café arábica",
+    39455: "Café canéfora",
     39456: "Cana-de-açúcar",
     39463: "Laranja",
 }
@@ -62,17 +63,31 @@ _SESSAO = requests.Session()
 _SESSAO.headers.update({"User-Agent": "painel-agro (github.com/ELAINECRISTINA/painel-agro)"})
 
 
-def _get(url: str, params: dict | None = None, tentativas: int = 3, timeout: int = 30):
+# As APIs do IBGE costumam recusar conexões de fora do Brasil. O app (que pode
+# rodar em servidores no exterior) usa tentativas rápidas e cai no snapshot;
+# o script de atualização, rodado de uma máquina no Brasil, usa o modo paciente.
+TENTATIVAS = 3
+TIMEOUT = (10, 60)  # (conexão, leitura) em segundos
+
+
+def modo_rapido() -> None:
+    """Uma única tentativa com timeout curto de conexão."""
+    global TENTATIVAS, TIMEOUT
+    TENTATIVAS, TIMEOUT = 1, (5, 30)
+
+
+def _get(url: str, params: dict | None = None):
     """GET com novas tentativas e espera progressiva."""
     ultimo_erro = None
-    for i in range(tentativas):
+    for i in range(TENTATIVAS):
         try:
-            resp = _SESSAO.get(url, params=params, timeout=timeout)
+            resp = _SESSAO.get(url, params=params, timeout=TIMEOUT)
             resp.raise_for_status()
             return resp.json()
         except (requests.RequestException, ValueError) as erro:
             ultimo_erro = erro
-            time.sleep(2 ** i)
+            if i < TENTATIVAS - 1:
+                time.sleep(2 ** i)
     raise ConnectionError(f"Falha ao acessar {url}: {ultimo_erro}")
 
 

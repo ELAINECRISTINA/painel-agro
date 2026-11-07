@@ -1,8 +1,11 @@
 """Carregamento com cache e plano B.
 
 Ordem de tentativa para cada base:
-1. API pública ao vivo (IBGE / BCB);
-2. snapshot salvo em data/ (atualizado semanalmente pelo GitHub Actions).
+1. API pública ao vivo (IBGE / BCB), com tentativa rápida;
+2. snapshot salvo em data/ (gerado por scripts/atualizar_dados.py).
+
+As APIs do IBGE costumam bloquear acessos de fora do Brasil, e servidores como o
+Streamlit Community Cloud ficam no exterior. Por isso o snapshot é essencial.
 """
 from __future__ import annotations
 
@@ -17,6 +20,8 @@ from src import fontes
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 CACHE_TTL = 6 * 60 * 60  # 6 horas
+
+fontes.modo_rapido()
 
 
 def _snapshot_info() -> str:

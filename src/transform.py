@@ -13,6 +13,8 @@ SOMAVEIS = ["producao_t", "area_plantada_ha", "area_colhida_ha"]
 TOTAIS = {
     "Milho (total)": ["Milho 1ª safra", "Milho 2ª safra"],
     "Feijão (total)": ["Feijão 1ª safra", "Feijão 2ª safra", "Feijão 3ª safra"],
+    # A categoria "Café total" do IBGE só existe até 2016; somamos as duas espécies
+    "Café (total)": ["Café arábica", "Café canéfora"],
 }
 # Componentes que não aparecem nos filtros (ficam só no total)
 OCULTAS = ["Feijão 1ª safra", "Feijão 2ª safra", "Feijão 3ª safra"]
