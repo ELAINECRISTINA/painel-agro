@@ -2,7 +2,7 @@
 
 **Dashboard interativo com a safra brasileira por cultura e estado e os indicadores macroeconômicos que movem o agro, alimentado por APIs públicas e atualizado automaticamente.**
 
-🔗 **Demo online:** _em breve_
+🔗 **Demo online:** [painel-agro.streamlit.app](https://painel-agro.streamlit.app/)
 
 ---
 
