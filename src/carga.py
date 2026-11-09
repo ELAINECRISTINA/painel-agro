@@ -12,6 +12,7 @@ from __future__ import annotations
 import json
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 import streamlit as st
@@ -20,6 +21,7 @@ from src import fontes
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 CACHE_TTL = 6 * 60 * 60  # 6 horas
+FUSO = ZoneInfo("America/Sao_Paulo")  # o servidor do Streamlit Cloud roda em UTC
 
 fontes.modo_rapido()
 
@@ -32,7 +34,7 @@ def _snapshot_info() -> str:
 @st.cache_data(ttl=CACHE_TTL, show_spinner="Buscando a safra no IBGE…")
 def carregar_lspa() -> tuple[pd.DataFrame, str]:
     try:
-        return fontes.baixar_lspa(), f"API IBGE ao vivo · {datetime.now():%d/%m/%Y %H:%M}"
+        return fontes.baixar_lspa(), f"API IBGE ao vivo · {datetime.now(FUSO):%d/%m/%Y %H:%M}"
     except Exception:
         arquivo = DATA_DIR / "lspa.csv"
         if not arquivo.exists():
@@ -44,7 +46,7 @@ def carregar_lspa() -> tuple[pd.DataFrame, str]:
 @st.cache_data(ttl=CACHE_TTL, show_spinner="Buscando indicadores no Banco Central…")
 def carregar_macro() -> tuple[pd.DataFrame, str]:
     try:
-        return fontes.baixar_macro(), f"API BCB ao vivo · {datetime.now():%d/%m/%Y %H:%M}"
+        return fontes.baixar_macro(), f"API BCB ao vivo · {datetime.now(FUSO):%d/%m/%Y %H:%M}"
     except Exception:
         arquivo = DATA_DIR / "macro.csv"
         if not arquivo.exists():
